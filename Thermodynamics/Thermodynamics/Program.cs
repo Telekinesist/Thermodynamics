@@ -8,7 +8,22 @@ namespace Thermodynamics
 	{
 		static void Main(string[] args)
 		{
-			Delta.delta();
+			Console.OutputEncoding = System.Text.Encoding.Unicode;
+			string input = "";
+			while (!input.Equals("exit"))
+			{
+				explain();
+				input = Console.ReadLine().ToLower();
+				if (input.Equals("change"))
+				{
+					Delta.delta();
+				}
+			}
+		}
+
+		static void explain()
+		{
+			Console.WriteLine("Choose between: Molar standart change, ");
 		}
 	}
 }

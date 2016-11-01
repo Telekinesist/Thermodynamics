@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data.cs" />
     <Compile Include="Delta.cs" />
     <Compile Include="Element.cs" />
     <Compile Include="Program.cs" />

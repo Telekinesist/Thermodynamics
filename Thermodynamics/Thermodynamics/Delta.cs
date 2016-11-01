@@ -34,9 +34,9 @@ namespace Thermodynamics
 			Console.WriteLine(line + "\n");
 
 			//Takes user input
-			input = Console.ReadLine();
+			input = Console.ReadLine().ToLower();
 
-			while (!input.ToLower().Equals("exit"))
+			while (!input.Equals("exit") || !input.Equals("back"))
 			{
 				//resets everything
 				index = 0;
@@ -400,10 +400,12 @@ namespace Thermodynamics
 					Console.WriteLine("delta_S=" + deltS + "J/Mol*K");
 					Console.WriteLine(line);
 
-
+					Data.deltaG = deltG;
+					Data.deltaH = deltH;
+					Data.deltaS = deltS;
 
 				}
-				input = Console.ReadLine();
+				input = Console.ReadLine().ToLower();
 			}
 		}
 	}
