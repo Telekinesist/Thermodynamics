@@ -35,12 +35,16 @@
 			this.textBox3 = new System.Windows.Forms.TextBox();
 			this.textBox4 = new System.Windows.Forms.TextBox();
 			this.textBox5 = new System.Windows.Forms.TextBox();
+			this.FormulaBox = new System.Windows.Forms.TextBox();
+			this.GOButton = new System.Windows.Forms.Button();
+			this.Output = new System.Windows.Forms.TextBox();
 			this.SuspendLayout();
 			// 
 			// DeltaName
 			// 
+			this.DeltaName.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.DeltaName.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.DeltaName.Location = new System.Drawing.Point(677, 12);
+			this.DeltaName.Location = new System.Drawing.Point(940, 12);
 			this.DeltaName.Multiline = true;
 			this.DeltaName.Name = "DeltaName";
 			this.DeltaName.ReadOnly = true;
@@ -51,8 +55,9 @@
 			// 
 			// Units
 			// 
+			this.Units.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.Units.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.Units.Location = new System.Drawing.Point(781, 12);
+			this.Units.Location = new System.Drawing.Point(1044, 12);
 			this.Units.Margin = new System.Windows.Forms.Padding(3, 0, 3, 3);
 			this.Units.Multiline = true;
 			this.Units.Name = "Units";
@@ -63,8 +68,9 @@
 			// 
 			// DeltaH
 			// 
+			this.DeltaH.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.DeltaH.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.DeltaH.Location = new System.Drawing.Point(724, 13);
+			this.DeltaH.Location = new System.Drawing.Point(987, 13);
 			this.DeltaH.Margin = new System.Windows.Forms.Padding(0);
 			this.DeltaH.Name = "DeltaH";
 			this.DeltaH.ReadOnly = true;
@@ -74,8 +80,9 @@
 			// 
 			// textBox1
 			// 
+			this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox1.Location = new System.Drawing.Point(724, 26);
+			this.textBox1.Location = new System.Drawing.Point(987, 26);
 			this.textBox1.Margin = new System.Windows.Forms.Padding(0);
 			this.textBox1.Name = "textBox1";
 			this.textBox1.ReadOnly = true;
@@ -85,8 +92,9 @@
 			// 
 			// textBox3
 			// 
+			this.textBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox3.Location = new System.Drawing.Point(724, 39);
+			this.textBox3.Location = new System.Drawing.Point(987, 39);
 			this.textBox3.Margin = new System.Windows.Forms.Padding(0);
 			this.textBox3.Name = "textBox3";
 			this.textBox3.ReadOnly = true;
@@ -96,8 +104,9 @@
 			// 
 			// textBox4
 			// 
+			this.textBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox4.Location = new System.Drawing.Point(724, 52);
+			this.textBox4.Location = new System.Drawing.Point(987, 52);
 			this.textBox4.Margin = new System.Windows.Forms.Padding(0);
 			this.textBox4.Name = "textBox4";
 			this.textBox4.ReadOnly = true;
@@ -107,8 +116,9 @@
 			// 
 			// textBox5
 			// 
+			this.textBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox5.Location = new System.Drawing.Point(724, 65);
+			this.textBox5.Location = new System.Drawing.Point(987, 65);
 			this.textBox5.Margin = new System.Windows.Forms.Padding(0);
 			this.textBox5.Name = "textBox5";
 			this.textBox5.ReadOnly = true;
@@ -116,11 +126,50 @@
 			this.textBox5.TabIndex = 7;
 			this.textBox5.Text = "Undefined";
 			// 
+			// FormulaBox
+			// 
+			this.FormulaBox.AcceptsReturn = true;
+			this.FormulaBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+			this.FormulaBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+			this.FormulaBox.Location = new System.Drawing.Point(12, 12);
+			this.FormulaBox.Name = "FormulaBox";
+			this.FormulaBox.Size = new System.Drawing.Size(841, 30);
+			this.FormulaBox.TabIndex = 8;
+			this.FormulaBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.FormulaBox_KeyPress);
+			// 
+			// GOButton
+			// 
+			this.GOButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.GOButton.Location = new System.Drawing.Point(859, 12);
+			this.GOButton.Name = "GOButton";
+			this.GOButton.Size = new System.Drawing.Size(75, 23);
+			this.GOButton.TabIndex = 9;
+			this.GOButton.Text = "GO";
+			this.GOButton.UseVisualStyleBackColor = true;
+			this.GOButton.Click += new System.EventHandler(this.GOButton_Click);
+			// 
+			// Output
+			// 
+			this.Output.AcceptsReturn = true;
+			this.Output.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+			this.Output.Location = new System.Drawing.Point(12, 86);
+			this.Output.Multiline = true;
+			this.Output.Name = "Output";
+			this.Output.ReadOnly = true;
+			this.Output.Size = new System.Drawing.Size(1086, 343);
+			this.Output.TabIndex = 10;
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(847, 358);
+			this.ClientSize = new System.Drawing.Size(1110, 441);
+			this.Controls.Add(this.Output);
+			this.Controls.Add(this.GOButton);
+			this.Controls.Add(this.FormulaBox);
 			this.Controls.Add(this.textBox5);
 			this.Controls.Add(this.textBox4);
 			this.Controls.Add(this.textBox3);
@@ -144,6 +193,9 @@
 		private System.Windows.Forms.TextBox textBox3;
 		private System.Windows.Forms.TextBox textBox4;
 		private System.Windows.Forms.TextBox textBox5;
+		private System.Windows.Forms.TextBox FormulaBox;
+		private System.Windows.Forms.Button GOButton;
+		public System.Windows.Forms.TextBox Output;
 	}
 }
 
