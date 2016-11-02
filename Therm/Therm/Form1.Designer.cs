@@ -31,10 +31,10 @@
 			this.DeltaName = new System.Windows.Forms.TextBox();
 			this.Units = new System.Windows.Forms.TextBox();
 			this.DeltaH = new System.Windows.Forms.TextBox();
-			this.textBox1 = new System.Windows.Forms.TextBox();
-			this.textBox3 = new System.Windows.Forms.TextBox();
-			this.textBox4 = new System.Windows.Forms.TextBox();
-			this.textBox5 = new System.Windows.Forms.TextBox();
+			this.DeltaS = new System.Windows.Forms.TextBox();
+			this.DeltaG = new System.Windows.Forms.TextBox();
+			this.DeltaGT = new System.Windows.Forms.TextBox();
+			this.Temp = new System.Windows.Forms.TextBox();
 			this.FormulaBox = new System.Windows.Forms.TextBox();
 			this.GOButton = new System.Windows.Forms.Button();
 			this.Output = new System.Windows.Forms.TextBox();
@@ -73,58 +73,53 @@
 			this.DeltaH.Location = new System.Drawing.Point(987, 13);
 			this.DeltaH.Margin = new System.Windows.Forms.Padding(0);
 			this.DeltaH.Name = "DeltaH";
-			this.DeltaH.ReadOnly = true;
 			this.DeltaH.Size = new System.Drawing.Size(54, 13);
 			this.DeltaH.TabIndex = 3;
 			this.DeltaH.Text = "Undefined";
 			// 
-			// textBox1
+			// DeltaS
 			// 
-			this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-			this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox1.Location = new System.Drawing.Point(987, 26);
-			this.textBox1.Margin = new System.Windows.Forms.Padding(0);
-			this.textBox1.Name = "textBox1";
-			this.textBox1.ReadOnly = true;
-			this.textBox1.Size = new System.Drawing.Size(54, 13);
-			this.textBox1.TabIndex = 4;
-			this.textBox1.Text = "Undefined";
+			this.DeltaS.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.DeltaS.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.DeltaS.Location = new System.Drawing.Point(987, 26);
+			this.DeltaS.Margin = new System.Windows.Forms.Padding(0);
+			this.DeltaS.Name = "DeltaS";
+			this.DeltaS.Size = new System.Drawing.Size(54, 13);
+			this.DeltaS.TabIndex = 4;
+			this.DeltaS.Text = "Undefined";
 			// 
-			// textBox3
+			// DeltaG
 			// 
-			this.textBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-			this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox3.Location = new System.Drawing.Point(987, 39);
-			this.textBox3.Margin = new System.Windows.Forms.Padding(0);
-			this.textBox3.Name = "textBox3";
-			this.textBox3.ReadOnly = true;
-			this.textBox3.Size = new System.Drawing.Size(54, 13);
-			this.textBox3.TabIndex = 5;
-			this.textBox3.Text = "Undefined";
+			this.DeltaG.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.DeltaG.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.DeltaG.Location = new System.Drawing.Point(987, 39);
+			this.DeltaG.Margin = new System.Windows.Forms.Padding(0);
+			this.DeltaG.Name = "DeltaG";
+			this.DeltaG.Size = new System.Drawing.Size(54, 13);
+			this.DeltaG.TabIndex = 5;
+			this.DeltaG.Text = "Undefined";
 			// 
-			// textBox4
+			// DeltaGT
 			// 
-			this.textBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-			this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox4.Location = new System.Drawing.Point(987, 52);
-			this.textBox4.Margin = new System.Windows.Forms.Padding(0);
-			this.textBox4.Name = "textBox4";
-			this.textBox4.ReadOnly = true;
-			this.textBox4.Size = new System.Drawing.Size(54, 13);
-			this.textBox4.TabIndex = 6;
-			this.textBox4.Text = "Undefined";
+			this.DeltaGT.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.DeltaGT.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.DeltaGT.Location = new System.Drawing.Point(987, 52);
+			this.DeltaGT.Margin = new System.Windows.Forms.Padding(0);
+			this.DeltaGT.Name = "DeltaGT";
+			this.DeltaGT.Size = new System.Drawing.Size(54, 13);
+			this.DeltaGT.TabIndex = 6;
+			this.DeltaGT.Text = "Undefined";
 			// 
-			// textBox5
+			// Temp
 			// 
-			this.textBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-			this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.textBox5.Location = new System.Drawing.Point(987, 65);
-			this.textBox5.Margin = new System.Windows.Forms.Padding(0);
-			this.textBox5.Name = "textBox5";
-			this.textBox5.ReadOnly = true;
-			this.textBox5.Size = new System.Drawing.Size(54, 13);
-			this.textBox5.TabIndex = 7;
-			this.textBox5.Text = "Undefined";
+			this.Temp.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.Temp.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.Temp.Location = new System.Drawing.Point(987, 65);
+			this.Temp.Margin = new System.Windows.Forms.Padding(0);
+			this.Temp.Name = "Temp";
+			this.Temp.Size = new System.Drawing.Size(54, 13);
+			this.Temp.TabIndex = 7;
+			this.Temp.Text = "Undefined";
 			// 
 			// FormulaBox
 			// 
@@ -159,6 +154,7 @@
 			this.Output.Multiline = true;
 			this.Output.Name = "Output";
 			this.Output.ReadOnly = true;
+			this.Output.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
 			this.Output.Size = new System.Drawing.Size(1086, 343);
 			this.Output.TabIndex = 10;
 			// 
@@ -170,10 +166,10 @@
 			this.Controls.Add(this.Output);
 			this.Controls.Add(this.GOButton);
 			this.Controls.Add(this.FormulaBox);
-			this.Controls.Add(this.textBox5);
-			this.Controls.Add(this.textBox4);
-			this.Controls.Add(this.textBox3);
-			this.Controls.Add(this.textBox1);
+			this.Controls.Add(this.Temp);
+			this.Controls.Add(this.DeltaGT);
+			this.Controls.Add(this.DeltaG);
+			this.Controls.Add(this.DeltaS);
 			this.Controls.Add(this.DeltaH);
 			this.Controls.Add(this.Units);
 			this.Controls.Add(this.DeltaName);
@@ -189,10 +185,10 @@
 		private System.Windows.Forms.TextBox DeltaName;
 		private System.Windows.Forms.TextBox Units;
 		private System.Windows.Forms.TextBox DeltaH;
-		private System.Windows.Forms.TextBox textBox1;
-		private System.Windows.Forms.TextBox textBox3;
-		private System.Windows.Forms.TextBox textBox4;
-		private System.Windows.Forms.TextBox textBox5;
+		private System.Windows.Forms.TextBox DeltaS;
+		private System.Windows.Forms.TextBox DeltaG;
+		private System.Windows.Forms.TextBox DeltaGT;
+		private System.Windows.Forms.TextBox Temp;
 		private System.Windows.Forms.TextBox FormulaBox;
 		private System.Windows.Forms.Button GOButton;
 		public System.Windows.Forms.TextBox Output;

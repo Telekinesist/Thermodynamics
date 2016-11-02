@@ -16,6 +16,7 @@ namespace Therm
 		{
 			InitializeComponent();
 			ThisForm = this;
+			Data.showInstructions();
 		}
 		public static Form1 ThisForm;
 
@@ -35,6 +36,26 @@ namespace Therm
 		public void write(string toCons)
 		{
 			Output.AppendText(toCons);
+		}
+		public void setH(double H) { DeltaH.Text = H.ToString(); }
+		public void setS(double H) { DeltaS.Text = H.ToString(); }
+		public void setG(double H) { DeltaG.Text = H.ToString(); }
+		public void setGT(double H) { DeltaGT.Text = H.ToString(); }
+		public void setTemp(double H) { Temp.Text = H.ToString(); }
+		public double getH()
+		{
+			while (true)
+			{
+				try
+				{
+					return double.Parse(DeltaH.Text);
+				}
+				catch (Exception)
+				{
+					write("DeltaH is not a number. Please specify\n");
+					return 0;
+				}
+			}
 		}
 	}
 }
