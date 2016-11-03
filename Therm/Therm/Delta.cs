@@ -75,30 +75,7 @@ namespace Therm
 			//CH_4 + 2O_2 -> 2H_2O + CO_2
 
 
-			if (input.ToLower().Equals("update"))
-			{
-				//Updates stored dodument with data online if possible
-				try
-				{
-					using (WebClient client = new WebClient())
-					{
-						System.IO.File.WriteAllText(@"..\Values.data", client.DownloadString("http://bilbo.chm.uri.edu/CHM112/tables/thermtable.htm"));
-					}
-					s = System.IO.File.ReadAllLines(@"..\Values.data");
-					foreach (string textLine in s)
-					{
-						Data.WriteLine(textLine);
-					}
-					Data.WriteLine("Got text online");
-					Data.WriteLine("Updated local data");
-
-				}
-				catch
-				{
-					Data.WriteLine("Unable to get data from web.");
-				}
-			}
-			else if (input.Length < 1 || input.Length.Equals(1))
+			if (input.Length < 1 || input.Length.Equals(1))
 			{
 				Data.WriteLine("That can't be right");
 			}
@@ -109,30 +86,36 @@ namespace Therm
 				/**
 			* Example code for debugging. Burning of methane
 			**/
-				/***elmnts.Add(new Element());
-				elmnts[stuff].search = "<p>CH<sub>4</sub>(<i>g</i>)";
+				
+
+				elmnts.Add(new Element());
+				elmnts[stuff].search = "<TD>CH<sub>4</sub></TD>";
+				elmnts[stuff].state = "(g";
 				elmnts[stuff].mult = 1;
 
 				elmnts.Add(new Element());
 				stuff++;
-				elmnts[stuff].search = "<p>O<sub>2</sub>(<i>g</i>)";
+				elmnts[stuff].search = "<TD>O<sub>2</sub></TD>";
+				elmnts[stuff].state = "(g";
 				elmnts[stuff].mult = 2;
 
 				arrowAt = 2;
 
 				elmnts.Add(new Element());
 				stuff++;
-				elmnts[stuff].search = "<p>H<sub>2</sub>O(<i>g</i>)";
+				elmnts[stuff].search = "<TD>H<sub>2</sub>O</TD>";
+				elmnts[stuff].state = "(g";
 				elmnts[stuff].mult = 2;
 
 				elmnts.Add(new Element());
 				stuff++;
-				elmnts[stuff].search = "<p>CO<sub>2</sub>(<i>g</i>)";
-				elmnts[stuff].mult = 1;*/
+				elmnts[stuff].search = "<TD>CO<sub>2</sub></TD>";
+				elmnts[stuff].state = "(g";
+				elmnts[stuff].mult = 1;
 
 
 
-				elmnts.Add(new Element());
+				/***elmnts.Add(new Element());
 				elmnts[stuff].search = "<p>";
 				while (index < input.Length)
 				{
@@ -230,15 +213,24 @@ namespace Therm
 					}
 
 					Data.WriteLine("Search for " + elmnts[stuff].search);
-				}
+				}*/
+
+
 
 				//Searches the data file and stores the relavent data in the Element objects.
 				foreach (Element element in elmnts)
 				{
 					index = 0;
-					while (index < s.Length && !s[index].Contains(element.search))
+					while (index < s.Length)
 					{
 						index++;
+						if (s[index].Contains(element.search))
+						{
+							if (s[index + 1].Contains(element.state))
+							{
+								break;
+							}
+						}
 					}
 					if (index.Equals(s.Length))
 					{
@@ -246,54 +238,37 @@ namespace Therm
 						element.notFound = true;
 						break;
 					}
-					Data.WriteLine(s[index]);
-					index += 3;
-					Data.WriteLine(s[index]);
 
+					//Displays the found result, and skips two lines (the molecule and state)
+					Data.WriteLine(s[index]);
+					Data.WriteLine(s[index + 1]);
+					index += 2;
 
-					if (s[index].Contains("&#150;"))
-					{
-						temp = s[index].Substring(30);
-						temp = temp.Replace("</p>", "").Replace(".", ",");
-						element.H = -1 * double.Parse(temp);
-					}
-					else
-					{
-						temp = s[index].Substring(24);
-						temp = temp.Replace("</p>", "").Replace(".", ",");
-						element.H = double.Parse(temp);
-					}
+					//Gets the molar enthalpy
+					temp = s[index];
+					temp = temp.Replace("\t", "").Replace("<TD>", "").Replace("</TD>", "").Replace(".", ",");
+					element.H = double.Parse(temp);
+
 					Data.WriteLine("H=" + element.H);
-					index += 3;
+					index++;
 
-					if (s[index].Contains("&#150;"))
-					{
-						temp = s[index].Substring(30);
-						temp = temp.Replace("</p>", "").Replace(".", ",");
-						element.G = -1 * double.Parse(temp);
-					}
-					else
-					{
-						temp = s[index].Substring(24);
-						temp = temp.Replace("</p>", "").Replace(".", ",");
-						element.G = double.Parse(temp);
-					}
-					Data.WriteLine("G=" + element.G);
-					index += 3;
 
-					if (s[index].Contains("&#150;"))
-					{
-						temp = s[index].Substring(30);
-						temp = temp.Replace("</p>", "").Replace(".", ",");
-						element.S = -1 * double.Parse(temp);
-					}
-					else
-					{
-						temp = s[index].Substring(24);
-						temp = temp.Replace("</p>", "").Replace(".", ",");
-						element.S = double.Parse(temp);
-					}
+					//Gets the molar entropy
+					temp = s[index];
+					temp = temp.Replace("\t", "").Replace("<TD>", "").Replace("</TD>", "").Replace(".", ",");
+					element.S = double.Parse(temp);
+
 					Data.WriteLine("S=" + element.S);
+					index++;
+
+
+					//Gets the molar gibbs energy
+					temp = s[index];
+					temp = temp.Replace("\t", "").Replace("<TD>", "").Replace("</TD>", "").Replace(".", ",");
+					element.G = double.Parse(temp);
+
+					Data.WriteLine("H=" + element.G);
+					index++;
 				}
 
 
