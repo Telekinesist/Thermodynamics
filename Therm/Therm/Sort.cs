@@ -38,32 +38,6 @@ namespace Therm
 
 		public static void createSearch(string input)
 		{
-			/**
-			 * Example code for debugging. Burning of methane
-			 **/
-			/***elmnts.Add(new Element());
-			elmnts[stuff].search = "<p>CH<sub>4</sub>(<i>g</i>)";
-			elmnts[stuff].mult = 1;
-
-			elmnts.Add(new Element());
-			stuff++;
-			elmnts[stuff].search = "<p>O<sub>2</sub>(<i>g</i>)";
-			elmnts[stuff].mult = 2;
-
-			arrowAt = 2;
-
-			elmnts.Add(new Element());
-			stuff++;
-			elmnts[stuff].search = "<p>H<sub>2</sub>O(<i>g</i>)";
-			elmnts[stuff].mult = 2;
-
-			elmnts.Add(new Element());
-			stuff++;
-			elmnts[stuff].search = "<p>CO<sub>2</sub>(<i>g</i>)";
-			elmnts[stuff].mult = 1;*/
-
-
-
 			elmnts.Add(new Element());
 			elmnts[stuff].search = "<p>";
 			while (index < input.Length)
@@ -151,8 +125,6 @@ namespace Therm
 			}
 
 		}
-
-
 
 		public static void calcDelta()
 		{

@@ -1,8 +1,70 @@
 <html>
 <head>
 <title>Thermodynamic quantities for substances and ions at 25 oC</title>
+<link rel="stylesheet" type="text/css" href="chm112style.css">
 </head>
 <body bgcolor="#ffffff">
+
+<table cellpadding="0" cellspacing="0" border="0" width="720" bgcolor="#efefef" align="Center">
+  <tbody>
+    <tr valign="Top">
+      <td valign="Top" width="80" align="Center"><a href="/CHM112/index.html"><font size=1>CHM112 Home Page</a></font></td>
+      <td valign="Top" width="80" align="Center"><a href="/CHM112/ReferenceMaterials.html"><font size=1>Reference Materials</a></font></td>
+      <td valign="Top" width="80" align="Center"><a href="/CHM112/HomeworkAssignments.html"><font size=1>Homework Assignments</a></font></td>
+      <td valign="Top" width="80" align="Center"><a href="/CHM112/Lectures.html"><font size=1>
+Lectures</a></font></td>
+      <td valign="Top" width="80" align="Center"><a href="/CHM112/Examslisting.html"><font size=1>Exams &amp; Quizzes</a></font></td>
+      <td valign="Top" width="80" align="Center"><a href="/CHM112/grades.html"><font size=1>Grades</a></font></td>
+      <td valign="Top" width="80" align="Center"><a href="/CHM112/StudyAids.html"><font size=1>
+Study Aids</a></font></td>
+      <td valign="Top" width="80" align="Center"><a href="http://www.uri.edu/"><font size=1>URI Home Page</font></a></td>
+    </tr>
+  
+  </tbody>
+</table>
+<br>
+<br>
+<h2>Thermodynamic Quantities for Substances and Ions at 25<sup>o</sup>C.</h2>
+<p><br>
+<br>
+</p>
+<div class="e">Inorganic Substances</div>
+<br>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <td width="25%" valign="bottom">      
+      <p><font size="4">Substance or Ion</font></p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center"><font size="4"><img src="BigDelta.gif" alt="&Delta;" align="Center">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" width="17" height="18" align="Center"><font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" valign="bottom">      
+      <p>e<sup>&#150;</sup>(<i>g</i>)</p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center">0</p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center">0</p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center">20.87</p>
+      </td>
+    </tr>
+  
+  </tbody>
+</table>
 <br>
 <p><font size="4">Aluminum</font></p>
 <table cellspacing="0" border="0" cellpadding="7" width="637">
@@ -12,15 +74,15 @@
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -42,13 +104,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Al<sup>3+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-531</p>
+      <p align="Center">&#150;531</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-485</p>
+      <p align="Center">&#150;485</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-321.7</p>
+      <p align="Center">&#150;321.7</p>
       </td>
     </tr>
     <tr>
@@ -56,10 +118,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>AlCl<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-705.6</p>
+      <p align="Center">&#150;705.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-630.1</p>
+      <p align="Center">&#150;630.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">109.3</p>
@@ -70,10 +132,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Al<sub>2</sub>Cl<sub>6</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-1291</p>
+      <p align="Center">&#150;1291</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-1221</p>
+      <p align="Center">&#150;1221</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">490</p>
@@ -84,10 +146,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>AlF<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1504</p>
+      <p align="Center">&#150;1504</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1425</p>
+      <p align="Center">&#150;1425</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">66.48</p>
@@ -95,14 +157,14 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Al<sub>2</sub>O<sub>3</sub>(a, <i>s</i>
+      <p>Al<sub>2</sub>O<sub>3</sub>(<img src="alpha.gif" align="center">, <i>s</i>
 )</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1676</p>
+      <p align="Center">&#150;1676</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1582</p>
+      <p align="Center">&#150;1582</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">50.94</p>
@@ -113,13 +175,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Al(OH)<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1276</p>
+      <p align="Center">&#150;1276</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-</p>
+      <p align="Center">&#150;</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-</p>
+      <p align="Center">&#150;</p>
       </td>
     </tr>
     <tr>
@@ -127,10 +189,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-3441</p>
+      <p align="Center">&#150;3441</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-3100</p>
+      <p align="Center">&#150;3100</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">239</p>
@@ -148,15 +210,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -178,10 +240,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ba<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-537.6</p>
+      <p align="Center">&#150;537.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-560.8</p>
+      <p align="Center">&#150;560.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">9.6</p>
@@ -234,10 +296,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BaCO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1216</p>
+      <p align="Center">&#150;1216</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1138</p>
+      <p align="Center">&#150;1138</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">112</p>
@@ -248,10 +310,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BaCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-858.1</p>
+      <p align="Center">&#150;858.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-810.4</p>
+      <p align="Center">&#150;810.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">123.7</p>
@@ -262,10 +324,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BaF<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1209</p>
+      <p align="Center">&#150;1209</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1159</p>
+      <p align="Center">&#150;1159</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">96.40</p>
@@ -276,10 +338,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BaO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-548.1</p>
+      <p align="Center">&#150;548.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-520.4</p>
+      <p align="Center">&#150;520.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">72.09</p>
@@ -290,10 +352,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ba(OH)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-946.0</p>
+      <p align="Center">&#150;946.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-859.4</p>
+      <p align="Center">&#150;859.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">107</p>
@@ -301,13 +363,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Ba(OH)<sub>2</sub>*8H<sub>2</sub>O(<i>s</i>)</p>
+      <p>Ba(OH)<sub>2</sub>&#149;8H<sub>2</sub>O(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-3342</p>
+      <p align="Center">&#150;3342</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-2793</p>
+      <p align="Center">&#150;2793</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">427</p>
@@ -318,10 +380,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BaSO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1473</p>
+      <p align="Center">&#150;1473</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1362</p>
+      <p align="Center">&#150;1362</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">132</p>
@@ -339,15 +401,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -369,10 +431,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BeCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-496.2</p>
+      <p align="Center">&#150;496.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-449.5</p>
+      <p align="Center">&#150;449.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">75.81</p>
@@ -383,10 +445,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BeF<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1027</p>
+      <p align="Center">&#150;1027</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-979.5</p>
+      <p align="Center">&#150;979.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">53.35</p>
@@ -397,10 +459,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BeO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-608.4</p>
+      <p align="Center">&#150;608.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-579.1</p>
+      <p align="Center">&#150;579.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">13.77</p>
@@ -419,15 +481,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -449,10 +511,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BiCl<sub>3</sub>(<i>s</i>)&nbsp;</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-379</p>
+      <p align="Center">&#150;379</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-315</p>
+      <p align="Center">&#150;315</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">177</p>
@@ -463,10 +525,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Bi<sub>2</sub>O<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-573.9</p>
+      <p align="Center">&#150;573.9</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-493.7</p>
+      <p align="Center">&#150;493.7</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">151</p>
@@ -484,15 +546,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -514,10 +576,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BCl<sub>3</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-427.2</p>
+      <p align="Center">&#150;427.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-387</p>
+      <p align="Center">&#150;387</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">206</p>
@@ -528,10 +590,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BF<sub>3</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1137</p>
+      <p align="Center">&#150;1137</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1120.3</p>
+      <p align="Center">&#150;1120.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">254.0</p>
@@ -556,10 +618,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>B<sub>2</sub>O<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1272</p>
+      <p align="Center">&#150;1272</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1193</p>
+      <p align="Center">&#150;1193</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">53.8</p>
@@ -577,15 +639,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -604,13 +666,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Br<sup>-</sup>(<i>aq</i>)</p>
+      <p>Br<sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-120.9</p>
+      <p align="Center">&#150;120.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-102.82</p>
+      <p align="Center">&#150;102.82</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">80.71</p>
@@ -618,10 +680,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Br<sup>-</sup>(<i>g</i>)</p>
+      <p>Br<sup>&#150;</sup>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-218.9</p>
+      <p align="Center">&#150;218.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p>&nbsp;</p>
@@ -666,7 +728,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p align="Center">14.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-0.96</p>
+      <p align="Center">&#150;0.96</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">240.0</p>
@@ -677,10 +739,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BrF<sub>3</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-255.6</p>
+      <p align="Center">&#150;255.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-229.5</p>
+      <p align="Center">&#150;229.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">292.4</p>
@@ -691,10 +753,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>BrF<sub>3</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-300.8</p>
+      <p align="Center">&#150;300.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-240.6</p>
+      <p align="Center">&#150;240.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">178.2</p>
@@ -705,10 +767,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HBr(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-36.40</p>
+      <p align="Center">&#150;36.40</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-53.43</p>
+      <p align="Center">&#150;53.43</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">198.6</p>
@@ -726,15 +788,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -770,13 +832,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Cd<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-75.90</p>
+      <p align="Center">&#150;75.90</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-77.61</p>
+      <p align="Center">&#150;77.61</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-73.2</p>
+      <p align="Center">&#150;73.2</p>
       </td>
     </tr>
     <tr>
@@ -784,10 +846,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CdCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td valign="Middle">      
-      <p align="Center">-391.5</p>
+      <p align="Center">&#150;391.5</p>
       </td>
       <td valign="Middle">      
-      <p align="Center">-344.0</p>
+      <p align="Center">&#150;344.0</p>
       </td>
       <td valign="Middle">      
       <p align="Center">115.3</p>
@@ -798,10 +860,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CdO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-258</p>
+      <p align="Center">&#150;258</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-228</p>
+      <p align="Center">&#150;228</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">54.8</p>
@@ -812,10 +874,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CdS(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-144</p>
+      <p align="Center">&#150;144</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-141</p>
+      <p align="Center">&#150;141</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">71</p>
@@ -833,15 +895,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -877,13 +939,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ca<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-542.96</p>
+      <p align="Center">&#150;542.96</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-553.04</p>
+      <p align="Center">&#150;553.04</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-55.2</p>
+      <p align="Center">&#150;55.2</p>
       </td>
     </tr>
     <tr>
@@ -915,10 +977,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CaBr<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-682.8</p>
+      <p align="Center">&#150;682.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-663.6</p>
+      <p align="Center">&#150;663.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">130.</p>
@@ -929,10 +991,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CaCO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1207</p>
+      <p align="Center">&#150;1207</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1128</p>
+      <p align="Center">&#150;1128</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">88.70</p>
@@ -943,10 +1005,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CaCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-795.8</p>
+      <p align="Center">&#150;795.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-748.1</p>
+      <p align="Center">&#150;748.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">105</p>
@@ -957,10 +1019,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CaF<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1220</p>
+      <p align="Center">&#150;1220</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1167</p>
+      <p align="Center">&#150;1167</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">68.87</p>
@@ -971,10 +1033,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CaH<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-186</p>
+      <p align="Center">&#150;186</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-147</p>
+      <p align="Center">&#150;147</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">42</p>
@@ -985,10 +1047,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ca(NO<sub>3</sub>)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-938.4</p>
+      <p align="Center">&#150;938.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-743.2</p>
+      <p align="Center">&#150;743.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">193</p>
@@ -999,10 +1061,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CaO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-635.1</p>
+      <p align="Center">&#150;635.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-604.0</p>
+      <p align="Center">&#150;604.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">39.75</p>
@@ -1013,10 +1075,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ca(OH)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-986.1</p>
+      <p align="Center">&#150;986.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-898.6</p>
+      <p align="Center">&#150;898.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">83.39</p>
@@ -1030,7 +1092,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p align="Center">&nbsp;</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-718.4</p>
+      <p align="Center">&#150;718.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">&nbsp;</p>
@@ -1041,10 +1103,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-4121</p>
+      <p align="Center">&#150;4121</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-3885</p>
+      <p align="Center">&#150;3885</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">236</p>
@@ -1055,10 +1117,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CaSO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1434</p>
+      <p align="Center">&#150;1434</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1322</p>
+      <p align="Center">&#150;1322</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">106.7</p>
@@ -1078,15 +1140,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -1136,10 +1198,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CCl<sub>4</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-102.9</p>
+      <p align="Center">&#150;102.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-60.63</p>
+      <p align="Center">&#150;60.63</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">309.7</p>
@@ -1150,10 +1212,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CCl<sub>4</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-135.4</p>
+      <p align="Center">&#150;135.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-65.27</p>
+      <p align="Center">&#150;65.27</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">216.2</p>
@@ -1175,7 +1237,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>CN<sup>-</sup>(<i>aq</i>)</p>
+      <p>CN<sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">151</p>
@@ -1234,10 +1296,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CO(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-110.5</p>
+      <p align="Center">&#150;110.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-137.2</p>
+      <p align="Center">&#150;137.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">197.6</p>
@@ -1248,10 +1310,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CO<sub>2</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-393.5</p>
+      <p align="Center">&#150;393.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-394.4</p>
+      <p align="Center">&#150;394.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">213.6</p>
@@ -1262,10 +1324,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CO<sub>2</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-412.9</p>
+      <p align="Center">&#150;412.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-386.2</p>
+      <p align="Center">&#150;386.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">121</p>
@@ -1273,27 +1335,27 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>CO<sub>3</sub><sup>2-</sup>(<i>aq</i>)</p>
+      <p>CO<sub>3</sub><sup>2&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-677.1</p>
+      <p align="Center">&#150;677.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-527.8</p>
+      <p align="Center">&#150;527.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-56.9</p>
+      <p align="Center">&#150;56.9</p>
       </td>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>HCO<sub>3</sub><sup>-</sup>(<i>aq</i>)</p>
+      <p>HCO<sub>3</sub><sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-691.11</p>
+      <p align="Center">&#150;691.11</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-587.06</p>
+      <p align="Center">&#150;587.06</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">95.0</p>
@@ -1304,10 +1366,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>CO<sub>3</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-698.7</p>
+      <p align="Center">&#150;698.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-623.42</p>
+      <p align="Center">&#150;623.42</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">191</p>
@@ -1318,10 +1380,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>3</sub>O<sub>2</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-93.72</p>
+      <p align="Center">&#150;93.72</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-109.8</p>
+      <p align="Center">&#150;109.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">276.4</p>
@@ -1332,10 +1394,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>3</sub>O<sub>2</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-117.3</p>
+      <p align="Center">&#150;117.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-105.0</p>
+      <p align="Center">&#150;105.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">181.1</p>
@@ -1346,10 +1408,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>COCl<sub>2</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-220.9</p>
+      <p align="Center">&#150;220.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-206.8</p>
+      <p align="Center">&#150;206.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">283.8</p>
@@ -1360,10 +1422,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>Cl(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-83.7</p>
+      <p align="Center">&#150;83.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-60.2</p>
+      <p align="Center">&#150;60.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">234</p>
@@ -1374,10 +1436,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>2</sub>Cl<sub>2</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-117</p>
+      <p align="Center">&#150;117</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-63.2</p>
+      <p align="Center">&#150;63.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">179</p>
@@ -1388,10 +1450,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CHCl<sub>3</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-132</p>
+      <p align="Center">&#150;132</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-71.5</p>
+      <p align="Center">&#150;71.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">203</p>
@@ -1402,10 +1464,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>COS(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-138.4</p>
+      <p align="Center">&#150;138.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-165.6</p>
+      <p align="Center">&#150;165.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">231.5</p>
@@ -1453,15 +1515,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -1483,10 +1545,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Cs<sup>+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-248</p>
+      <p align="Center">&#150;248</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-282.0</p>
+      <p align="Center">&#150;282.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">133</p>
@@ -1525,10 +1587,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CsF(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-554.7</p>
+      <p align="Center">&#150;554.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-525.4</p>
+      <p align="Center">&#150;525.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">88</p>
@@ -1539,10 +1601,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CsCl(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-442.8</p>
+      <p align="Center">&#150;442.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-414</p>
+      <p align="Center">&#150;414</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">101.18</p>
@@ -1553,10 +1615,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CsBr(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-395</p>
+      <p align="Center">&#150;395</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-383</p>
+      <p align="Center">&#150;383</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">121</p>
@@ -1567,10 +1629,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CsI(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-337</p>
+      <p align="Center">&#150;337</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-333</p>
+      <p align="Center">&#150;333</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">130</p>
@@ -1590,15 +1652,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -1617,13 +1679,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Cl<sup>-</sup>(<i>aq</i>)</p>
+      <p>Cl<sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-167.2</p>
+      <p align="Center">&#150;167.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-131.2</p>
+      <p align="Center">&#150;131.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">56.5</p>
@@ -1631,13 +1693,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Cl<sup>-</sup>(<i>g</i>)</p>
+      <p>Cl<sup>&#150;</sup>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-234</p>
+      <p align="Center">&#150;234</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-240</p>
+      <p align="Center">&#150;240</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">153.25</p>
@@ -1662,10 +1724,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>ClF<sub>3</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-163.2</p>
+      <p align="Center">&#150;163.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-123.0</p>
+      <p align="Center">&#150;123.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">281.5</p>
@@ -1704,10 +1766,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HCl(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-92.31</p>
+      <p align="Center">&#150;92.31</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-95.30</p>
+      <p align="Center">&#150;95.30</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">186.8</p>
@@ -1718,10 +1780,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HCl(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-167.2</p>
+      <p align="Center">&#150;167.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-131.3</p>
+      <p align="Center">&#150;131.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">56.48</p>
@@ -1739,15 +1801,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -1769,10 +1831,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CrCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-395.4</p>
+      <p align="Center">&#150;395.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-356.0</p>
+      <p align="Center">&#150;356.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">115.3</p>
@@ -1783,10 +1845,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CrCl<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-556.5</p>
+      <p align="Center">&#150;556.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-486.1</p>
+      <p align="Center">&#150;486.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">123.0</p>
@@ -1797,10 +1859,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Cr<sub>2</sub>O<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1135</p>
+      <p align="Center">&#150;1135</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1053</p>
+      <p align="Center">&#150;1053</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">81.17</p>
@@ -1808,13 +1870,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>CrO<sub>4</sub><sup>2-</sup>(<i>aq</i>)</p>
+      <p>CrO<sub>4</sub><sup>2&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-881.2</p>
+      <p align="Center">&#150;881.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-727.8</p>
+      <p align="Center">&#150;727.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">50.21</p>
@@ -1822,14 +1884,14 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="Middle">      
-      <p>Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(<i>aq</i>
+      <p>Cr<sub>2</sub>O<sub>7</sub><sup>2&#150;</sup>(<i>aq</i>
 )</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-1490.3</p>
+      <p align="Center">&#150;1490.3</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-1301.1</p>
+      <p align="Center">&#150;1301.1</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">261.9</p>
@@ -1840,7 +1902,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1971</p>
+      <p align="Center">&#150;1971</p>
       </td>
       <td width="25%" valign="bottom">      
       <p>&nbsp;</p>
@@ -1861,15 +1923,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -1891,13 +1953,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Co<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-67.4</p>
+      <p align="Center">&#150;67.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-51.5</p>
+      <p align="Center">&#150;51.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-155</p>
+      <p align="Center">&#150;155</p>
       </td>
     </tr>
     <tr>
@@ -1911,7 +1973,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p align="Center">134.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-305.0</p>
+      <p align="Center">&#150;305.0</p>
       </td>
     </tr>
     <tr>
@@ -1919,10 +1981,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CoO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-237.9</p>
+      <p align="Center">&#150;237.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-214.2</p>
+      <p align="Center">&#150;214.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">52.97</p>
@@ -1933,10 +1995,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Co<sub>3</sub>O<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-891.0</p>
+      <p align="Center">&#150;891.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-774.0</p>
+      <p align="Center">&#150;774.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">102.5</p>
@@ -1947,10 +2009,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Co(OH)<sub>2</sub>(<i>s, pink</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-539.7</p>
+      <p align="Center">&#150;539.7</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-454.4</p>
+      <p align="Center">&#150;454.4</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">79.0</p>
@@ -1961,10 +2023,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CoCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-312.5</p>
+      <p align="Center">&#150;312.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-269.8</p>
+      <p align="Center">&#150;269.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">109.2</p>
@@ -1984,15 +2046,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -2034,7 +2096,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p align="Center">50.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-26</p>
+      <p align="Center">&#150;26</p>
       </td>
     </tr>
     <tr>
@@ -2048,7 +2110,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p align="Center">65.49</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-99.6</p>
+      <p align="Center">&#150;99.6</p>
       </td>
     </tr>
     <tr>
@@ -2056,10 +2118,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CuCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-220.1</p>
+      <p align="Center">&#150;220.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-175.7</p>
+      <p align="Center">&#150;175.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">108.1</p>
@@ -2067,13 +2129,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>CuCO<sub>3</sub>*Cu(OH)<sub>2</sub>(<i>s</i>)</p>
+      <p>CuCO<sub>3</sub>&#149;Cu(OH)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1051</p>
+      <p align="Center">&#150;1051</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-893.7</p>
+      <p align="Center">&#150;893.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">186</p>
@@ -2084,10 +2146,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Cu<sub>2</sub>O(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-168.6</p>
+      <p align="Center">&#150;168.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-146.0</p>
+      <p align="Center">&#150;146.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">93.14</p>
@@ -2098,10 +2160,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CuO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-157.3</p>
+      <p align="Center">&#150;157.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-129.7</p>
+      <p align="Center">&#150;129.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">42.63</p>
@@ -2112,10 +2174,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Cu(OH)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-450.2</p>
+      <p align="Center">&#150;450.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-373</p>
+      <p align="Center">&#150;373</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">108</p>
@@ -2123,13 +2185,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>CuSO<sub>4</sub>*5H<sub>2</sub>O(<i>s</i>)</p>
+      <p>CuSO<sub>4</sub>&#149;5H<sub>2</sub>O(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-2279.6</p>
+      <p align="Center">&#150;2279.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1880.1</p>
+      <p align="Center">&#150;1880.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">300.4</p>
@@ -2147,15 +2209,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -2174,13 +2236,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>F<sup> -</sup>(<i>g</i>)</p>
+      <p>F<sup> &#150;</sup>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-255.6</p>
+      <p align="Center">&#150;255.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-262.5</p>
+      <p align="Center">&#150;262.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">145.47</p>
@@ -2188,16 +2250,16 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>F<sup> -</sup>(<i>aq</i>)</p>
+      <p>F<sup> &#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-332.6</p>
+      <p align="Center">&#150;332.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-278.8</p>
+      <p align="Center">&#150;278.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-13.8</p>
+      <p align="Center">&#150;13.8</p>
       </td>
     </tr>
     <tr>
@@ -2219,10 +2281,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HF(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-271.1</p>
+      <p align="Center">&#150;271.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-273.2</p>
+      <p align="Center">&#150;273.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">173.7</p>
@@ -2240,15 +2302,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -2277,15 +2339,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -2335,7 +2397,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>3</sub>O<sup>+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-285.8</p>
+      <p align="Center">&#150;285.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p>&nbsp;</p>
@@ -2363,10 +2425,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HBr(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-36.40</p>
+      <p align="Center">&#150;36.40</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-53.43</p>
+      <p align="Center">&#150;53.43</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">198.6</p>
@@ -2377,10 +2439,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HCl(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-92.31</p>
+      <p align="Center">&#150;92.31</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-95.30</p>
+      <p align="Center">&#150;95.30</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">186.8</p>
@@ -2391,10 +2453,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HCl(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-167.2</p>
+      <p align="Center">&#150;167.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-131.3</p>
+      <p align="Center">&#150;131.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">56.48</p>
@@ -2419,10 +2481,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HF(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-271.1</p>
+      <p align="Center">&#150;271.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-273.2</p>
+      <p align="Center">&#150;273.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">173.7</p>
@@ -2447,10 +2509,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HNO<sub>3</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-173.2</p>
+      <p align="Center">&#150;173.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-79.91</p>
+      <p align="Center">&#150;79.91</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">155.6</p>
@@ -2461,10 +2523,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HNO<sub>3</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-207.4</p>
+      <p align="Center">&#150;207.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-113.3</p>
+      <p align="Center">&#150;113.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">146.4</p>
@@ -2475,10 +2537,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>O(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-241.8</p>
+      <p align="Center">&#150;241.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-228.6</p>
+      <p align="Center">&#150;228.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">188.7</p>
@@ -2489,10 +2551,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>O(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-285.8</p>
+      <p align="Center">&#150;285.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-237.2</p>
+      <p align="Center">&#150;237.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">69.91</p>
@@ -2503,10 +2565,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>O<sub>2</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-136.1</p>
+      <p align="Center">&#150;136.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-105.5</p>
+      <p align="Center">&#150;105.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">232.9</p>
@@ -2517,10 +2579,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>O<sub>2</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-187.8</p>
+      <p align="Center">&#150;187.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-120.4</p>
+      <p align="Center">&#150;120.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">110</p>
@@ -2531,10 +2593,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>O<sub>2</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-191.2</p>
+      <p align="Center">&#150;191.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-134.1</p>
+      <p align="Center">&#150;134.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">144</p>
@@ -2545,10 +2607,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>S(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-20.63</p>
+      <p align="Center">&#150;20.63</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-33.56</p>
+      <p align="Center">&#150;33.56</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">205.7</p>
@@ -2559,10 +2621,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>SO<sub>4</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-814.0</p>
+      <p align="Center">&#150;814.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-690.1</p>
+      <p align="Center">&#150;690.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">156.9</p>
@@ -2573,10 +2635,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>SO<sub>4</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-909.3</p>
+      <p align="Center">&#150;909.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-744.6</p>
+      <p align="Center">&#150;744.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">20.08</p>
@@ -2596,15 +2658,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -2623,10 +2685,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>I<sup>-</sup>(<i>g</i>)</p>
+      <p>I<sup>&#150;</sup>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-194.7</p>
+      <p align="Center">&#150;194.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p>&nbsp;</p>
@@ -2637,13 +2699,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>I<sup>-</sup>(<i>aq</i>)</p>
+      <p>I<sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-55.19</p>
+      <p align="Center">&#150;55.19</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-51.57</p>
+      <p align="Center">&#150;51.57</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">111.3</p>
@@ -2699,7 +2761,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p align="Center">17.78</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-5.44</p>
+      <p align="Center">&#150;5.44</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">247.4</p>
@@ -2710,10 +2772,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>ICl(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-23.89</p>
+      <p align="Center">&#150;23.89</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-13.60</p>
+      <p align="Center">&#150;13.60</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">135.1</p>
@@ -2747,15 +2809,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -2791,13 +2853,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Fe<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-89.1</p>
+      <p align="Center">&#150;89.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-78.90</p>
+      <p align="Center">&#150;78.90</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-137.7</p>
+      <p align="Center">&#150;137.7</p>
       </td>
     </tr>
     <tr>
@@ -2805,13 +2867,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Fe<sup>3+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-48.5</p>
+      <p align="Center">&#150;48.5</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-4.7</p>
+      <p align="Center">&#150;4.7</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-315.9</p>
+      <p align="Center">&#150;315.9</p>
       </td>
     </tr>
     <tr>
@@ -2819,10 +2881,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>FeCO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-740.6</p>
+      <p align="Center">&#150;740.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-666.7</p>
+      <p align="Center">&#150;666.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">92.88</p>
@@ -2833,10 +2895,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>FeCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-341.8</p>
+      <p align="Center">&#150;341.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-302.3</p>
+      <p align="Center">&#150;302.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">118.0</p>
@@ -2847,10 +2909,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>FeCl<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-399.5</p>
+      <p align="Center">&#150;399.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-334.1</p>
+      <p align="Center">&#150;334.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">142.3</p>
@@ -2861,10 +2923,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>FeO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-272.0</p>
+      <p align="Center">&#150;272.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-251.5</p>
+      <p align="Center">&#150;251.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">60.75</p>
@@ -2875,10 +2937,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Fe<sub>2</sub>O<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-824.2</p>
+      <p align="Center">&#150;824.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-742.2</p>
+      <p align="Center">&#150;742.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">87.40</p>
@@ -2889,10 +2951,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Fe<sub>3</sub>O<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1118.4</p>
+      <p align="Center">&#150;1118.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1015.4</p>
+      <p align="Center">&#150;1015.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">146.4</p>
@@ -2903,10 +2965,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Fe(OH)<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-823.0</p>
+      <p align="Center">&#150;823.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-696.6</p>
+      <p align="Center">&#150;696.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">107</p>
@@ -2926,15 +2988,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -2956,10 +3018,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Pb<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1.7</p>
+      <p align="Center">&#150;1.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-24.43</p>
+      <p align="Center">&#150;24.43</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">10.5</p>
@@ -2970,7 +3032,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PbBr<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-278.7</p>
+      <p align="Center">&#150;278.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">&nbsp;</p>
@@ -2984,10 +3046,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PbCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-359</p>
+      <p align="Center">&#150;359</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-314</p>
+      <p align="Center">&#150;314</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">136</p>
@@ -2998,10 +3060,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PbI<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-175.5</p>
+      <p align="Center">&#150;175.5</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-173.6</p>
+      <p align="Center">&#150;173.6</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">174.8</p>
@@ -3012,10 +3074,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PbO(<i>s</i>, <i>red</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-219.0</p>
+      <p align="Center">&#150;219.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-189.2</p>
+      <p align="Center">&#150;189.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">66.5</p>
@@ -3026,10 +3088,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PbO<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-277</p>
+      <p align="Center">&#150;277</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-217.4</p>
+      <p align="Center">&#150;217.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">68.6</p>
@@ -3040,10 +3102,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PbS(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-98.3</p>
+      <p align="Center">&#150;98.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-96.7</p>
+      <p align="Center">&#150;96.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">91.3</p>
@@ -3054,10 +3116,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PbSO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-919.9</p>
+      <p align="Center">&#150;919.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-813.2</p>
+      <p align="Center">&#150;813.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">148.6</p>
@@ -3077,15 +3139,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -3107,10 +3169,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Li<sup>+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-278.5</p>
+      <p align="Center">&#150;278.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-293.3</p>
+      <p align="Center">&#150;293.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">13.4</p>
@@ -3149,10 +3211,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>LiF(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-616.9</p>
+      <p align="Center">&#150;616.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-588.7</p>
+      <p align="Center">&#150;588.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">35.66</p>
@@ -3163,10 +3225,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>LiCl(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-408.6</p>
+      <p align="Center">&#150;408.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-384.4</p>
+      <p align="Center">&#150;384.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">59.33</p>
@@ -3177,10 +3239,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>LiBr(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-351</p>
+      <p align="Center">&#150;351</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-342</p>
+      <p align="Center">&#150;342</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">74.1</p>
@@ -3191,10 +3253,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>LiI(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-270</p>
+      <p align="Center">&#150;270</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-270</p>
+      <p align="Center">&#150;270</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">85.8</p>
@@ -3205,10 +3267,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Li<sub>2</sub>O(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-597.94</p>
+      <p align="Center">&#150;597.94</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-561.18</p>
+      <p align="Center">&#150;561.18</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">37.57</p>
@@ -3219,10 +3281,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>LiOH(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-484.9</p>
+      <p align="Center">&#150;484.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-439.0</p>
+      <p align="Center">&#150;439.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">42.80</p>
@@ -3233,10 +3295,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>LiNO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-483.1</p>
+      <p align="Center">&#150;483.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-381.1</p>
+      <p align="Center">&#150;381.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">90.0</p>
@@ -3256,15 +3318,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -3328,13 +3390,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Mg<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-466.9</p>
+      <p align="Center">&#150;466.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-454.8</p>
+      <p align="Center">&#150;454.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-138.1</p>
+      <p align="Center">&#150;138.1</p>
       </td>
     </tr>
     <tr>
@@ -3342,10 +3404,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>MgCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-641.3</p>
+      <p align="Center">&#150;641.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-591.8</p>
+      <p align="Center">&#150;591.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">89.62</p>
@@ -3356,10 +3418,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>MgCO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1096</p>
+      <p align="Center">&#150;1096</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1012</p>
+      <p align="Center">&#150;1012</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">65.7</p>
@@ -3370,10 +3432,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>MgF<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1124</p>
+      <p align="Center">&#150;1124</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1071</p>
+      <p align="Center">&#150;1071</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">57.24</p>
@@ -3384,10 +3446,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>MgO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-601.7</p>
+      <p align="Center">&#150;601.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-569.4</p>
+      <p align="Center">&#150;569.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">26.94</p>
@@ -3401,7 +3463,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p align="Center">&nbsp;</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-626.7</p>
+      <p align="Center">&#150;626.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">&nbsp;</p>
@@ -3412,10 +3474,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Mg(OH)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-924.7</p>
+      <p align="Center">&#150;924.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-833.9</p>
+      <p align="Center">&#150;833.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">63.18</p>
@@ -3426,10 +3488,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Mg<sub>3</sub>N<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-461</p>
+      <p align="Center">&#150;461</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-401</p>
+      <p align="Center">&#150;401</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">88</p>
@@ -3440,10 +3502,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>MgSO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1285</p>
+      <p align="Center">&#150;1285</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1171</p>
+      <p align="Center">&#150;1171</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">91.6</p>
@@ -3463,20 +3525,20 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Mn(<i>s</i>, <i>a</i>)</p>
+      <p>Mn(<i>s</i>, <i><img src="alpha.gif" align="center"></i>)</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">0</p>
@@ -3493,13 +3555,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Mn<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-220.8</p>
+      <p align="Center">&#150;220.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-228.1</p>
+      <p align="Center">&#150;228.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-73.6</p>
+      <p align="Center">&#150;73.6</p>
       </td>
     </tr>
     <tr>
@@ -3507,10 +3569,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>MnCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-481.3</p>
+      <p align="Center">&#150;481.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-440.5</p>
+      <p align="Center">&#150;440.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">118.2</p>
@@ -3521,10 +3583,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>MnO<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-520</p>
+      <p align="Center">&#150;520</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-465.2</p>
+      <p align="Center">&#150;465.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">53.05</p>
@@ -3532,13 +3594,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="Middle">      
-      <p>MnO<sub>4</sub><sup>-</sup>(<i>aq</i>)</p>
+      <p>MnO<sub>4</sub><sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-541.4</p>
+      <p align="Center">&#150;541.4</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-447.2</p>
+      <p align="Center">&#150;447.2</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">191.2</p>
@@ -3546,13 +3608,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="Middle">      
-      <p>MnO<sub>4</sub><sup>2-</sup>(<i>aq</i>)</p>
+      <p>MnO<sub>4</sub><sup>2&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-653.0</p>
+      <p align="Center">&#150;653.0</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-500.7</p>
+      <p align="Center">&#150;500.7</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">59.0</p>
@@ -3572,15 +3634,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -3644,10 +3706,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HgCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-230</p>
+      <p align="Center">&#150;230</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-184</p>
+      <p align="Center">&#150;184</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">144</p>
@@ -3658,7 +3720,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Hg<sub>2</sub>Br<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-206.9</p>
+      <p align="Center">&#150;206.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">&nbsp;</p>
@@ -3672,10 +3734,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Hg<sub>2</sub>Cl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-265.4</p>
+      <p align="Center">&#150;265.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-210.66</p>
+      <p align="Center">&#150;210.66</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">191.6</p>
@@ -3686,7 +3748,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Hg<sub>2</sub>I<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-121.3</p>
+      <p align="Center">&#150;121.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">&nbsp;</p>
@@ -3700,10 +3762,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HgO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-90.83</p>
+      <p align="Center">&#150;90.83</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-58.56</p>
+      <p align="Center">&#150;58.56</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">70.29</p>
@@ -3723,15 +3785,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -3753,13 +3815,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ni<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-64.0</p>
+      <p align="Center">&#150;64.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-46.4</p>
+      <p align="Center">&#150;46.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-159</p>
+      <p align="Center">&#150;159</p>
       </td>
     </tr>
     <tr>
@@ -3767,10 +3829,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NiCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-305.3</p>
+      <p align="Center">&#150;305.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-259.0</p>
+      <p align="Center">&#150;259.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">97.7</p>
@@ -3781,10 +3843,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ni(OH)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-529.7</p>
+      <p align="Center">&#150;529.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-447.2</p>
+      <p align="Center">&#150;447.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">88.0</p>
@@ -3802,15 +3864,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -3846,10 +3908,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NF<sub>3</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-124.7</p>
+      <p align="Center">&#150;124.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-83.2</p>
+      <p align="Center">&#150;83.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">260.7</p>
@@ -3860,10 +3922,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>3</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-46.11</p>
+      <p align="Center">&#150;46.11</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-16.48</p>
+      <p align="Center">&#150;16.48</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">192.3</p>
@@ -3874,10 +3936,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>3</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-80.29</p>
+      <p align="Center">&#150;80.29</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-26.57</p>
+      <p align="Center">&#150;26.57</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">111.3</p>
@@ -3888,10 +3950,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub><sup>+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-132.5</p>
+      <p align="Center">&#150;132.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-79.31</p>
+      <p align="Center">&#150;79.31</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">113.4</p>
@@ -3902,10 +3964,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub>Br(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-270.8</p>
+      <p align="Center">&#150;270.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-175</p>
+      <p align="Center">&#150;175</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">113.0</p>
@@ -3916,10 +3978,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub>Cl(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-314.4</p>
+      <p align="Center">&#150;314.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-203.0</p>
+      <p align="Center">&#150;203.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">94.56</p>
@@ -3930,10 +3992,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub>F(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-464.0</p>
+      <p align="Center">&#150;464.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-348.8</p>
+      <p align="Center">&#150;348.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">71.96</p>
@@ -3944,10 +4006,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub>HCO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-849.4</p>
+      <p align="Center">&#150;849.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-666.1</p>
+      <p align="Center">&#150;666.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">121</p>
@@ -3958,10 +4020,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub>I(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-201.4</p>
+      <p align="Center">&#150;201.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-113</p>
+      <p align="Center">&#150;113</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">117</p>
@@ -3972,10 +4034,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub>NO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-365.6</p>
+      <p align="Center">&#150;365.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-184.0</p>
+      <p align="Center">&#150;184.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">151.1</p>
@@ -3986,10 +4048,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NH<sub>4</sub>NO<sub>3</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-339.9</p>
+      <p align="Center">&#150;339.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-190.7</p>
+      <p align="Center">&#150;190.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">259.8</p>
@@ -4000,10 +4062,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1181</p>
+      <p align="Center">&#150;1181</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-901.9</p>
+      <p align="Center">&#150;901.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">220.1</p>
@@ -4098,7 +4160,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>N<sub>2</sub>O<sub>4</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-19.6</p>
+      <p align="Center">&#150;19.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">97.40</p>
@@ -4123,13 +4185,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>NO<sub>3</sub><sup>-</sup>(<i>aq</i>)</p>
+      <p>NO<sub>3</sub><sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-205.0</p>
+      <p align="Center">&#150;205.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-108.7</p>
+      <p align="Center">&#150;108.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">146.4</p>
@@ -4140,10 +4202,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HNO<sub>3</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-173.2</p>
+      <p align="Center">&#150;173.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-79.91</p>
+      <p align="Center">&#150;79.91</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">155.6</p>
@@ -4154,10 +4216,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HNO<sub>3</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-207.4</p>
+      <p align="Center">&#150;207.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-113.3</p>
+      <p align="Center">&#150;113.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">146.4</p>
@@ -4205,15 +4267,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -4260,16 +4322,16 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="Middle">      
-      <p>OH<sup>-</sup>(<i>aq</i>)</p>
+      <p>OH<sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-230.0</p>
+      <p align="Center">&#150;230.0</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-157.2</p>
+      <p align="Center">&#150;157.2</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-10.75</p>
+      <p align="Center">&#150;10.75</p>
       </td>
     </tr>
     <tr>
@@ -4300,15 +4362,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -4345,10 +4407,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>P<sub>4</sub>(<i>s</i>, <i>red</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-17.6</p>
+      <p align="Center">&#150;17.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-12.1</p>
+      <p align="Center">&#150;12.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">22.8</p>
@@ -4387,10 +4449,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PCl<sub>3</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-287.0</p>
+      <p align="Center">&#150;287.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-267.8</p>
+      <p align="Center">&#150;267.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">311.7</p>
@@ -4401,10 +4463,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PCl<sub>3</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-319.7</p>
+      <p align="Center">&#150;319.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-272.3</p>
+      <p align="Center">&#150;272.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">217.1</p>
@@ -4415,10 +4477,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PCl<sub>5</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-374.5</p>
+      <p align="Center">&#150;374.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-305.0</p>
+      <p align="Center">&#150;305.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">364.5</p>
@@ -4429,13 +4491,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>PCl<sub>5</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-443.5</p>
+      <p align="Center">&#150;443.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-</p>
+      <p align="Center">&#150;</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-</p>
+      <p align="Center">&#150;</p>
       </td>
     </tr>
     <tr>
@@ -4457,10 +4519,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>P<sub>4</sub>O<sub>10</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-2984</p>
+      <p align="Center">&#150;2984</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-2698</p>
+      <p align="Center">&#150;2698</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">228.9</p>
@@ -4468,41 +4530,41 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>PO<sub>4</sub><sup>3</sup><sup>-</sup>(<i>aq</i>)</p>
+      <p>PO<sub>4</sub><sup>3</sup><sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1277</p>
+      <p align="Center">&#150;1277</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1019</p>
+      <p align="Center">&#150;1019</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-222</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" valign="bottom">      
-      <p>HPO<sub>4</sub><sup>2</sup><sup>-</sup>(<i>aq</i>)</p>
-      </td>
-      <td width="25%" valign="bottom">      
-      <p align="Center">-1292.1</p>
-      </td>
-      <td width="25%" valign="bottom">      
-      <p align="Center">-1089.3</p>
-      </td>
-      <td width="25%" valign="bottom">      
-      <p align="Center">-33</p>
+      <p align="Center">&#150;222</p>
       </td>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>H<sub>2</sub>PO<sub>4</sub><sup>-</sup>(<i>aq</i>)</p>
+      <p>HPO<sub>4</sub><sup>2</sup><sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1296.3</p>
+      <p align="Center">&#150;1292.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1130.4</p>
+      <p align="Center">&#150;1089.3</p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center">&#150;33</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" valign="bottom">      
+      <p>H<sub>2</sub>PO<sub>4</sub><sup>&#150;</sup>(<i>aq</i>)</p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center">&#150;1296.3</p>
+      </td>
+      <td width="25%" valign="bottom">      
+      <p align="Center">&#150;1130.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">90.4</p>
@@ -4513,10 +4575,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>3</sub>PO<sub>4</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1288.3</p>
+      <p align="Center">&#150;1288.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1142.7</p>
+      <p align="Center">&#150;1142.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">158</p>
@@ -4536,15 +4598,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -4594,10 +4656,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>K<sup>+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-252.4</p>
+      <p align="Center">&#150;252.4</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-283.3</p>
+      <p align="Center">&#150;283.3</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">102.5</p>
@@ -4622,10 +4684,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KBr(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-393.8</p>
+      <p align="Center">&#150;393.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-380.7</p>
+      <p align="Center">&#150;380.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">95.90</p>
@@ -4636,10 +4698,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KCN(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-113</p>
+      <p align="Center">&#150;113</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-101.9</p>
+      <p align="Center">&#150;101.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">128.5</p>
@@ -4650,10 +4712,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KCl(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-436.7</p>
+      <p align="Center">&#150;436.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-409.2</p>
+      <p align="Center">&#150;409.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">82.59</p>
@@ -4664,10 +4726,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KClO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-397.7</p>
+      <p align="Center">&#150;397.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-296.3</p>
+      <p align="Center">&#150;296.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">143</p>
@@ -4678,10 +4740,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KClO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-432.8</p>
+      <p align="Center">&#150;432.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-303.2</p>
+      <p align="Center">&#150;303.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">151.0</p>
@@ -4692,10 +4754,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KF(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-567.3</p>
+      <p align="Center">&#150;567.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-537.8</p>
+      <p align="Center">&#150;537.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">66.57</p>
@@ -4706,10 +4768,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KI(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-327.9</p>
+      <p align="Center">&#150;327.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-324.9</p>
+      <p align="Center">&#150;324.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">106.3</p>
@@ -4720,10 +4782,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KNO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-494.6</p>
+      <p align="Center">&#150;494.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-394.9</p>
+      <p align="Center">&#150;394.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">133.1</p>
@@ -4734,10 +4796,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KOH(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-424.8</p>
+      <p align="Center">&#150;424.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-379.1</p>
+      <p align="Center">&#150;379.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">78.87</p>
@@ -4748,10 +4810,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>KOH(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-482.4</p>
+      <p align="Center">&#150;482.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-440.5</p>
+      <p align="Center">&#150;440.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">91.63</p>
@@ -4762,10 +4824,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>K<sub>2</sub>SO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1438</p>
+      <p align="Center">&#150;1438</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1321</p>
+      <p align="Center">&#150;1321</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">175.6</p>
@@ -4783,15 +4845,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -4813,10 +4875,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Rb<sup>+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-246</p>
+      <p align="Center">&#150;246</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-282.2</p>
+      <p align="Center">&#150;282.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">124</p>
@@ -4855,7 +4917,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>RbF(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-549.28</p>
+      <p align="Center">&#150;549.28</p>
       </td>
       <td width="25%" valign="bottom">      
       <p>&nbsp;</p>
@@ -4869,7 +4931,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>RbCl(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-430.58</p>
+      <p align="Center">&#150;430.58</p>
       </td>
       <td width="25%" valign="bottom">      
       <p>&nbsp;</p>
@@ -4883,10 +4945,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>RbBr(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-389.2</p>
+      <p align="Center">&#150;389.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-378.1</p>
+      <p align="Center">&#150;378.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">108.3</p>
@@ -4897,10 +4959,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>RbI(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-328</p>
+      <p align="Center">&#150;328</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-326</p>
+      <p align="Center">&#150;326</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">118.0</p>
@@ -4920,15 +4982,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -4978,10 +5040,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SiO<sub>2</sub>(<i>s, quartz</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-910.9</p>
+      <p align="Center">&#150;910.9</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-856.5</p>
+      <p align="Center">&#150;856.5</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">41.84</p>
@@ -5001,15 +5063,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -5059,10 +5121,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>AgBr(<i>s</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-100.4</p>
+      <p align="Center">&#150;100.4</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-96.90</p>
+      <p align="Center">&#150;96.90</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">107</p>
@@ -5073,10 +5135,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>AgCl(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-127.1</p>
+      <p align="Center">&#150;127.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-109.8</p>
+      <p align="Center">&#150;109.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">96.2</p>
@@ -5087,10 +5149,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>AgF(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-203</p>
+      <p align="Center">&#150;203</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-185</p>
+      <p align="Center">&#150;185</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">84</p>
@@ -5101,10 +5163,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>AgI(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-61.84</p>
+      <p align="Center">&#150;61.84</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-66.19</p>
+      <p align="Center">&#150;66.19</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">115</p>
@@ -5115,10 +5177,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>AgNO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-124.4</p>
+      <p align="Center">&#150;124.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-33.5</p>
+      <p align="Center">&#150;33.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">140.9</p>
@@ -5129,10 +5191,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ag<sub>2</sub>O(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-31.0</p>
+      <p align="Center">&#150;31.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-11.2</p>
+      <p align="Center">&#150;11.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">121</p>
@@ -5143,10 +5205,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ag<sub>2</sub>S(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-31.8</p>
+      <p align="Center">&#150;31.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-40.3</p>
+      <p align="Center">&#150;40.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">146</p>
@@ -5157,10 +5219,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Ag<sub>2</sub>SO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-715.9</p>
+      <p align="Center">&#150;715.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-618.5</p>
+      <p align="Center">&#150;618.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">200.4</p>
@@ -5180,15 +5242,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -5238,10 +5300,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sup>+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-240.1</p>
+      <p align="Center">&#150;240.1</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-261.9</p>
+      <p align="Center">&#150;261.9</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">59.0</p>
@@ -5280,10 +5342,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaBr(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-361.1</p>
+      <p align="Center">&#150;361.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-349.0</p>
+      <p align="Center">&#150;349.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">86.82</p>
@@ -5294,10 +5356,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sub>2</sub>CO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1131</p>
+      <p align="Center">&#150;1131</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1044</p>
+      <p align="Center">&#150;1044</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">135.0</p>
@@ -5308,10 +5370,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaHCO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-950.8</p>
+      <p align="Center">&#150;950.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-851.0</p>
+      <p align="Center">&#150;851.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">102</p>
@@ -5322,10 +5384,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaCl(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-411.1</p>
+      <p align="Center">&#150;411.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-384.0</p>
+      <p align="Center">&#150;384.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">72.13</p>
@@ -5336,10 +5398,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaCl(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-407.3</p>
+      <p align="Center">&#150;407.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-393.1</p>
+      <p align="Center">&#150;393.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">115.5</p>
@@ -5350,10 +5412,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaClO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-365.8</p>
+      <p align="Center">&#150;365.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-262.3</p>
+      <p align="Center">&#150;262.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">123</p>
@@ -5364,10 +5426,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaClO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-383.3</p>
+      <p align="Center">&#150;383.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-254.9</p>
+      <p align="Center">&#150;254.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">142.3</p>
@@ -5378,10 +5440,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaF(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-573.7</p>
+      <p align="Center">&#150;573.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-543.5</p>
+      <p align="Center">&#150;543.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">51.46</p>
@@ -5392,10 +5454,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaH(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-56.27</p>
+      <p align="Center">&#150;56.27</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-33.5</p>
+      <p align="Center">&#150;33.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">40.02</p>
@@ -5406,10 +5468,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaI(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-287.8</p>
+      <p align="Center">&#150;287.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-286.1</p>
+      <p align="Center">&#150;286.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">98.53</p>
@@ -5420,10 +5482,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaNO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-467.9</p>
+      <p align="Center">&#150;467.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-367.1</p>
+      <p align="Center">&#150;367.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">116.5</p>
@@ -5434,10 +5496,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaNO<sub>3</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-447.4</p>
+      <p align="Center">&#150;447.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-373.2</p>
+      <p align="Center">&#150;373.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">205.4</p>
@@ -5448,10 +5510,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sub>2</sub>O<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-510.9</p>
+      <p align="Center">&#150;510.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-447.7</p>
+      <p align="Center">&#150;447.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">94.98</p>
@@ -5462,10 +5524,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaOH(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-425.6</p>
+      <p align="Center">&#150;425.6</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-379.5</p>
+      <p align="Center">&#150;379.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">64.48</p>
@@ -5476,10 +5538,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaOH(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-469.2</p>
+      <p align="Center">&#150;469.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-419.2</p>
+      <p align="Center">&#150;419.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">48.1</p>
@@ -5490,10 +5552,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaH<sub>2</sub>PO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1537</p>
+      <p align="Center">&#150;1537</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1386</p>
+      <p align="Center">&#150;1386</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">127.5</p>
@@ -5504,10 +5566,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sub>2</sub>HPO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1748</p>
+      <p align="Center">&#150;1748</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1608</p>
+      <p align="Center">&#150;1608</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">150.5</p>
@@ -5518,10 +5580,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sub>3</sub>PO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1917</p>
+      <p align="Center">&#150;1917</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1789</p>
+      <p align="Center">&#150;1789</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">173.8</p>
@@ -5532,10 +5594,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>NaHSO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1125</p>
+      <p align="Center">&#150;1125</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-992.9</p>
+      <p align="Center">&#150;992.9</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">113</p>
@@ -5546,10 +5608,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sub>2</sub>SO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1387</p>
+      <p align="Center">&#150;1387</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1270</p>
+      <p align="Center">&#150;1270</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">149.6</p>
@@ -5560,10 +5622,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sub>2</sub>SO<sub>4</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1390</p>
+      <p align="Center">&#150;1390</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1268</p>
+      <p align="Center">&#150;1268</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">138.1</p>
@@ -5571,13 +5633,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>Na<sub>2</sub>SO<sub>4</sub>*10H<sub>2</sub>O(<i>s</i>)</p>
+      <p>Na<sub>2</sub>SO<sub>4</sub>&#149;10H<sub>2</sub>O(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-4327</p>
+      <p align="Center">&#150;4327</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-3647</p>
+      <p align="Center">&#150;3647</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">592.0</p>
@@ -5588,10 +5650,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1123</p>
+      <p align="Center">&#150;1123</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1028</p>
+      <p align="Center">&#150;1028</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">155</p>
@@ -5609,15 +5671,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -5639,13 +5701,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Sr<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-545.8</p>
+      <p align="Center">&#150;545.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-557.3</p>
+      <p align="Center">&#150;557.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-32.6</p>
+      <p align="Center">&#150;32.6</p>
       </td>
     </tr>
     <tr>
@@ -5695,10 +5757,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SrCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-828.4</p>
+      <p align="Center">&#150;828.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-781.2</p>
+      <p align="Center">&#150;781.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">117</p>
@@ -5709,7 +5771,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SrF<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1216.3</p>
+      <p align="Center">&#150;1216.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">&nbsp;</p>
@@ -5723,10 +5785,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SrO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-592.0</p>
+      <p align="Center">&#150;592.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-562.4</p>
+      <p align="Center">&#150;562.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">55.5</p>
@@ -5737,10 +5799,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SrCO<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1218</p>
+      <p align="Center">&#150;1218</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1138</p>
+      <p align="Center">&#150;1138</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">97.1</p>
@@ -5751,10 +5813,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SrSO<sub>4</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1445</p>
+      <p align="Center">&#150;1445</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1334</p>
+      <p align="Center">&#150;1334</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">122</p>
@@ -5774,15 +5836,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -5857,7 +5919,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>S<sup>2-</sup>(<i>aq</i>)</p>
+      <p>S<sup>2&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">41.8</p>
@@ -5871,10 +5933,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>HS<sup>-</sup>(<i>aq</i>)</p>
+      <p>HS<sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-17.7</p>
+      <p align="Center">&#150;17.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">12.6</p>
@@ -5888,10 +5950,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>S(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-20.63</p>
+      <p align="Center">&#150;20.63</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-33.56</p>
+      <p align="Center">&#150;33.56</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">205.7</p>
@@ -5902,10 +5964,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>S(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-39</p>
+      <p align="Center">&#150;39</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-27.4</p>
+      <p align="Center">&#150;27.4</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">122</p>
@@ -5916,10 +5978,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>S<sub>2</sub>Cl<sub>2</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-18.4</p>
+      <p align="Center">&#150;18.4</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-31.8</p>
+      <p align="Center">&#150;31.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">331.5</p>
@@ -5930,10 +5992,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SF<sub>6</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1209</p>
+      <p align="Center">&#150;1209</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1105</p>
+      <p align="Center">&#150;1105</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">291.7</p>
@@ -5944,10 +6006,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SO<sub>2</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-296.8</p>
+      <p align="Center">&#150;296.8</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-300.2</p>
+      <p align="Center">&#150;300.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">248.1</p>
@@ -5958,10 +6020,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SO<sub>3</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-395.7</p>
+      <p align="Center">&#150;395.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-371.1</p>
+      <p align="Center">&#150;371.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">256.6</p>
@@ -5969,13 +6031,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>SO<sub>4</sub><sup>2-</sup>(<i>aq</i>)</p>
+      <p>SO<sub>4</sub><sup>2&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-909.3</p>
+      <p align="Center">&#150;909.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-744.5</p>
+      <p align="Center">&#150;744.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">20.1</p>
@@ -5983,13 +6045,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>HSO<sub>4</sub><sup>-</sup>(<i>aq</i>)</p>
+      <p>HSO<sub>4</sub><sup>&#150;</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-885.75</p>
+      <p align="Center">&#150;885.75</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-752.87</p>
+      <p align="Center">&#150;752.87</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">126.9</p>
@@ -6000,10 +6062,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>SO<sub>4</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-814.0</p>
+      <p align="Center">&#150;814.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-690.1</p>
+      <p align="Center">&#150;690.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">156.9</p>
@@ -6014,10 +6076,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>H<sub>2</sub>SO<sub>4</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-909.3</p>
+      <p align="Center">&#150;909.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-744.6</p>
+      <p align="Center">&#150;744.6</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">20.08</p>
@@ -6025,14 +6087,14 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="25%" valign="bottom">      
-      <p>S<sub>2</sub>O<sub>3</sub><sup>2-</sup>(<i>aq</i>
+      <p>S<sub>2</sub>O<sub>3</sub><sup>2&#150;</sup>(<i>aq</i>
 )</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-648.5</p>
+      <p align="Center">&#150;648.5</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-522.5</p>
+      <p align="Center">&#150;522.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">67</p>
@@ -6043,10 +6105,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SO<sub>2</sub>Cl<sub>2</sub>(<i>g</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-364.0</p>
+      <p align="Center">&#150;364.0</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-320.0</p>
+      <p align="Center">&#150;320.0</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">311.8</p>
@@ -6057,10 +6119,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SO<sub>2</sub>Cl<sub>2</sub>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-394.1</p>
+      <p align="Center">&#150;394.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-314</p>
+      <p align="Center">&#150;314</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">207</p>
@@ -6080,15 +6142,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -6110,7 +6172,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Sn(<i>s</i>, <i>gray</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-2.1</p>
+      <p align="Center">&#150;2.1</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">0.1</p>
@@ -6124,10 +6186,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SnCl<sub>4</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-511.3</p>
+      <p align="Center">&#150;511.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-440.2</p>
+      <p align="Center">&#150;440.2</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">259</p>
@@ -6138,10 +6200,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SnO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-286</p>
+      <p align="Center">&#150;286</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-257</p>
+      <p align="Center">&#150;257</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">56.5</p>
@@ -6152,10 +6214,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>SnO<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-580.7</p>
+      <p align="Center">&#150;580.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-519.7</p>
+      <p align="Center">&#150;519.7</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">52.3</p>
@@ -6175,15 +6237,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -6205,10 +6267,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>&nbsp;TiCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-513.8</p>
+      <p align="Center">&#150;513.8</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-464.4</p>
+      <p align="Center">&#150;464.4</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">87.4</p>
@@ -6219,10 +6281,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>&nbsp;TiCl<sub>3</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-720.9</p>
+      <p align="Center">&#150;720.9</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-653.5</p>
+      <p align="Center">&#150;653.5</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">139.7</p>
@@ -6233,10 +6295,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>TiCl<sub>4</sub>(<i>g</i>)&nbsp;</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-763.2</p>
+      <p align="Center">&#150;763.2</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-726.8</p>
+      <p align="Center">&#150;726.8</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">355</p>
@@ -6247,10 +6309,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>&nbsp;TiCl<sub>4</sub>(<i>l</i>)</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-804.2</p>
+      <p align="Center">&#150;804.2</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-737.2</p>
+      <p align="Center">&#150;737.2</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">252.3</p>
@@ -6261,10 +6323,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>&nbsp;TiO<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-944.7</p>
+      <p align="Center">&#150;944.7</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-889.5</p>
+      <p align="Center">&#150;889.5</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">50.33</p>
@@ -6284,15 +6346,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -6314,10 +6376,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>UF<sub>6</sub>(<i>g</i>)&nbsp;</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-2147</p>
+      <p align="Center">&#150;2147</p>
       </td>
       <td width="25%" valign="Middle">      
-      <p align="Center">-2064</p>
+      <p align="Center">&#150;2064</p>
       </td>
       <td width="25%" valign="Middle">      
       <p align="Center">378</p>
@@ -6328,10 +6390,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>UF<sub>6</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-2197</p>
+      <p align="Center">&#150;2197</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-2069</p>
+      <p align="Center">&#150;2069</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">228</p>
@@ -6342,10 +6404,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>UO<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1085</p>
+      <p align="Center">&#150;1085</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-1032</p>
+      <p align="Center">&#150;1032</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">77.03</p>
@@ -6365,15 +6427,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -6409,13 +6471,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Zn<sup>2+</sup>(<i>aq</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-153.9</p>
+      <p align="Center">&#150;153.9</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-147.1</p>
+      <p align="Center">&#150;147.1</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-112.1</p>
+      <p align="Center">&#150;112.1</p>
       </td>
     </tr>
     <tr>
@@ -6423,10 +6485,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>ZnCl<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td valign="Middle">      
-      <p align="Center">-415.1</p>
+      <p align="Center">&#150;415.1</p>
       </td>
       <td valign="Middle">      
-      <p align="Center">-369.4</p>
+      <p align="Center">&#150;369.4</p>
       </td>
       <td valign="Middle">      
       <p align="Center">111.5</p>
@@ -6437,10 +6499,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>Zn(OH)<sub>2</sub>(<i>s</i>)</p>
       </td>
       <td valign="Middle">      
-      <p align="Center">-641.9</p>
+      <p align="Center">&#150;641.9</p>
       </td>
       <td valign="Middle">      
-      <p align="Center">-553.5</p>
+      <p align="Center">&#150;553.5</p>
       </td>
       <td valign="Middle">      
       <p align="Center">81.2</p>
@@ -6451,10 +6513,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>ZnO(<i>s</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-348.3</p>
+      <p align="Center">&#150;348.3</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-318.3</p>
+      <p align="Center">&#150;318.3</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">43.64</p>
@@ -6465,10 +6527,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>ZnS(<i>s</i>, <i>zinc</i><i>blende</i>)</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-203</p>
+      <p align="Center">&#150;203</p>
       </td>
       <td width="25%" valign="bottom">      
-      <p align="Center">-198</p>
+      <p align="Center">&#150;198</p>
       </td>
       <td width="25%" valign="bottom">      
       <p align="Center">57.7</p>
@@ -6490,15 +6552,15 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p><font size="4">Substance or Ion</font></p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">Δ<font size="4">
+      <p align="Center"><img src="BigDelta.gif" alt="&Delta;" align="Center"><font size="4">
 G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center"><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      <p align="Center"><font size="4">S<sup>o</sup> (J/mol&#149;K)</font></p>
       </td>
     </tr>
     <tr>
@@ -6506,10 +6568,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>4</sub>(<i>g</i>) methane</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-74.81</p>
+      <p align="Center">&#150;74.81</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-50.75</p>
+      <p align="Center">&#150;50.75</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">186.2</p>
@@ -6548,10 +6610,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>2</sub>H<sub>6</sub>(g) ethane</p>
       </td>
       <td width="17%" valign="Middle">      
-      <p align="Center">-84.68</p>
+      <p align="Center">&#150;84.68</p>
       </td>
       <td width="17%" valign="Middle">      
-      <p align="Center">-32.89</p>
+      <p align="Center">&#150;32.89</p>
       </td>
       <td width="17%" valign="Middle">      
       <p align="Center">229.5</p>
@@ -6562,10 +6624,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>3</sub>H<sub>8</sub>(<i>g</i>) propane</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-103.8</p>
+      <p align="Center">&#150;103.8</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-23.56</p>
+      <p align="Center">&#150;23.56</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">270.2</p>
@@ -6576,10 +6638,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>4</sub>H<sub>10</sub>(<i>g</i>) butane</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-125.7</p>
+      <p align="Center">&#150;125.7</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-17.15</p>
+      <p align="Center">&#150;17.15</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">310.1</p>
@@ -6618,7 +6680,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>6</sub>H<sub>12</sub>(<i>g</i>) cyclohexane</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-123.1</p>
+      <p align="Center">&#150;123.1</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">31.8</p>
@@ -6632,7 +6694,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>6</sub>H<sub>12</sub>(<i>l</i>) cyclohexane</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-156.2</p>
+      <p align="Center">&#150;156.2</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">26.7</p>
@@ -6674,10 +6736,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HCHO(<i>g</i>) formaldehyde</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-117.0</p>
+      <p align="Center">&#150;117.0</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-110.0</p>
+      <p align="Center">&#150;110.0</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">218.7</p>
@@ -6688,10 +6750,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>OH(<i>g</i>) methanol</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-200.7</p>
+      <p align="Center">&#150;200.7</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-162.0</p>
+      <p align="Center">&#150;162.0</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">239.7</p>
@@ -6702,10 +6764,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>OH(<i>l</i>) methanol</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-238.7</p>
+      <p align="Center">&#150;238.7</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-166.4</p>
+      <p align="Center">&#150;166.4</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">126.8</p>
@@ -6716,10 +6778,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>CHO(<i>g</i>) acetaldehyde</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-166.1</p>
+      <p align="Center">&#150;166.1</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-133.4</p>
+      <p align="Center">&#150;133.4</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">246.4</p>
@@ -6730,10 +6792,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>CHO(<i>l</i>) acetaldehyde</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-191.8</p>
+      <p align="Center">&#150;191.8</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-128.3</p>
+      <p align="Center">&#150;128.3</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">160.4</p>
@@ -6744,10 +6806,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>2</sub>H<sub>5</sub>OH(<i>g</i>) ethanol</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-234.4</p>
+      <p align="Center">&#150;234.4</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-167.9</p>
+      <p align="Center">&#150;167.9</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">282.6</p>
@@ -6758,10 +6820,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>2</sub>H<sub>5</sub>OH(<i>l</i>) ethanol</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-277.7</p>
+      <p align="Center">&#150;277.7</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-174.9</p>
+      <p align="Center">&#150;174.9</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">160.7</p>
@@ -6772,10 +6834,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>6</sub>H<sub>5</sub>OH(<i>s</i>) phenol</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-165.0</p>
+      <p align="Center">&#150;165.0</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-50.42</p>
+      <p align="Center">&#150;50.42</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">144.0</p>
@@ -6786,10 +6848,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>(CH<sub>3</sub>)<sub>2</sub>CO(<i>g</i>) acetone</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-216.6</p>
+      <p align="Center">&#150;216.6</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-153.1</p>
+      <p align="Center">&#150;153.1</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">294.9</p>
@@ -6800,10 +6862,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>(CH<sub>3</sub>)<sub>2</sub>CO(<i>l</i>) acetone</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-247.6</p>
+      <p align="Center">&#150;247.6</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-155.7</p>
+      <p align="Center">&#150;155.7</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">200.4</p>
@@ -6814,10 +6876,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HCOOH(<i>l</i>) formic acid</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-409</p>
+      <p align="Center">&#150;409</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-346</p>
+      <p align="Center">&#150;346</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">129.0</p>
@@ -6828,10 +6890,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>HCOOH(<i>aq</i>) formic acid</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-410</p>
+      <p align="Center">&#150;410</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-356</p>
+      <p align="Center">&#150;356</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">164</p>
@@ -6839,13 +6901,13 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
     </tr>
     <tr>
       <td width="31%" valign="bottom">      
-      <p>HCOO<sup>-</sup>(<i>aq</i>) formate ion</p>
+      <p>HCOO<sup>&#150;</sup>(<i>aq</i>) formate ion</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-410</p>
+      <p align="Center">&#150;410</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-335</p>
+      <p align="Center">&#150;335</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">91.6</p>
@@ -6856,10 +6918,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>COOH(<i>g</i>) acetic acid</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-432.3</p>
+      <p align="Center">&#150;432.3</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-374.0</p>
+      <p align="Center">&#150;374.0</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">282.5</p>
@@ -6870,10 +6932,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>COOH(<i>l</i>) acetic acid</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-484.1</p>
+      <p align="Center">&#150;484.1</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-389.9</p>
+      <p align="Center">&#150;389.9</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">159.8</p>
@@ -6884,10 +6946,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>COOH(<i>aq</i>) acetic acid</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-488.3</p>
+      <p align="Center">&#150;488.3</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-396.6</p>
+      <p align="Center">&#150;396.6</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">178.7</p>
@@ -6898,10 +6960,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>6</sub>H<sub>5</sub>COOH(<i>s</i>) benzoic acid</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-385.1</p>
+      <p align="Center">&#150;385.1</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-245.3</p>
+      <p align="Center">&#150;245.3</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">167.6</p>
@@ -6912,7 +6974,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>CH<sub>3</sub>NH<sub>2</sub>(<i>g</i>) methylamine</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-23.0</p>
+      <p align="Center">&#150;23.0</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">32.3</p>
@@ -6954,10 +7016,10 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(<i>s</i>) glucose</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-1273.3</p>
+      <p align="Center">&#150;1273.3</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-910.4</p>
+      <p align="Center">&#150;910.4</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">212.1</p>
@@ -6968,7 +7030,7 @@ G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
       <p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>(<i>s</i>) sucrose</p>
       </td>
       <td width="17%" valign="bottom">      
-      <p align="Center">-2226.1</p>
+      <p align="Center">&#150;2226.1</p>
       </td>
       <td width="17%" valign="bottom">      
       <p align="Center">&nbsp;</p>

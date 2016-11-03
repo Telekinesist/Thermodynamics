@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Data.cs" />
     <Compile Include="Element.cs" />
+    <Compile Include="Equlibrium.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

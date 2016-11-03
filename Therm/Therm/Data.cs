@@ -34,7 +34,7 @@ namespace Therm
 			Data.WriteLine("\tElements are case sentisive and space is ignored. Remember the states of matter.\n\tThis program support any amounts of elements, but no numbers larger than 9");
 			Data.WriteLine("\tRemember to check no values are noted as MISSING");
 			Data.WriteLine("\n\tSyntax example burning of hydrogen:");
-			Data.WriteLine("\t2H_2O(g) + O_2(g) -> 2H_2O(g)");
+			Data.WriteLine("\t2H_2(g) + O_2(g) -> 2H_2O(g) ");
 			Data.WriteLine(line + "\n");
 		}
 	}

@@ -15,12 +15,48 @@ namespace Therm
 			string[] s;
 			string temp;
 			List<Element> elmnts = new List<Element>();
-			double deltH, deltG, deltS, prodSum = 0, reacSum = 0;
+			double deltH, deltG, deltS, deltGT, prodSum = 0, reacSum = 0;
 			int stuff = 0, index = 0, arrowAt = 0;
 			string line = "=================================================================================================================";
 
 			//Loads data
-			s = System.IO.File.ReadAllLines(@"..\Data.html");
+			while (true)
+			{
+				try
+				{
+					s = System.IO.File.ReadAllLines(@"..\Values.data");
+					break;
+				}
+				catch
+				{
+					try
+					{
+						Data.WriteLine("Unable to find Values.data. Creating new file");
+						//Creates the file, and closes it again. Neccesary because the WriteAllText method opens it again.
+						System.IO.File.CreateText(@"..\Values.data").Close();
+						using (WebClient client = new WebClient())
+						{
+							System.IO.File.WriteAllText(@"..\Values.data", client.DownloadString("http://bilbo.chm.uri.edu/CHM112/tables/thermtable.htm"));
+						}
+						s = System.IO.File.ReadAllLines(@"..\Values.data");
+						foreach (string textLine in s)
+						{
+							Data.WriteLine(textLine);
+						}
+						Data.WriteLine("Got text online");
+						Data.WriteLine("Created file sucessfully");
+						break;
+					}
+					catch
+					{
+						Data.WriteLine("Unable to get data from web.");
+						s = new string[1];
+						s[0] = "";
+						break;
+					}
+				}
+			}
+			
 
 			//resets everything
 			index = 0;
@@ -46,9 +82,9 @@ namespace Therm
 				{
 					using (WebClient client = new WebClient())
 					{
-						System.IO.File.WriteAllText(@"..\Data.html", client.DownloadString("http://bilbo.chm.uri.edu/CHM112/tables/thermtable.htm"));
+						System.IO.File.WriteAllText(@"..\Values.data", client.DownloadString("http://bilbo.chm.uri.edu/CHM112/tables/thermtable.htm"));
 					}
-					s = System.IO.File.ReadAllLines(@"..\Data.html");
+					s = System.IO.File.ReadAllLines(@"..\Values.data");
 					foreach (string textLine in s)
 					{
 						Data.WriteLine(textLine);
@@ -377,16 +413,25 @@ namespace Therm
 						Data.Write("|" + element.S + "\t\t");
 					}
 				}
+				
+				//Devided by thousand because the unit needs to be kJ, but is J.
+				deltGT = (deltH - (Form1.ThisForm.getTemp() * deltS / 1000));
+
 				Data.WriteLine();
 				Data.WriteLine(line);
-				Data.WriteLine("delta_H=" + deltH + "kJ/Mol");
-				Data.WriteLine("delta_G=" + deltG + "kJ/Mol");
-				Data.WriteLine("delta_S=" + deltS + "J/Mol*K");
+				Data.WriteLine("ΔHᴼ=" + deltH + "kJ/Mol");
+				Data.WriteLine("ΔGᴼ=" + deltG + "kJ/Mol");
+				Data.WriteLine("ΔG =" + deltGT + "kJ/Mol");
+				Data.WriteLine("ΔSᴼ=" + deltS + "J/(Mol*K)");
 				Data.WriteLine(line);
 
 				Form1.ThisForm.setH(deltH);
 				Form1.ThisForm.setG(deltG);
 				Form1.ThisForm.setS(deltS);
+				Form1.ThisForm.setGT(deltGT);
+
+
+				Equlibrium.calcK(elmnts);
 			}
 		}
 	}
