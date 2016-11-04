@@ -12,6 +12,8 @@ namespace Therm
 
 		public static void delta(string input)
 		{
+			//The search translater crashes weirdly if there isn't a character after the last molecule, such as the phase
+			input = input.Replace("\n", "").Replace("\t", "") + " ";
 			string[] s;
 			string temp;
 			List<Element> elmnts = new List<Element>();
@@ -58,6 +60,10 @@ namespace Therm
 			}
 			else
 			{
+				if (input.ToLower().Equals("meth"))
+				{
+					input = "CH_4 + 2O_2-> 2H_2O + CO_2";
+				}
 				//creates the Element objects as well as giving them a searchable string defined by said input
 				/**
 			* Example code for debugging. Burning of methane
@@ -177,7 +183,6 @@ namespace Therm
 
 					Data.WriteLine("Search for " + elmnts[stuff].search + " " + elmnts[stuff].state);
 				}
-
 				//Searches the data file and stores the relavent data in the Element objects.
 				foreach (Element element in elmnts)
 				{
@@ -220,9 +225,17 @@ namespace Therm
 								}
 							}
 						}*/
-						while (index < s.Length)
+					index = 0;
+					while (index < s.Length && !s[index].Contains(element.search))
+					{
+						index++;
 					}
-					exit:
+					if (index.Equals(s.Length))
+					{
+						Data.WriteLine("ERROR: Element does not exist. Check your input, or if the molecule is listed in the datasheet");
+						element.notFound = true;
+						break;
+					}
 					//Displays the found result, and skips two lines (the molecule and state)
 					Data.WriteLine(s[index]);
 					Data.WriteLine(s[index + 1]);
@@ -390,7 +403,7 @@ namespace Therm
 				Form1.ThisForm.setGT(deltGT);
 
 
-				Equlibrium.calcK(elmnts);
+				Equlibrium.calcK(elmnts, arrowAt);
 			}
 		}
 	}

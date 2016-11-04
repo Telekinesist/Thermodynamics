@@ -35,6 +35,8 @@ namespace Therm
 		public void setGT(double H) { DeltaGT.Text = H.ToString(); }
 		public void setTemp(double H) { Temp.Text = H.ToString(); }
 		public void setK(double H) { EqConstBox.Text = H.ToString(); }
+		public void setKunitAbove(string A) { KunitsAbove.Text = A; }
+		public void setKunitBelow(string B) { KunitsBelow.Text = B; }
 
 		public double getH()
 		{
@@ -119,12 +121,12 @@ namespace Therm
 				string num = "";
 				string R = GasConstant.Text;
 				int index = 0;
-				while (Sort.isNum(R[index]))
+				while (Sort.isNum(R[index]) || R[index].Equals(',') || R[index].Equals('.'))
 				{
 					num += R[index];
 					index++;
 				}
-				return double.Parse(num);
+				return double.Parse(num.Replace('.', ','));
 					
 			}
 			catch
@@ -151,6 +153,11 @@ namespace Therm
 			{
 				GOButton_Click(sender, e);
 			}
+		}
+
+		private void Requals_TextChanged(object sender, EventArgs e)
+		{
+
 		}
 	}
 }

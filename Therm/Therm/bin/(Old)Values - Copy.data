@@ -1,0 +1,7024 @@
+<html>
+<body bgcolor="#ffffff">
+<br>
+<br>
+<h2>Thermodynamic Quantities for Substances and Ions at 25<sup>o</sup>C.</h2>
+<p><br>
+<br>
+</p>
+<div class="e">Inorganic Substances</div>
+<br>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">Δ
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>e<sup>-</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>20.87</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<br>
+<p><font size="4">Aluminum</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Al(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>28.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Al<sup>3+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-531</p>
+      </TD>
+      <TD>      
+      <p>-485</p>
+      </TD>
+      <TD>      
+      <p>-321.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>AlCl<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-705.6</p>
+      </TD>
+      <TD>      
+      <p>-630.1</p>
+      </TD>
+      <TD>      
+      <p>109.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Al<sub>2</sub>Cl<sub>6</sub>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-1291</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-1221</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>490</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>AlF<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1504</p>
+      </TD>
+      <TD>      
+      <p>-1425</p>
+      </TD>
+      <TD>      
+      <p>66.48</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Al<sub>2</sub>O<sub>3</sub>(<img src="alpha.gif" align="center">, s
+)</p>
+      </TD>
+      <TD>      
+      <p>-1676</p>
+      </TD>
+      <TD>      
+      <p>-1582</p>
+      </TD>
+      <TD>      
+      <p>50.94</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Al(OH)<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1276</p>
+      </TD>
+      <TD>      
+      <p>-</p>
+      </TD>
+      <TD>      
+      <p>-</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-3441</p>
+      </TD>
+      <TD>      
+      <p>-3100</p>
+      </TD>
+      <TD>      
+      <p>239</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><br>
+<font size="4">Barium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ba(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>62.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ba<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-537.6</p>
+      </TD>
+      <TD>      
+      <p>-560.8</p>
+      </TD>
+      <TD>      
+      <p>9.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ba<sup>2+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>1649.9</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Ba(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>175.6</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>144.8</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>170.28</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ba<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>684.6</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BaCO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1216</p>
+      </TD>
+      <TD>      
+      <p>-1138</p>
+      </TD>
+      <TD>      
+      <p>112</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BaCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-858.1</p>
+      </TD>
+      <TD>      
+      <p>-810.4</p>
+      </TD>
+      <TD>      
+      <p>123.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BaF<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1209</p>
+      </TD>
+      <TD>      
+      <p>-1159</p>
+      </TD>
+      <TD>      
+      <p>96.40</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BaO(s)</p>
+      </TD>
+      <TD>      
+      <p>-548.1</p>
+      </TD>
+      <TD>      
+      <p>-520.4</p>
+      </TD>
+      <TD>      
+      <p>72.09</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ba(OH)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-946.0</p>
+      </TD>
+      <TD>      
+      <p>-859.4</p>
+      </TD>
+      <TD>      
+      <p>107</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ba(OH)<sub>2</sub>*8H<sub>2</sub>O(s)</p>
+      </TD>
+      <TD>      
+      <p>-3342</p>
+      </TD>
+      <TD>      
+      <p>-2793</p>
+      </TD>
+      <TD>      
+      <p>427</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BaSO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1473</p>
+      </TD>
+      <TD>      
+      <p>-1362</p>
+      </TD>
+      <TD>      
+      <p>132</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p><font size="4">Beryllium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Be(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>9.54</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BeCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-496.2</p>
+      </TD>
+      <TD>      
+      <p>-449.5</p>
+      </TD>
+      <TD>      
+      <p>75.81</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BeF<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1027</p>
+      </TD>
+      <TD>      
+      <p>-979.5</p>
+      </TD>
+      <TD>      
+      <p>53.35</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BeO(s)</p>
+      </TD>
+      <TD>      
+      <p>-608.4</p>
+      </TD>
+      <TD>      
+      <p>-579.1</p>
+      </TD>
+      <TD>      
+      <p>13.77</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><br>
+&nbsp; </p>
+<p><font size="4">Bismuth</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Bi(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>56.74</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BiCl<sub>3</sub>(s)&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>-379</p>
+      </TD>
+      <TD>      
+      <p>-315</p>
+      </TD>
+      <TD>      
+      <p>177</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Bi<sub>2</sub>O<sub>3</sub>(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-573.9</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-493.7</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>151</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Boron</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>B(s, <img src="beta.gif" alt="&amp;beta;">-rhomohedral)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>5.86</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BCl<sub>3</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-427.2</p>
+      </TD>
+      <TD>      
+      <p>-387</p>
+      </TD>
+      <TD>      
+      <p>206</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BF<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-1137</p>
+      </TD>
+      <TD>      
+      <p>-1120.3</p>
+      </TD>
+      <TD>      
+      <p>254.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>B<sub>2</sub>H<sub>6</sub>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>36</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>86.6</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>232.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>B<sub>2</sub>O<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1272</p>
+      </TD>
+      <TD>      
+      <p>-1193</p>
+      </TD>
+      <TD>      
+      <p>53.8</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Bromine</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Br(g)</p>
+      </TD>
+      <TD>      
+      <p>111.9</p>
+      </TD>
+      <TD>      
+      <p>82.40</p>
+      </TD>
+      <TD>      
+      <p>174.90</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Br<sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-120.9</p>
+      </TD>
+      <TD>      
+      <p>-102.82</p>
+      </TD>
+      <TD>      
+      <p>80.71</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Br<sup>-</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>-218.9</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Br<sub>2</sub>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>30.91</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>3.13</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>245.38</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Br<sub>2</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>152.23</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BrCl(g)</p>
+      </TD>
+      <TD>      
+      <p>14.6</p>
+      </TD>
+      <TD>      
+      <p>-0.96</p>
+      </TD>
+      <TD>      
+      <p>240.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BrF<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-255.6</p>
+      </TD>
+      <TD>      
+      <p>-229.5</p>
+      </TD>
+      <TD>      
+      <p>292.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>BrF<sub>3</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-300.8</p>
+      </TD>
+      <TD>      
+      <p>-240.6</p>
+      </TD>
+      <TD>      
+      <p>178.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HBr(g)</p>
+      </TD>
+      <TD>      
+      <p>-36.40</p>
+      </TD>
+      <TD>      
+      <p>-53.43</p>
+      </TD>
+      <TD>      
+      <p>198.6</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Cadmium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="638">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cd(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>51.76</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cd(g)</p>
+      </TD>
+      <TD>      
+      <p>112.8</p>
+      </TD>
+      <TD>      
+      <p>78.20</p>
+      </TD>
+      <TD>      
+      <p>167.64</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cd<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-75.90</p>
+      </TD>
+      <TD>      
+      <p>-77.61</p>
+      </TD>
+      <TD>      
+      <p>-73.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD valign="Middle">      
+      <p>CdCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>-391.5</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>-344.0</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>115.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CdO(s)</p>
+      </TD>
+      <TD>      
+      <p>-258</p>
+      </TD>
+      <TD>      
+      <p>-228</p>
+      </TD>
+      <TD>      
+      <p>54.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CdS(s)</p>
+      </TD>
+      <TD>      
+      <p>-144</p>
+      </TD>
+      <TD>      
+      <p>-141</p>
+      </TD>
+      <TD>      
+      <p>71</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Calcium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="636">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ca(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>41.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ca(g)</p>
+      </TD>
+      <TD>      
+      <p>192.6</p>
+      </TD>
+      <TD>      
+      <p>158.9</p>
+      </TD>
+      <TD>      
+      <p>154.78</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ca<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-542.96</p>
+      </TD>
+      <TD>      
+      <p>-553.04</p>
+      </TD>
+      <TD>      
+      <p>-55.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Ca<sup>2+</sup>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>1934.1</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>&nbsp;</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ca<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>788.6</p>
+      </TD>
+      <TD>&nbsp;</TD>
+      <TD>&nbsp;</TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaBr<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-682.8</p>
+      </TD>
+      <TD>      
+      <p>-663.6</p>
+      </TD>
+      <TD>      
+      <p>130.</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaCO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1207</p>
+      </TD>
+      <TD>      
+      <p>-1128</p>
+      </TD>
+      <TD>      
+      <p>88.70</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-795.8</p>
+      </TD>
+      <TD>      
+      <p>-748.1</p>
+      </TD>
+      <TD>      
+      <p>105</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaF<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1220</p>
+      </TD>
+      <TD>      
+      <p>-1167</p>
+      </TD>
+      <TD>      
+      <p>68.87</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaH<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-186</p>
+      </TD>
+      <TD>      
+      <p>-147</p>
+      </TD>
+      <TD>      
+      <p>42</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ca(NO<sub>3</sub>)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-938.4</p>
+      </TD>
+      <TD>      
+      <p>-743.2</p>
+      </TD>
+      <TD>      
+      <p>193</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaO(s)</p>
+      </TD>
+      <TD>      
+      <p>-635.1</p>
+      </TD>
+      <TD>      
+      <p>-604.0</p>
+      </TD>
+      <TD>      
+      <p>39.75</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ca(OH)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-986.1</p>
+      </TD>
+      <TD>      
+      <p>-898.6</p>
+      </TD>
+      <TD>      
+      <p>83.39</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaOH<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>-718.4</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-4121</p>
+      </TD>
+      <TD>      
+      <p>-3885</p>
+      </TD>
+      <TD>      
+      <p>236</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CaSO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1434</p>
+      </TD>
+      <TD>      
+      <p>-1322</p>
+      </TD>
+      <TD>      
+      <p>106.7</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><br>
+<br>
+<font size="4">Carbon</font><br>
+</p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>C(g)</p>
+      </TD>
+      <TD>      
+      <p>716.7</p>
+      </TD>
+      <TD>      
+      <p>671.3</p>
+      </TD>
+      <TD>      
+      <p>158.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>C(s, graphite)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>5.74</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>C(s, diamond)</p>
+      </TD>
+      <TD>      
+      <p>1.90</p>
+      </TD>
+      <TD>      
+      <p>2.90</p>
+      </TD>
+      <TD>      
+      <p>2.38</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CCl<sub>4</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-102.9</p>
+      </TD>
+      <TD>      
+      <p>-60.63</p>
+      </TD>
+      <TD>      
+      <p>309.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CCl<sub>4</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-135.4</p>
+      </TD>
+      <TD>      
+      <p>-65.27</p>
+      </TD>
+      <TD>      
+      <p>216.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>C<sub>2</sub>N<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>308.9</p>
+      </TD>
+      <TD>      
+      <p>297.2</p>
+      </TD>
+      <TD>      
+      <p>242.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CN<sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>151</p>
+      </TD>
+      <TD>      
+      <p>166</p>
+      </TD>
+      <TD>      
+      <p>118</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCN(g)</p>
+      </TD>
+      <TD>      
+      <p>135</p>
+      </TD>
+      <TD>      
+      <p>125</p>
+      </TD>
+      <TD>      
+      <p>201.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCN(l)</p>
+      </TD>
+      <TD>      
+      <p>105</p>
+      </TD>
+      <TD>      
+      <p>121</p>
+      </TD>
+      <TD>      
+      <p>112.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCN(aq)</p>
+      </TD>
+      <TD>      
+      <p>105</p>
+      </TD>
+      <TD>      
+      <p>112</p>
+      </TD>
+      <TD>      
+      <p>129</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CO(g)</p>
+      </TD>
+      <TD>      
+      <p>-110.5</p>
+      </TD>
+      <TD>      
+      <p>-137.2</p>
+      </TD>
+      <TD>      
+      <p>197.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CO<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-393.5</p>
+      </TD>
+      <TD>      
+      <p>-394.4</p>
+      </TD>
+      <TD>      
+      <p>213.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CO<sub>2</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-412.9</p>
+      </TD>
+      <TD>      
+      <p>-386.2</p>
+      </TD>
+      <TD>      
+      <p>121</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CO<sub>3</sub><sup>2-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-677.1</p>
+      </TD>
+      <TD>      
+      <p>-527.8</p>
+      </TD>
+      <TD>      
+      <p>-56.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCO<sub>3</sub><sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-691.11</p>
+      </TD>
+      <TD>      
+      <p>-587.06</p>
+      </TD>
+      <TD>      
+      <p>95.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>CO<sub>3</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-698.7</p>
+      </TD>
+      <TD>      
+      <p>-623.42</p>
+      </TD>
+      <TD>      
+      <p>191</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>C<sub>3</sub>O<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-93.72</p>
+      </TD>
+      <TD>      
+      <p>-109.8</p>
+      </TD>
+      <TD>      
+      <p>276.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>C<sub>3</sub>O<sub>2</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-117.3</p>
+      </TD>
+      <TD>      
+      <p>-105.0</p>
+      </TD>
+      <TD>      
+      <p>181.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>COCl<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-220.9</p>
+      </TD>
+      <TD>      
+      <p>-206.8</p>
+      </TD>
+      <TD>      
+      <p>283.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CH<sub>3</sub>Cl(g)</p>
+      </TD>
+      <TD>      
+      <p>-83.7</p>
+      </TD>
+      <TD>      
+      <p>-60.2</p>
+      </TD>
+      <TD>      
+      <p>234</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CH<sub>2</sub>Cl<sub>2</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-117</p>
+      </TD>
+      <TD>      
+      <p>-63.2</p>
+      </TD>
+      <TD>      
+      <p>179</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CHCl<sub>3</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-132</p>
+      </TD>
+      <TD>      
+      <p>-71.5</p>
+      </TD>
+      <TD>      
+      <p>203</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>COS(g)</p>
+      </TD>
+      <TD>      
+      <p>-138.4</p>
+      </TD>
+      <TD>      
+      <p>-165.6</p>
+      </TD>
+      <TD>      
+      <p>231.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CS<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>117</p>
+      </TD>
+      <TD>      
+      <p>66.9</p>
+      </TD>
+      <TD>      
+      <p>237.79</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CS<sub>2</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>89.70</p>
+      </TD>
+      <TD>      
+      <p>65.27</p>
+      </TD>
+      <TD>      
+      <p>151.3</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Cesium</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cs<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>458.5</p>
+      </TD>
+      <TD>      
+      <p>427.1</p>
+      </TD>
+      <TD>      
+      <p>169.72</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cs<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-248</p>
+      </TD>
+      <TD>      
+      <p>-282.0</p>
+      </TD>
+      <TD>      
+      <p>133</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cs(g)</p>
+      </TD>
+      <TD>      
+      <p>76.7</p>
+      </TD>
+      <TD>      
+      <p>49.7</p>
+      </TD>
+      <TD>      
+      <p>175.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Cs(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>85.15</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CsF(s)</p>
+      </TD>
+      <TD>      
+      <p>-554.7</p>
+      </TD>
+      <TD>      
+      <p>-525.4</p>
+      </TD>
+      <TD>      
+      <p>88</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CsCl(s)</p>
+      </TD>
+      <TD>      
+      <p>-442.8</p>
+      </TD>
+      <TD>      
+      <p>-414</p>
+      </TD>
+      <TD>      
+      <p>101.18</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CsBr(s)</p>
+      </TD>
+      <TD>      
+      <p>-395</p>
+      </TD>
+      <TD>      
+      <p>-383</p>
+      </TD>
+      <TD>      
+      <p>121</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CsI(s)</p>
+      </TD>
+      <TD>      
+      <p>-337</p>
+      </TD>
+      <TD>      
+      <p>-333</p>
+      </TD>
+      <TD>      
+      <p>130</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Chlorine</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cl(g)</p>
+      </TD>
+      <TD>      
+      <p>121.7</p>
+      </TD>
+      <TD>      
+      <p>105.7</p>
+      </TD>
+      <TD>      
+      <p>165.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cl<sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-167.2</p>
+      </TD>
+      <TD>      
+      <p>-131.2</p>
+      </TD>
+      <TD>      
+      <p>56.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cl<sup>-</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>-234</p>
+      </TD>
+      <TD>      
+      <p>-240</p>
+      </TD>
+      <TD>      
+      <p>153.25</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Cl<sub>2</sub>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>223.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>ClF<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-163.2</p>
+      </TD>
+      <TD>      
+      <p>-123.0</p>
+      </TD>
+      <TD>      
+      <p>281.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>ClO<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>102.5</p>
+      </TD>
+      <TD>      
+      <p>120.5</p>
+      </TD>
+      <TD>      
+      <p>256.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cl<sub>2</sub>O(g)</p>
+      </TD>
+      <TD>      
+      <p>80.33</p>
+      </TD>
+      <TD>      
+      <p>97.49</p>
+      </TD>
+      <TD>      
+      <p>267.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCl(g)</p>
+      </TD>
+      <TD>      
+      <p>-92.31</p>
+      </TD>
+      <TD>      
+      <p>-95.30</p>
+      </TD>
+      <TD>      
+      <p>186.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCl(aq)</p>
+      </TD>
+      <TD>      
+      <p>-167.2</p>
+      </TD>
+      <TD>      
+      <p>-131.3</p>
+      </TD>
+      <TD>      
+      <p>56.48</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Chromium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cr(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>23.66</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CrCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-395.4</p>
+      </TD>
+      <TD>      
+      <p>-356.0</p>
+      </TD>
+      <TD>      
+      <p>115.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CrCl<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-556.5</p>
+      </TD>
+      <TD>      
+      <p>-486.1</p>
+      </TD>
+      <TD>      
+      <p>123.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cr<sub>2</sub>O<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1135</p>
+      </TD>
+      <TD>      
+      <p>-1053</p>
+      </TD>
+      <TD>      
+      <p>81.17</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CrO<sub>4</sub><sup>2-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-881.2</p>
+      </TD>
+      <TD>      
+      <p>-727.8</p>
+      </TD>
+      <TD>      
+      <p>50.21</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>(aq
+)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-1490.3</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-1301.1</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>261.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>[Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-1971</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Cobalt</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Co(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>30.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Co<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-67.4</p>
+      </TD>
+      <TD>      
+      <p>-51.5</p>
+      </TD>
+      <TD>      
+      <p>-155</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Co<sup>3+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>92.0</p>
+      </TD>
+      <TD>      
+      <p>134.0</p>
+      </TD>
+      <TD>      
+      <p>-305.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CoO(s)</p>
+      </TD>
+      <TD>      
+      <p>-237.9</p>
+      </TD>
+      <TD>      
+      <p>-214.2</p>
+      </TD>
+      <TD>      
+      <p>52.97</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Co<sub>3</sub>O<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-891.0</p>
+      </TD>
+      <TD>      
+      <p>-774.0</p>
+      </TD>
+      <TD>      
+      <p>102.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Co(OH)<sub>2</sub>(s, pink)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-539.7</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-454.4</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>79.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CoCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-312.5</p>
+      </TD>
+      <TD>      
+      <p>-269.8</p>
+      </TD>
+      <TD>      
+      <p>109.2</p>
+      </TD>
+    </tr>
+
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Copper</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cu(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>33.15</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cu(g)</p>
+      </TD>
+      <TD>      
+      <p>341.1</p>
+      </TD>
+      <TD>      
+      <p>301.4</p>
+      </TD>
+      <TD>      
+      <p>166.29</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cu<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>51.9</p>
+      </TD>
+      <TD>      
+      <p>50.2</p>
+      </TD>
+      <TD>      
+      <p>-26</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Cu<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>64.77</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>65.49</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-99.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CuCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-220.1</p>
+      </TD>
+      <TD>      
+      <p>-175.7</p>
+      </TD>
+      <TD>      
+      <p>108.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CuCO<sub>3</sub>*Cu(OH)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1051</p>
+      </TD>
+      <TD>      
+      <p>-893.7</p>
+      </TD>
+      <TD>      
+      <p>186</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cu<sub>2</sub>O(s)</p>
+      </TD>
+      <TD>      
+      <p>-168.6</p>
+      </TD>
+      <TD>      
+      <p>-146.0</p>
+      </TD>
+      <TD>      
+      <p>93.14</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CuO(s)</p>
+      </TD>
+      <TD>      
+      <p>-157.3</p>
+      </TD>
+      <TD>      
+      <p>-129.7</p>
+      </TD>
+      <TD>      
+      <p>42.63</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Cu(OH)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-450.2</p>
+      </TD>
+      <TD>      
+      <p>-373</p>
+      </TD>
+      <TD>      
+      <p>108</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>CuSO<sub>4</sub>*5H<sub>2</sub>O(s)</p>
+      </TD>
+      <TD>      
+      <p>-2279.6</p>
+      </TD>
+      <TD>      
+      <p>-1880.1</p>
+      </TD>
+      <TD>      
+      <p>300.4</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Fluorine</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>F(g)</p>
+      </TD>
+      <TD>      
+      <p>78.99</p>
+      </TD>
+      <TD>      
+      <p>61.92</p>
+      </TD>
+      <TD>      
+      <p>158.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>F<sup> -</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>-255.6</p>
+      </TD>
+      <TD>      
+      <p>-262.5</p>
+      </TD>
+      <TD>      
+      <p>145.47</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>F<sup> -</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-332.6</p>
+      </TD>
+      <TD>      
+      <p>-278.8</p>
+      </TD>
+      <TD>      
+      <p>-13.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>F<sub>2</sub>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>202.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HF(g)</p>
+      </TD>
+      <TD>      
+      <p>-271.1</p>
+      </TD>
+      <TD>      
+      <p>-273.2</p>
+      </TD>
+      <TD>      
+      <p>173.7</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Helium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>He(g)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>126.0</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Hydrogen</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="636">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H(g)</p>
+      </TD>
+      <TD>      
+      <p>218.0</p>
+      </TD>
+      <TD>      
+      <p>203.3</p>
+      </TD>
+      <TD>      
+      <p>114.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>1536.3</p>
+      </TD>
+      <TD>      
+      <p>1517.1</p>
+      </TD>
+      <TD>      
+      <p>108.83</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>H<sup>+</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>3</sub>O<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-285.8</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>69.91</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>130.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HBr(g)</p>
+      </TD>
+      <TD>      
+      <p>-36.40</p>
+      </TD>
+      <TD>      
+      <p>-53.43</p>
+      </TD>
+      <TD>      
+      <p>198.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCl(g)</p>
+      </TD>
+      <TD>      
+      <p>-92.31</p>
+      </TD>
+      <TD>      
+      <p>-95.30</p>
+      </TD>
+      <TD>      
+      <p>186.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCl(aq)</p>
+      </TD>
+      <TD>      
+      <p>-167.2</p>
+      </TD>
+      <TD>      
+      <p>-131.3</p>
+      </TD>
+      <TD>      
+      <p>56.48</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HCN(g)</p>
+      </TD>
+      <TD>      
+      <p>135</p>
+      </TD>
+      <TD>      
+      <p>125</p>
+      </TD>
+      <TD>      
+      <p>201.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HF(g)</p>
+      </TD>
+      <TD>      
+      <p>-271.1</p>
+      </TD>
+      <TD>      
+      <p>-273.2</p>
+      </TD>
+      <TD>      
+      <p>173.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HI(g)</p>
+      </TD>
+      <TD>      
+      <p>26.48</p>
+      </TD>
+      <TD>      
+      <p>1.72</p>
+      </TD>
+      <TD>      
+      <p>206.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HNO<sub>3</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-173.2</p>
+      </TD>
+      <TD>      
+      <p>-79.91</p>
+      </TD>
+      <TD>      
+      <p>155.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HNO<sub>3</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-207.4</p>
+      </TD>
+      <TD>      
+      <p>-113.3</p>
+      </TD>
+      <TD>      
+      <p>146.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>O(g)</p>
+      </TD>
+      <TD>      
+      <p>-241.8</p>
+      </TD>
+      <TD>      
+      <p>-228.6</p>
+      </TD>
+      <TD>      
+      <p>188.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>O(l)</p>
+      </TD>
+      <TD>      
+      <p>-285.8</p>
+      </TD>
+      <TD>      
+      <p>-237.2</p>
+      </TD>
+      <TD>      
+      <p>69.91</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>O<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-136.1</p>
+      </TD>
+      <TD>      
+      <p>-105.5</p>
+      </TD>
+      <TD>      
+      <p>232.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>O<sub>2</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-187.8</p>
+      </TD>
+      <TD>      
+      <p>-120.4</p>
+      </TD>
+      <TD>      
+      <p>110</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>O<sub>2</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-191.2</p>
+      </TD>
+      <TD>      
+      <p>-134.1</p>
+      </TD>
+      <TD>      
+      <p>144</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>S(g)</p>
+      </TD>
+      <TD>      
+      <p>-20.63</p>
+      </TD>
+      <TD>      
+      <p>-33.56</p>
+      </TD>
+      <TD>      
+      <p>205.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>SO<sub>4</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-814.0</p>
+      </TD>
+      <TD>      
+      <p>-690.1</p>
+      </TD>
+      <TD>      
+      <p>156.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>SO<sub>4</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-909.3</p>
+      </TD>
+      <TD>      
+      <p>-744.6</p>
+      </TD>
+      <TD>      
+      <p>20.08</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<font size="4">
+<p>Iodine</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>I(g)</p>
+      </TD>
+      <TD>      
+      <p>106.8</p>
+      </TD>
+      <TD>      
+      <p>70.28</p>
+      </TD>
+      <TD>      
+      <p>180.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>I<sup>-</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>-194.7</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>I<sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-55.19</p>
+      </TD>
+      <TD>      
+      <p>-51.57</p>
+      </TD>
+      <TD>      
+      <p>111.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>I<sub>2</sub>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>62.44</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>19.36</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>260.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>I<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>116.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>IBr(g)</p>
+      </TD>
+      <TD>      
+      <p>40.84</p>
+      </TD>
+      <TD>      
+      <p>3.72</p>
+      </TD>
+      <TD>      
+      <p>258.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>ICl(g)</p>
+      </TD>
+      <TD>      
+      <p>17.78</p>
+      </TD>
+      <TD>      
+      <p>-5.44</p>
+      </TD>
+      <TD>      
+      <p>247.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>ICl(l)</p>
+      </TD>
+      <TD>      
+      <p>-23.89</p>
+      </TD>
+      <TD>      
+      <p>-13.60</p>
+      </TD>
+      <TD>      
+      <p>135.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HI(g)</p>
+      </TD>
+      <TD>      
+      <p>26.48</p>
+      </TD>
+      <TD>      
+      <p>1.72</p>
+      </TD>
+      <TD>      
+      <p>206.5</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Iron</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="636">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Fe(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>27.28</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Fe(l)</p>
+      </TD>
+      <TD>      
+      <p>13.13</p>
+      </TD>
+      <TD>      
+      <p>11.05</p>
+      </TD>
+      <TD>      
+      <p>34.29</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Fe<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-89.1</p>
+      </TD>
+      <TD>      
+      <p>-78.90</p>
+      </TD>
+      <TD>      
+      <p>-137.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Fe<sup>3+</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-48.5</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-4.7</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-315.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>FeCO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-740.6</p>
+      </TD>
+      <TD>      
+      <p>-666.7</p>
+      </TD>
+      <TD>      
+      <p>92.88</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>FeCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-341.8</p>
+      </TD>
+      <TD>      
+      <p>-302.3</p>
+      </TD>
+      <TD>      
+      <p>118.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>FeCl<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-399.5</p>
+      </TD>
+      <TD>      
+      <p>-334.1</p>
+      </TD>
+      <TD>      
+      <p>142.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>FeO(s)</p>
+      </TD>
+      <TD>      
+      <p>-272.0</p>
+      </TD>
+      <TD>      
+      <p>-251.5</p>
+      </TD>
+      <TD>      
+      <p>60.75</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Fe<sub>2</sub>O<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-824.2</p>
+      </TD>
+      <TD>      
+      <p>-742.2</p>
+      </TD>
+      <TD>      
+      <p>87.40</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Fe<sub>3</sub>O<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1118.4</p>
+      </TD>
+      <TD>      
+      <p>-1015.4</p>
+      </TD>
+      <TD>      
+      <p>146.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Fe(OH)<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-823.0</p>
+      </TD>
+      <TD>      
+      <p>-696.6</p>
+      </TD>
+      <TD>      
+      <p>107</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Lead</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Pb(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>64.81</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Pb<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-1.7</p>
+      </TD>
+      <TD>      
+      <p>-24.43</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>10.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PbBr<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-278.7</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>161.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PbCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-359</p>
+      </TD>
+      <TD>      
+      <p>-314</p>
+      </TD>
+      <TD>      
+      <p>136</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>PbI<sub>2</sub>(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-175.5</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-173.6</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>174.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PbO(s, red)</p>
+      </TD>
+      <TD>      
+      <p>-219.0</p>
+      </TD>
+      <TD>      
+      <p>-189.2</p>
+      </TD>
+      <TD>      
+      <p>66.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PbO<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-277</p>
+      </TD>
+      <TD>      
+      <p>-217.4</p>
+      </TD>
+      <TD>      
+      <p>68.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PbS(s)</p>
+      </TD>
+      <TD>      
+      <p>-98.3</p>
+      </TD>
+      <TD>      
+      <p>-96.7</p>
+      </TD>
+      <TD>      
+      <p>91.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PbSO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-919.9</p>
+      </TD>
+      <TD>      
+      <p>-813.2</p>
+      </TD>
+      <TD>      
+      <p>148.6</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Lithium</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Li(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>29.12</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Li<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-278.5</p>
+      </TD>
+      <TD>      
+      <p>-293.3</p>
+      </TD>
+      <TD>      
+      <p>13.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Li(g)</p>
+      </TD>
+      <TD>      
+      <p>161</p>
+      </TD>
+      <TD>      
+      <p>128</p>
+      </TD>
+      <TD>      
+      <p>138.67</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Li<sup>+</sup>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>687.163</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>649.989</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>132.91</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>LiF(s)</p>
+      </TD>
+      <TD>      
+      <p>-616.9</p>
+      </TD>
+      <TD>      
+      <p>-588.7</p>
+      </TD>
+      <TD>      
+      <p>35.66</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>LiCl(s)</p>
+      </TD>
+      <TD>      
+      <p>-408.6</p>
+      </TD>
+      <TD>      
+      <p>-384.4</p>
+      </TD>
+      <TD>      
+      <p>59.33</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>LiBr(s)</p>
+      </TD>
+      <TD>      
+      <p>-351</p>
+      </TD>
+      <TD>      
+      <p>-342</p>
+      </TD>
+      <TD>      
+      <p>74.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>LiI(s)</p>
+      </TD>
+      <TD>      
+      <p>-270</p>
+      </TD>
+      <TD>      
+      <p>-270</p>
+      </TD>
+      <TD>      
+      <p>85.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Li<sub>2</sub>O(s)</p>
+      </TD>
+      <TD>      
+      <p>-597.94</p>
+      </TD>
+      <TD>      
+      <p>-561.18</p>
+      </TD>
+      <TD>      
+      <p>37.57</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>LiOH(s)</p>
+      </TD>
+      <TD>      
+      <p>-484.9</p>
+      </TD>
+      <TD>      
+      <p>-439.0</p>
+      </TD>
+      <TD>      
+      <p>42.80</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>LiNO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-483.1</p>
+      </TD>
+      <TD>      
+      <p>-381.1</p>
+      </TD>
+      <TD>      
+      <p>90.0</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Magnesium</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="636">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mg(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>32.69</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mg(g)</p>
+      </TD>
+      <TD>      
+      <p>150</p>
+      </TD>
+      <TD>      
+      <p>115</p>
+      </TD>
+      <TD>      
+      <p>148.55</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mg<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>894.1</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Mg<sup>2+</sup>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>2351</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>&nbsp;</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mg<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-466.9</p>
+      </TD>
+      <TD>      
+      <p>-454.8</p>
+      </TD>
+      <TD>      
+      <p>-138.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MgCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-641.3</p>
+      </TD>
+      <TD>      
+      <p>-591.8</p>
+      </TD>
+      <TD>      
+      <p>89.62</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MgCO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1096</p>
+      </TD>
+      <TD>      
+      <p>-1012</p>
+      </TD>
+      <TD>      
+      <p>65.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MgF<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1124</p>
+      </TD>
+      <TD>      
+      <p>-1071</p>
+      </TD>
+      <TD>      
+      <p>57.24</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MgO(s)</p>
+      </TD>
+      <TD>      
+      <p>-601.7</p>
+      </TD>
+      <TD>      
+      <p>-569.4</p>
+      </TD>
+      <TD>      
+      <p>26.94</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MgOH<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>-626.7</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mg(OH)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-924.7</p>
+      </TD>
+      <TD>      
+      <p>-833.9</p>
+      </TD>
+      <TD>      
+      <p>63.18</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mg<sub>3</sub>N<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-461</p>
+      </TD>
+      <TD>      
+      <p>-401</p>
+      </TD>
+      <TD>      
+      <p>88</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MgSO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1285</p>
+      </TD>
+      <TD>      
+      <p>-1171</p>
+      </TD>
+      <TD>      
+      <p>91.6</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Manganese</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mn(s, <img src="alpha.gif" align="center">)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>32.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Mn<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-220.8</p>
+      </TD>
+      <TD>      
+      <p>-228.1</p>
+      </TD>
+      <TD>      
+      <p>-73.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MnCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-481.3</p>
+      </TD>
+      <TD>      
+      <p>-440.5</p>
+      </TD>
+      <TD>      
+      <p>118.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>MnO<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-520</p>
+      </TD>
+      <TD>      
+      <p>-465.2</p>
+      </TD>
+      <TD>      
+      <p>53.05</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>MnO<sub>4</sub><sup>-</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-541.4</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-447.2</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>191.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>MnO<sub>4</sub><sup>2-</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-653.0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-500.7</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>59.0</p>
+      </TD>
+    </tr>
+
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Mercury</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Hg(g)</p>
+      </TD>
+      <TD>      
+      <p>61.32</p>
+      </TD>
+      <TD>      
+      <p>31.85</p>
+      </TD>
+      <TD>      
+      <p>174.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Hg(l)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>76.02</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Hg<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>164.8</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Hg<sub>2</sub><sup>2+</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p align="center">172.4</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>153.9</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p align="center">84.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HgCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-230</p>
+      </TD>
+      <TD>      
+      <p>-184</p>
+      </TD>
+      <TD>      
+      <p>144</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Hg<sub>2</sub>Br<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-206.9</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>218.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Hg<sub>2</sub>Cl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-265.4</p>
+      </TD>
+      <TD>      
+      <p>-210.66</p>
+      </TD>
+      <TD>      
+      <p>191.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Hg<sub>2</sub>I<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-121.3</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>233.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HgO(s)</p>
+      </TD>
+      <TD>      
+      <p>-90.83</p>
+      </TD>
+      <TD>      
+      <p>-58.56</p>
+      </TD>
+      <TD>      
+      <p>70.29</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<font size="4">
+<p>Nickel</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ni(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>30.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ni<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-64.0</p>
+      </TD>
+      <TD>      
+      <p>-46.4</p>
+      </TD>
+      <TD>      
+      <p>-159</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NiCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-305.3</p>
+      </TD>
+      <TD>      
+      <p>-259.0</p>
+      </TD>
+      <TD>      
+      <p>97.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ni(OH)<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-529.7</p>
+      </TD>
+      <TD>      
+      <p>-447.2</p>
+      </TD>
+      <TD>      
+      <p>88.0</p>
+      </TD>
+    </tr>
+
+  </tbody>
+</table>
+<p><font size="4">&nbsp;</font></p>
+<p><font size="4">Nitrogen</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N(g)</p>
+      </TD>
+      <TD>      
+      <p>472.7</p>
+      </TD>
+      <TD>      
+      <p>455.6</p>
+      </TD>
+      <TD>      
+      <p>153.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>191.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NF<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-124.7</p>
+      </TD>
+      <TD>      
+      <p>-83.2</p>
+      </TD>
+      <TD>      
+      <p>260.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-46.11</p>
+      </TD>
+      <TD>      
+      <p>-16.48</p>
+      </TD>
+      <TD>      
+      <p>192.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>3</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-80.29</p>
+      </TD>
+      <TD>      
+      <p>-26.57</p>
+      </TD>
+      <TD>      
+      <p>111.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub><sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-132.5</p>
+      </TD>
+      <TD>      
+      <p>-79.31</p>
+      </TD>
+      <TD>      
+      <p>113.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub>Br(s)</p>
+      </TD>
+      <TD>      
+      <p>-270.8</p>
+      </TD>
+      <TD>      
+      <p>-175</p>
+      </TD>
+      <TD>      
+      <p>113.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub>Cl(s)</p>
+      </TD>
+      <TD>      
+      <p>-314.4</p>
+      </TD>
+      <TD>      
+      <p>-203.0</p>
+      </TD>
+      <TD>      
+      <p>94.56</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub>F(s)</p>
+      </TD>
+      <TD>      
+      <p>-464.0</p>
+      </TD>
+      <TD>      
+      <p>-348.8</p>
+      </TD>
+      <TD>      
+      <p>71.96</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub>HCO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-849.4</p>
+      </TD>
+      <TD>      
+      <p>-666.1</p>
+      </TD>
+      <TD>      
+      <p>121</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub>I(s)</p>
+      </TD>
+      <TD>      
+      <p>-201.4</p>
+      </TD>
+      <TD>      
+      <p>-113</p>
+      </TD>
+      <TD>      
+      <p>117</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub>NO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-365.6</p>
+      </TD>
+      <TD>      
+      <p>-184.0</p>
+      </TD>
+      <TD>      
+      <p>151.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NH<sub>4</sub>NO<sub>3</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-339.9</p>
+      </TD>
+      <TD>      
+      <p>-190.7</p>
+      </TD>
+      <TD>      
+      <p>259.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1181</p>
+      </TD>
+      <TD>      
+      <p>-901.9</p>
+      </TD>
+      <TD>      
+      <p>220.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N<sub>2</sub>H<sub>4</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>95.40</p>
+      </TD>
+      <TD>      
+      <p>159.3</p>
+      </TD>
+      <TD>      
+      <p>238.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N<sub>2</sub>H<sub>4</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>50.63</p>
+      </TD>
+      <TD>      
+      <p>149.2</p>
+      </TD>
+      <TD>      
+      <p>121.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NO(g)</p>
+      </TD>
+      <TD>      
+      <p>90.25</p>
+      </TD>
+      <TD>      
+      <p>86.57</p>
+      </TD>
+      <TD>      
+      <p>210.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N<sub>2</sub>O(g)</p>
+      </TD>
+      <TD>      
+      <p>82.05</p>
+      </TD>
+      <TD>      
+      <p>104.2</p>
+      </TD>
+      <TD>      
+      <p>219.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NO<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>33.18</p>
+      </TD>
+      <TD>      
+      <p>51.30</p>
+      </TD>
+      <TD>      
+      <p>240.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N<sub>2</sub>O<sub>4</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>9.16</p>
+      </TD>
+      <TD>      
+      <p>97.82</p>
+      </TD>
+      <TD>      
+      <p>304.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N<sub>2</sub>O<sub>4</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-19.6</p>
+      </TD>
+      <TD>      
+      <p>97.40</p>
+      </TD>
+      <TD>      
+      <p>209.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>N<sub>2</sub>O<sub>5</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>11.3</p>
+      </TD>
+      <TD>      
+      <p>115.1</p>
+      </TD>
+      <TD>      
+      <p>355.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NO<sub>3</sub><sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-205.0</p>
+      </TD>
+      <TD>      
+      <p>-108.7</p>
+      </TD>
+      <TD>      
+      <p>146.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HNO<sub>3</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-173.2</p>
+      </TD>
+      <TD>      
+      <p>-79.91</p>
+      </TD>
+      <TD>      
+      <p>155.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HNO<sub>3</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-207.4</p>
+      </TD>
+      <TD>      
+      <p>-113.3</p>
+      </TD>
+      <TD>      
+      <p>146.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NOBr(g)</p>
+      </TD>
+      <TD>      
+      <p>82.17</p>
+      </TD>
+      <TD>      
+      <p>82.4</p>
+      </TD>
+      <TD>      
+      <p>273.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NOCl(g)</p>
+      </TD>
+      <TD>      
+      <p>51.71</p>
+      </TD>
+      <TD>      
+      <p>66.07</p>
+      </TD>
+      <TD>      
+      <p>261.6</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<font size="4">
+<p>Oxygen</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>O(g)</p>
+      </TD>
+      <TD>      
+      <p>249.2</p>
+      </TD>
+      <TD>      
+      <p>231.7</p>
+      </TD>
+      <TD>      
+      <p>160.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>O<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>205.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>O<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>142.7</p>
+      </TD>
+      <TD>      
+      <p>163.2</p>
+      </TD>
+      <TD>      
+      <p>238.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>OH<sup>-</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-230.0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-157.2</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-10.75</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>OF<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>24.5</p>
+      </TD>
+      <TD>      
+      <p>41.8</p>
+      </TD>
+      <TD>      
+      <p>247.3</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Phosphorous</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>P(g)</p>
+      </TD>
+      <TD>      
+      <p>333.9</p>
+      </TD>
+      <TD>      
+      <p>292.0</p>
+      </TD>
+      <TD>      
+      <p>163.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>P(<img src="alpha.gif" alt="&amp;alpha;" width="14" height="14">
+,s, white)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>41.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>P<sub>4</sub>(s, red)</p>
+      </TD>
+      <TD>      
+      <p>-17.6</p>
+      </TD>
+      <TD>      
+      <p>-12.1</p>
+      </TD>
+      <TD>      
+      <p>22.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>P<sub>2</sub>(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>146.2</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>103.8</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>218.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>P<sub>4</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>58.9</p>
+      </TD>
+      <TD>      
+      <p>24.5</p>
+      </TD>
+      <TD>      
+      <p>279.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PCl<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-287.0</p>
+      </TD>
+      <TD>      
+      <p>-267.8</p>
+      </TD>
+      <TD>      
+      <p>311.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PCl<sub>3</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-319.7</p>
+      </TD>
+      <TD>      
+      <p>-272.3</p>
+      </TD>
+      <TD>      
+      <p>217.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PCl<sub>5</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-374.5</p>
+      </TD>
+      <TD>      
+      <p>-305.0</p>
+      </TD>
+      <TD>      
+      <p>364.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PCl<sub>5</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-443.5</p>
+      </TD>
+      <TD>      
+      <p>-</p>
+      </TD>
+      <TD>      
+      <p>-</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PH<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>5.4</p>
+      </TD>
+      <TD>      
+      <p>13.4</p>
+      </TD>
+      <TD>      
+      <p>210.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>P<sub>4</sub>O<sub>10</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-2984</p>
+      </TD>
+      <TD>      
+      <p>-2698</p>
+      </TD>
+      <TD>      
+      <p>228.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>PO<sub>4</sub><sup>3</sup><sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-1277</p>
+      </TD>
+      <TD>      
+      <p>-1019</p>
+      </TD>
+      <TD>      
+      <p>-222</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HPO<sub>4</sub><sup>2</sup><sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-1292.1</p>
+      </TD>
+      <TD>      
+      <p>-1089.3</p>
+      </TD>
+      <TD>      
+      <p>-33</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>PO<sub>4</sub><sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-1296.3</p>
+      </TD>
+      <TD>      
+      <p>-1130.4</p>
+      </TD>
+      <TD>      
+      <p>90.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>3</sub>PO<sub>4</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-1288.3</p>
+      </TD>
+      <TD>      
+      <p>-1142.7</p>
+      </TD>
+      <TD>      
+      <p>158</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Potassium</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>K(g)</p>
+      </TD>
+      <TD>      
+      <p>89.24</p>
+      </TD>
+      <TD>      
+      <p>60.63</p>
+      </TD>
+      <TD>      
+      <p>160.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>K(l)</p>
+      </TD>
+      <TD>      
+      <p>2.28</p>
+      </TD>
+      <TD>      
+      <p>0.26</p>
+      </TD>
+      <TD>      
+      <p>71.46</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>K(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>64.18</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>K<sup>+</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-252.4</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-283.3</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>102.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>K<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>514.197</p>
+      </TD>
+      <TD>      
+      <p>481.202</p>
+      </TD>
+      <TD>      
+      <p>154.47</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KBr(s)</p>
+      </TD>
+      <TD>      
+      <p>-393.8</p>
+      </TD>
+      <TD>      
+      <p>-380.7</p>
+      </TD>
+      <TD>      
+      <p>95.90</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KCN(s)</p>
+      </TD>
+      <TD>      
+      <p>-113</p>
+      </TD>
+      <TD>      
+      <p>-101.9</p>
+      </TD>
+      <TD>      
+      <p>128.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KCl(s)</p>
+      </TD>
+      <TD>      
+      <p>-436.7</p>
+      </TD>
+      <TD>      
+      <p>-409.2</p>
+      </TD>
+      <TD>      
+      <p>82.59</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KClO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-397.7</p>
+      </TD>
+      <TD>      
+      <p>-296.3</p>
+      </TD>
+      <TD>      
+      <p>143</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KClO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-432.8</p>
+      </TD>
+      <TD>      
+      <p>-303.2</p>
+      </TD>
+      <TD>      
+      <p>151.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KF(s)</p>
+      </TD>
+      <TD>      
+      <p>-567.3</p>
+      </TD>
+      <TD>      
+      <p>-537.8</p>
+      </TD>
+      <TD>      
+      <p>66.57</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KI(s)</p>
+      </TD>
+      <TD>      
+      <p>-327.9</p>
+      </TD>
+      <TD>      
+      <p>-324.9</p>
+      </TD>
+      <TD>      
+      <p>106.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KNO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-494.6</p>
+      </TD>
+      <TD>      
+      <p>-394.9</p>
+      </TD>
+      <TD>      
+      <p>133.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KOH(s)</p>
+      </TD>
+      <TD>      
+      <p>-424.8</p>
+      </TD>
+      <TD>      
+      <p>-379.1</p>
+      </TD>
+      <TD>      
+      <p>78.87</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>KOH(aq)</p>
+      </TD>
+      <TD>      
+      <p>-482.4</p>
+      </TD>
+      <TD>      
+      <p>-440.5</p>
+      </TD>
+      <TD>      
+      <p>91.63</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>K<sub>2</sub>SO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1438</p>
+      </TD>
+      <TD>      
+      <p>-1321</p>
+      </TD>
+      <TD>      
+      <p>175.6</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><br>
+<font size="4">Rubidium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Rb<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>495.04</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Rb<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-246</p>
+      </TD>
+      <TD>      
+      <p>-282.2</p>
+      </TD>
+      <TD>      
+      <p>124</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Rb(g)</p>
+      </TD>
+      <TD>      
+      <p>85.81</p>
+      </TD>
+      <TD>      
+      <p>55.86</p>
+      </TD>
+      <TD>      
+      <p>169.99</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Rb(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>0</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>69.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>RbF(s)</p>
+      </TD>
+      <TD>      
+      <p>-549.28</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>RbCl(s)</p>
+      </TD>
+      <TD>      
+      <p>-430.58</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>RbBr(s)</p>
+      </TD>
+      <TD>      
+      <p>-389.2</p>
+      </TD>
+      <TD>      
+      <p>-378.1</p>
+      </TD>
+      <TD>      
+      <p>108.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>RbI(s)</p>
+      </TD>
+      <TD>      
+      <p>-328</p>
+      </TD>
+      <TD>      
+      <p>-326</p>
+      </TD>
+      <TD>      
+      <p>118.0</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Silicon</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Si(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>18.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SiH<sub>4</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>34</p>
+      </TD>
+      <TD>      
+      <p>56.9</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>204.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Si<sub>2</sub>H<sub>6</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>80.3</p>
+      </TD>
+      <TD>      
+      <p>127</p>
+      </TD>
+      <TD>      
+      <p>272.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>SiO<sub>2</sub>(s, quartz)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-910.9</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-856.5</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>41.84</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Silver</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="636">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ag(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>42.55</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ag(g)</p>
+      </TD>
+      <TD>      
+      <p>289.2</p>
+      </TD>
+      <TD>      
+      <p>250.4</p>
+      </TD>
+      <TD>      
+      <p>172.892</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ag<sup>+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>105.6</p>
+      </TD>
+      <TD>      
+      <p>77.11</p>
+      </TD>
+      <TD>      
+      <p>72.68</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>AgBr(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-100.4</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-96.90</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>107</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>AgCl(s)</p>
+      </TD>
+      <TD>      
+      <p>-127.1</p>
+      </TD>
+      <TD>      
+      <p>-109.8</p>
+      </TD>
+      <TD>      
+      <p>96.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>AgF(s)</p>
+      </TD>
+      <TD>      
+      <p>-203</p>
+      </TD>
+      <TD>      
+      <p>-185</p>
+      </TD>
+      <TD>      
+      <p>84</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>AgI(s)</p>
+      </TD>
+      <TD>      
+      <p>-61.84</p>
+      </TD>
+      <TD>      
+      <p>-66.19</p>
+      </TD>
+      <TD>      
+      <p>115</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>AgNO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-124.4</p>
+      </TD>
+      <TD>      
+      <p>-33.5</p>
+      </TD>
+      <TD>      
+      <p>140.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ag<sub>2</sub>O(s)</p>
+      </TD>
+      <TD>      
+      <p>-31.0</p>
+      </TD>
+      <TD>      
+      <p>-11.2</p>
+      </TD>
+      <TD>      
+      <p>121</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ag<sub>2</sub>S(s)</p>
+      </TD>
+      <TD>      
+      <p>-31.8</p>
+      </TD>
+      <TD>      
+      <p>-40.3</p>
+      </TD>
+      <TD>      
+      <p>146</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ag<sub>2</sub>SO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-715.9</p>
+      </TD>
+      <TD>      
+      <p>-618.5</p>
+      </TD>
+      <TD>      
+      <p>200.4</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Sodium</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na(g)</p>
+      </TD>
+      <TD>      
+      <p>107.3</p>
+      </TD>
+      <TD>      
+      <p>76.78</p>
+      </TD>
+      <TD>      
+      <p>153.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na(l)</p>
+      </TD>
+      <TD>      
+      <p>2.41</p>
+      </TD>
+      <TD>      
+      <p>0.50</p>
+      </TD>
+      <TD>      
+      <p>57.86</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>51.21</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>Na<sup>+</sup>(aq)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-240.1</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-261.9</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>59.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>609.839</p>
+      </TD>
+      <TD>      
+      <p>574.877</p>
+      </TD>
+      <TD>      
+      <p>147.85</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>142.0</p>
+      </TD>
+      <TD>      
+      <p>104.0</p>
+      </TD>
+      <TD>      
+      <p>230.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaBr(s)</p>
+      </TD>
+      <TD>      
+      <p>-361.1</p>
+      </TD>
+      <TD>      
+      <p>-349.0</p>
+      </TD>
+      <TD>      
+      <p>86.82</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>CO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1131</p>
+      </TD>
+      <TD>      
+      <p>-1044</p>
+      </TD>
+      <TD>      
+      <p>135.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaHCO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-950.8</p>
+      </TD>
+      <TD>      
+      <p>-851.0</p>
+      </TD>
+      <TD>      
+      <p>102</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaCl(s)</p>
+      </TD>
+      <TD>      
+      <p>-411.1</p>
+      </TD>
+      <TD>      
+      <p>-384.0</p>
+      </TD>
+      <TD>      
+      <p>72.13</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaCl(aq)</p>
+      </TD>
+      <TD>      
+      <p>-407.3</p>
+      </TD>
+      <TD>      
+      <p>-393.1</p>
+      </TD>
+      <TD>      
+      <p>115.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaClO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-365.8</p>
+      </TD>
+      <TD>      
+      <p>-262.3</p>
+      </TD>
+      <TD>      
+      <p>123</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaClO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-383.3</p>
+      </TD>
+      <TD>      
+      <p>-254.9</p>
+      </TD>
+      <TD>      
+      <p>142.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaF(s)</p>
+      </TD>
+      <TD>      
+      <p>-573.7</p>
+      </TD>
+      <TD>      
+      <p>-543.5</p>
+      </TD>
+      <TD>      
+      <p>51.46</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaH(s)</p>
+      </TD>
+      <TD>      
+      <p>-56.27</p>
+      </TD>
+      <TD>      
+      <p>-33.5</p>
+      </TD>
+      <TD>      
+      <p>40.02</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaI(s)</p>
+      </TD>
+      <TD>      
+      <p>-287.8</p>
+      </TD>
+      <TD>      
+      <p>-286.1</p>
+      </TD>
+      <TD>      
+      <p>98.53</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaNO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-467.9</p>
+      </TD>
+      <TD>      
+      <p>-367.1</p>
+      </TD>
+      <TD>      
+      <p>116.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaNO<sub>3</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-447.4</p>
+      </TD>
+      <TD>      
+      <p>-373.2</p>
+      </TD>
+      <TD>      
+      <p>205.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>O<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-510.9</p>
+      </TD>
+      <TD>      
+      <p>-447.7</p>
+      </TD>
+      <TD>      
+      <p>94.98</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaOH(s)</p>
+      </TD>
+      <TD>      
+      <p>-425.6</p>
+      </TD>
+      <TD>      
+      <p>-379.5</p>
+      </TD>
+      <TD>      
+      <p>64.48</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaOH(aq)</p>
+      </TD>
+      <TD>      
+      <p>-469.2</p>
+      </TD>
+      <TD>      
+      <p>-419.2</p>
+      </TD>
+      <TD>      
+      <p>48.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaH<sub>2</sub>PO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1537</p>
+      </TD>
+      <TD>      
+      <p>-1386</p>
+      </TD>
+      <TD>      
+      <p>127.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>HPO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1748</p>
+      </TD>
+      <TD>      
+      <p>-1608</p>
+      </TD>
+      <TD>      
+      <p>150.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>3</sub>PO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1917</p>
+      </TD>
+      <TD>      
+      <p>-1789</p>
+      </TD>
+      <TD>      
+      <p>173.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>NaHSO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1125</p>
+      </TD>
+      <TD>      
+      <p>-992.9</p>
+      </TD>
+      <TD>      
+      <p>113</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>SO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1387</p>
+      </TD>
+      <TD>      
+      <p>-1270</p>
+      </TD>
+      <TD>      
+      <p>149.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>SO<sub>4</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-1390</p>
+      </TD>
+      <TD>      
+      <p>-1268</p>
+      </TD>
+      <TD>      
+      <p>138.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>SO<sub>4</sub>*10H<sub>2</sub>O(s)</p>
+      </TD>
+      <TD>      
+      <p>-4327</p>
+      </TD>
+      <TD>      
+      <p>-3647</p>
+      </TD>
+      <TD>      
+      <p>592.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1123</p>
+      </TD>
+      <TD>      
+      <p>-1028</p>
+      </TD>
+      <TD>      
+      <p>155</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<p><br>
+<font size="4">Strontium</font></p>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Sr<sup>2+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>1784</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Sr<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-545.8</p>
+      </TD>
+      <TD>      
+      <p>-557.3</p>
+      </TD>
+      <TD>      
+      <p>-32.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Sr<sup>+</sup>(g)</p>
+      </TD>
+      <TD>      
+      <p>719.6</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Sr(g)</p>
+      </TD>
+      <TD>      
+      <p>164</p>
+      </TD>
+      <TD>      
+      <p>110</p>
+      </TD>
+      <TD>      
+      <p>164.54</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Sr(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>54.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SrCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-828.4</p>
+      </TD>
+      <TD>      
+      <p>-781.2</p>
+      </TD>
+      <TD>      
+      <p>117</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SrF<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1216.3</p>
+      </TD>
+      <TD>      
+      <p>&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>82.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SrO(s)</p>
+      </TD>
+      <TD>      
+      <p>-592.0</p>
+      </TD>
+      <TD>      
+      <p>-562.4</p>
+      </TD>
+      <TD>      
+      <p>55.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SrCO<sub>3</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1218</p>
+      </TD>
+      <TD>      
+      <p>-1138</p>
+      </TD>
+      <TD>      
+      <p>97.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SrSO<sub>4</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1445</p>
+      </TD>
+      <TD>      
+      <p>-1334</p>
+      </TD>
+      <TD>      
+      <p>122</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Sulfur</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="636">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>S(s, rhombic)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>31.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>S(s, monoclinic)</p>
+      </TD>
+      <TD>      
+      <p>0.30</p>
+      </TD>
+      <TD>      
+      <p>0.096</p>
+      </TD>
+      <TD>      
+      <p>32.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>S<sub>8</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>102.3</p>
+      </TD>
+      <TD>      
+      <p>49.16</p>
+      </TD>
+      <TD>      
+      <p>430.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>S(g)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>279</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>239</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>168</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>S<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>129</p>
+      </TD>
+      <TD>      
+      <p>80.1</p>
+      </TD>
+      <TD>      
+      <p>228.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>S<sup>2-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>41.8</p>
+      </TD>
+      <TD>      
+      <p>83.7</p>
+      </TD>
+      <TD>      
+      <p>22</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HS<sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-17.7</p>
+      </TD>
+      <TD>      
+      <p>12.6</p>
+      </TD>
+      <TD>      
+      <p>61.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>S(g)</p>
+      </TD>
+      <TD>      
+      <p>-20.63</p>
+      </TD>
+      <TD>      
+      <p>-33.56</p>
+      </TD>
+      <TD>      
+      <p>205.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>S(aq)</p>
+      </TD>
+      <TD>      
+      <p>-39</p>
+      </TD>
+      <TD>      
+      <p>-27.4</p>
+      </TD>
+      <TD>      
+      <p>122</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>S<sub>2</sub>Cl<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-18.4</p>
+      </TD>
+      <TD>      
+      <p>-31.8</p>
+      </TD>
+      <TD>      
+      <p>331.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SF<sub>6</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-1209</p>
+      </TD>
+      <TD>      
+      <p>-1105</p>
+      </TD>
+      <TD>      
+      <p>291.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SO<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-296.8</p>
+      </TD>
+      <TD>      
+      <p>-300.2</p>
+      </TD>
+      <TD>      
+      <p>248.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SO<sub>3</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-395.7</p>
+      </TD>
+      <TD>      
+      <p>-371.1</p>
+      </TD>
+      <TD>      
+      <p>256.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SO<sub>4</sub><sup>2-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-909.3</p>
+      </TD>
+      <TD>      
+      <p>-744.5</p>
+      </TD>
+      <TD>      
+      <p>20.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>HSO<sub>4</sub><sup>-</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-885.75</p>
+      </TD>
+      <TD>      
+      <p>-752.87</p>
+      </TD>
+      <TD>      
+      <p>126.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>SO<sub>4</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-814.0</p>
+      </TD>
+      <TD>      
+      <p>-690.1</p>
+      </TD>
+      <TD>      
+      <p>156.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>H<sub>2</sub>SO<sub>4</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-909.3</p>
+      </TD>
+      <TD>      
+      <p>-744.6</p>
+      </TD>
+      <TD>      
+      <p>20.08</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>S<sub>2</sub>O<sub>3</sub><sup>2-</sup>(aq
+)</p>
+      </TD>
+      <TD>      
+      <p>-648.5</p>
+      </TD>
+      <TD>      
+      <p>-522.5</p>
+      </TD>
+      <TD>      
+      <p>67</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SO<sub>2</sub>Cl<sub>2</sub>(g)</p>
+      </TD>
+      <TD>      
+      <p>-364.0</p>
+      </TD>
+      <TD>      
+      <p>-320.0</p>
+      </TD>
+      <TD>      
+      <p>311.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SO<sub>2</sub>Cl<sub>2</sub>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-394.1</p>
+      </TD>
+      <TD>      
+      <p>-314</p>
+      </TD>
+      <TD>      
+      <p>207</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Tin</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Sn(s, white)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>51.55</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Sn(s, gray)</p>
+      </TD>
+      <TD>      
+      <p>-2.1</p>
+      </TD>
+      <TD>      
+      <p>0.1</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>44.14</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SnCl<sub>4</sub>(l)</p>
+      </TD>
+      <TD>      
+      <p>-511.3</p>
+      </TD>
+      <TD>      
+      <p>-440.2</p>
+      </TD>
+      <TD>      
+      <p>259</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>SnO(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-286</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-257</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>56.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>SnO<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-580.7</p>
+      </TD>
+      <TD>      
+      <p>-519.7</p>
+      </TD>
+      <TD>      
+      <p>52.3</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Titanium</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Ti(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>30.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>&nbsp;TiCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-513.8</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-464.4</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>87.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>&nbsp;TiCl<sub>3</sub>(s)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-720.9</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-653.5</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>139.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>TiCl<sub>4</sub>(g)&nbsp;</p>
+      </TD>
+      <TD>      
+      <p>-763.2</p>
+      </TD>
+      <TD>      
+      <p>-726.8</p>
+      </TD>
+      <TD>      
+      <p>355</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>&nbsp;TiCl<sub>4</sub>(l)</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-804.2</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-737.2</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>252.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>&nbsp;TiO<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-944.7</p>
+      </TD>
+      <TD>      
+      <p>-889.5</p>
+      </TD>
+      <TD>      
+      <p>50.33</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Uranium</p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>U(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>50.21</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="25%" valign="Middle">      
+      <p>UF<sub>6</sub>(g)&nbsp;</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-2147</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>-2064</p>
+      </TD>
+      <TD width="25%" valign="Middle">      
+      <p>378</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>UF<sub>6</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-2197</p>
+      </TD>
+      <TD>      
+      <p>-2069</p>
+      </TD>
+      <TD>      
+      <p>228</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>UO<sub>2</sub>(s)</p>
+      </TD>
+      <TD>      
+      <p>-1085</p>
+      </TD>
+      <TD>      
+      <p>-1032</p>
+      </TD>
+      <TD>      
+      <p>77.03</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+<p>Zinc </p>
+</font>
+<table cellspacing="0" border="0" cellpadding="7" width="638">
+  <tbody>
+    <tr>
+      <TD>      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD>      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Zn(s)</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>0</p>
+      </TD>
+      <TD>      
+      <p>41.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Zn(g)</p>
+      </TD>
+      <TD>      
+      <p>130.5</p>
+      </TD>
+      <TD>      
+      <p>94.93</p>
+      </TD>
+      <TD>      
+      <p>160.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>Zn<sup>2+</sup>(aq)</p>
+      </TD>
+      <TD>      
+      <p>-153.9</p>
+      </TD>
+      <TD>      
+      <p>-147.1</p>
+      </TD>
+      <TD>      
+      <p>-112.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD valign="Middle">      
+      <p>ZnCl<sub>2</sub>(s)</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>-415.1</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>-369.4</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>111.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD valign="Middle">      
+      <p>Zn(OH)<sub>2</sub>(s)</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>-641.9</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>-553.5</p>
+      </TD>
+      <TD valign="Middle">      
+      <p>81.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>ZnO(s)</p>
+      </TD>
+      <TD>      
+      <p>-348.3</p>
+      </TD>
+      <TD>      
+      <p>-318.3</p>
+      </TD>
+      <TD>      
+      <p>43.64</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD>      
+      <p>ZnS(s, zincblende)</p>
+      </TD>
+      <TD>      
+      <p>-203</p>
+      </TD>
+      <TD>      
+      <p>-198</p>
+      </TD>
+      <TD>      
+      <p>57.7</p>
+      </TD>
+    </tr>
+  
+  </tbody>
+</table>
+<font size="4">
+<p>&nbsp;</p>
+</font>
+<h6><font size="4">
+<p>Organic Substances</p>
+</font></h6>
+<table cellspacing="0" border="0" cellpadding="7" width="637">
+  <tbody>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p><font size="4">Substance or Ion</font></p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>Δ<font size="4">
+H<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>Δ<font size="4">
+G<sub>f</sub><sup>o</sup> (kJ/mol)</font></p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p><font size="4">S<sup>o</sup> (J/mol*K)</font></p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>4</sub>(g) methane</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-74.81</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-50.75</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>186.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>2</sub>H<sub>2</sub>(g) acetylene</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>226.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>209.2</p>
+      </TD>
+      <TD width="17%" valign="Middle">      
+      <p>200.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>2</sub>H<sub>4</sub>(g) ethylene</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>52.26</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>68.12</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>219.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="Middle">      
+      <p>C<sub>2</sub>H<sub>6</sub>(g) ethane</p>
+      </TD>
+      <TD width="17%" valign="Middle">      
+      <p>-84.68</p>
+      </TD>
+      <TD width="17%" valign="Middle">      
+      <p>-32.89</p>
+      </TD>
+      <TD width="17%" valign="Middle">      
+      <p>229.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>3</sub>H<sub>8</sub>(g) propane</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-103.8</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-23.56</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>270.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>4</sub>H<sub>10</sub>(g) butane</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-125.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-17.15</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>310.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>6</sub>(g) benzene</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>82.93</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>129.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>269.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>6</sub>(l) benzene</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>48.99</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>124.4</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>173.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>12</sub>(g) cyclohexane</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-123.1</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>31.8</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>298.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>12</sub>(l) cyclohexane</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-156.2</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>26.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>204.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>10</sub>H<sub>8</sub>(g) naphthalene</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>149</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>223.6</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>335.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>10</sub>H<sub>8</sub>(s) naphthalene</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>75.3</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>201.0</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>166.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>HCHO(g) formaldehyde</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-117.0</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-110.0</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>218.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>OH(g) methanol</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-200.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-162.0</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>239.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>OH(l) methanol</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-238.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-166.4</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>126.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>CHO(g) acetaldehyde</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-166.1</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-133.4</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>246.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>CHO(l) acetaldehyde</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-191.8</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-128.3</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>160.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>2</sub>H<sub>5</sub>OH(g) ethanol</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-234.4</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-167.9</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>282.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>2</sub>H<sub>5</sub>OH(l) ethanol</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-277.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-174.9</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>160.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>5</sub>OH(s) phenol</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-165.0</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-50.42</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>144.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>(CH<sub>3</sub>)<sub>2</sub>CO(g) acetone</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-216.6</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-153.1</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>294.9</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>(CH<sub>3</sub>)<sub>2</sub>CO(l) acetone</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-247.6</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-155.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>200.4</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>HCOOH(l) formic acid</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-409</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-346</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>129.0</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>HCOOH(aq) formic acid</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-410</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-356</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>164</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>HCOO<sup>-</sup>(aq) formate ion</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-410</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-335</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>91.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>COOH(g) acetic acid</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-432.3</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-374.0</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>282.5</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>COOH(l) acetic acid</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-484.1</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-389.9</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>159.8</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>COOH(aq) acetic acid</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-488.3</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-396.6</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>178.7</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>5</sub>COOH(s) benzoic acid</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-385.1</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-245.3</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>167.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>CH<sub>3</sub>NH<sub>2</sub>(g) methylamine</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-23.0</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>32.3</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>242.6</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>(g) aniline</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>86.86</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>166.7</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>319.2</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>(l) aniline</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>31.6</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>149.1</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>191.3</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(s) glucose</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-1273.3</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-910.4</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>212.1</p>
+      </TD>
+    </tr>
+    <tr>
+      <TD width="31%" valign="bottom">      
+      <p>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>(s) sucrose</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>-2226.1</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>&nbsp;</p>
+      </TD>
+      <TD width="17%" valign="bottom">      
+      <p>360.2</p>
+      </TD>
+    </tr>
+
+  </tbody>
+</table>
+</body>
+</html>
