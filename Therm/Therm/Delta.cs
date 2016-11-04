@@ -60,7 +60,7 @@ namespace Therm
 
 			//resets everything
 			index = 0;
-			temp = null;
+			temp = "";
 			deltG = 0;
 			deltH = 0;
 			deltS = 0;
@@ -88,7 +88,7 @@ namespace Therm
 			**/
 				
 
-				elmnts.Add(new Element());
+				/**elmnts.Add(new Element());
 				elmnts[stuff].search = "<TD>CH<sub>4</sub></TD>";
 				elmnts[stuff].state = "(g";
 				elmnts[stuff].mult = 1;
@@ -111,18 +111,24 @@ namespace Therm
 				stuff++;
 				elmnts[stuff].search = "<TD>CO<sub>2</sub></TD>";
 				elmnts[stuff].state = "(g";
-				elmnts[stuff].mult = 1;
+				elmnts[stuff].mult = 1;*/
 
 
 
-				/***elmnts.Add(new Element());
-				elmnts[stuff].search = "<p>";
+				elmnts.Add(new Element());
+				elmnts[stuff].search = "<TD>";
 				while (index < input.Length)
 				{
 					if (Sort.isNum(input[index]))
 					{
-						elmnts[stuff].mult = int.Parse(input.Substring(index, 1));
-						index++;
+						while (Sort.isNum(input[index]))
+						{
+							temp += input[index];
+							index++;
+						}
+
+						elmnts[stuff].mult = int.Parse(temp);
+						temp = "";
 						Data.WriteLine("Got number " + elmnts[stuff].mult);
 					}
 					else if (input[index].Equals(' '))
@@ -131,80 +137,61 @@ namespace Therm
 					}
 					else if (input[index].Equals(':'))
 					{
-						if (input[index + 1].Equals('+'))
+						index++;
+						while (input[index].Equals('+') || input[index].Equals('-') || Sort.isNum(input[index]))
 						{
+							temp += input[index];
 							index++;
-							elmnts[stuff].search += "<sup>" + input.Substring(index, 1) + "</sup>";
-							index += 1;
 						}
-						else if (input[index + 1].Equals('-'))
-						{
-							index++;
-							elmnts[stuff].search += "<sup>&#150;</sup>";
-							index += 1;
-						}
-						else
-						{
-							index++;
-							elmnts[stuff].search += "<sup>" + input.Substring(index, 2) + "</sup>";
-							index += 2;
-							elmnts[stuff].search = elmnts[stuff].search.Replace("-", "&#150;");
-						}
+						elmnts[stuff].search += "<sup>" + temp + "</sup>";
+						temp = "";
 
 					}
 					else if (input[index].Equals('_'))
 					{
 						index++;
-						elmnts[stuff].search += "<sub>" + input.Substring(index, 1) + "</sub>";
+						while (Sort.isNum(input[index]))
+						{
+							temp += input[index];
+							index++;
+						}
+						elmnts[stuff].search += "<sub>" + temp + "</sub>";
+						temp = "";
+					}
+					else if (input[index].Equals('('))
+					{
 						index++;
+						if (input[index].Equals('g') || input[index].Equals('s') || input[index].Equals('l') || input.Substring(index, 2).Equals("aq"))
+						{
+							temp = "<TD>(";
+							while (!input[index].Equals(')'))
+							{
+								temp += input[index];
+								index++;
+							}
+							elmnts[stuff].state = temp;
+							temp = "";
+							index++;
+						}
+						else
+						{
+							elmnts[stuff].search += '(';
+						}
 					}
 					else if (input[index].Equals('+'))
 					{
 						elmnts.Add(new Element());
 						stuff++;
 						index++;
-						elmnts[stuff].search = "<p>";
+						elmnts[stuff].search = "<TD>";
 					}
-					else if (input[index].Equals('('))
-					{
-						if (input.Substring(index + 1, 1).Equals("s") ||
-							input.Substring(index + 1, 1).Equals("l") ||
-							input.Substring(index + 1, 1).Equals("g"))
-						{
-							if (input[index + 2].Equals(','))
-							{
-								elmnts[stuff].search += "(<i>" + input.Substring(index + 1, 1) + "</i>, <i>";
-								index += 3;
-								while (!input[index].Equals(')'))
-								{
-									if (!input[index].Equals(' '))
-									{
-										elmnts[stuff].search += input[index];
-									}
-									index++;
-								}
-								elmnts[stuff].search += "</i>)";
-								index++;
-							}
-							else
-							{
-								elmnts[stuff].search += "(<i>" + input.Substring(index + 1, 1) + "</i>)";
-								index += 3;
-							}
-						}
-						else if (input.Substring(index + 1, 2).Equals("aq"))
-						{
-							elmnts[stuff].search += "(<i>" + input.Substring(index + 1, 2) + "</i>)";
-							index += 4;
-						}
-					}
-					else if (input[index].Equals('-') && input[index + 1].Equals('>'))
+					else if (index+2 < input.Length && input.Substring(index, 2).Equals("->"))
 					{
 						elmnts.Add(new Element());
 						stuff++;
 						index += 2;
 						arrowAt = stuff;
-						elmnts[stuff].search = "<p>";
+						elmnts[stuff].search = "<TD>";
 					}
 					else
 					{
@@ -212,14 +199,15 @@ namespace Therm
 						index++;
 					}
 
-					Data.WriteLine("Search for " + elmnts[stuff].search);
-				}*/
-
-
+					Data.WriteLine("Search for " + elmnts[stuff].search + " " + elmnts[stuff].state);
+				}
 
 				//Searches the data file and stores the relavent data in the Element objects.
 				foreach (Element element in elmnts)
+				//The foreach loop throws an index out of range exeption.
+				//for (int i = 0; i < elmnts.Count; i++)
 				{
+					temp = "";
 					index = 0;
 					while (index < s.Length)
 					{
@@ -234,7 +222,7 @@ namespace Therm
 					}
 					if (index.Equals(s.Length))
 					{
-						Data.WriteLine("ERROR: Element does not exist. Check your input, or if the molecule is listed in the datasheet");
+						Data.WriteLine("ERROR: element does not exist. Check your input, or if the molecule is listed in the datasheet");
 						element.notFound = true;
 						break;
 					}
@@ -268,7 +256,7 @@ namespace Therm
 					element.G = double.Parse(temp);
 
 					Data.WriteLine("H=" + element.G);
-					index++;
+					
 				}
 
 
