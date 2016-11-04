@@ -181,7 +181,7 @@ namespace Therm
 				//Searches the data file and stores the relavent data in the Element objects.
 				foreach (Element element in elmnts)
 				{
-					int q = 0;
+					/*int q = 0;
 					while (true)
 					{
 						temp = "";
@@ -219,7 +219,8 @@ namespace Therm
 									q++;
 								}
 							}
-						}
+						}*/
+						while (index < s.Length)
 					}
 					exit:
 					//Displays the found result, and skips two lines (the molecule and state)
