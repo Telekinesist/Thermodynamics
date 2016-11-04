@@ -29,31 +29,8 @@ namespace Therm
 				}
 				catch
 				{
-					try
-					{
-						Data.WriteLine("Unable to find Values.data. Creating new file");
-						//Creates the file, and closes it again. Neccesary because the WriteAllText method opens it again.
-						System.IO.File.CreateText(@"..\Values.data").Close();
-						using (WebClient client = new WebClient())
-						{
-							System.IO.File.WriteAllText(@"..\Values.data", client.DownloadString("http://bilbo.chm.uri.edu/CHM112/tables/thermtable.htm"));
-						}
-						s = System.IO.File.ReadAllLines(@"..\Values.data");
-						foreach (string textLine in s)
-						{
-							Data.WriteLine(textLine);
-						}
-						Data.WriteLine("Got text online");
-						Data.WriteLine("Created file sucessfully");
-						break;
-					}
-					catch
-					{
-						Data.WriteLine("Unable to get data from web.");
-						s = new string[1];
-						s[0] = "";
-						break;
-					}
+					Data.WriteLine("Could not find Values.data");
+					Data.WriteLine("Have you moved the program out of its originating folder?");
 				}
 			}
 			
@@ -82,7 +59,6 @@ namespace Therm
 			else
 			{
 				//creates the Element objects as well as giving them a searchable string defined by said input
-				//Sort.createSearch(input);
 				/**
 			* Example code for debugging. Burning of methane
 			**/
@@ -204,29 +180,48 @@ namespace Therm
 
 				//Searches the data file and stores the relavent data in the Element objects.
 				foreach (Element element in elmnts)
-				//The foreach loop throws an index out of range exeption.
-				//for (int i = 0; i < elmnts.Count; i++)
 				{
-					temp = "";
-					index = 0;
-					while (index < s.Length)
+					int q = 0;
+					while (true)
 					{
-						index++;
-						if (s[index].Contains(element.search))
+						temp = "";
+						index = 0;
+						while (index < s.Length)
 						{
-							if (s[index + 1].Contains(element.state))
+							index++;
+							if (s[index].Contains(element.search))
 							{
-								break;
+								if (s[index + 1].Contains(element.state))
+								{
+									goto exit;
+								}
+								else
+								{
+									switch (q)
+									{
+										case 0:
+											element.state = "(g";
+											break;
+										case 1:
+											element.state = "(l";
+											break;
+										case 2:
+											element.state = "(aq";
+											break;
+										case 3:
+											element.state = "(l";
+											break;
+										default:
+											Data.WriteLine("ERROR: element does not exist. Check your input, or if the molecule is listed in the datasheet");
+											element.notFound = true;
+											goto exit;
+									}
+									q++;
+								}
 							}
 						}
 					}
-					if (index.Equals(s.Length))
-					{
-						Data.WriteLine("ERROR: element does not exist. Check your input, or if the molecule is listed in the datasheet");
-						element.notFound = true;
-						break;
-					}
-
+					exit:
 					//Displays the found result, and skips two lines (the molecule and state)
 					Data.WriteLine(s[index]);
 					Data.WriteLine(s[index + 1]);

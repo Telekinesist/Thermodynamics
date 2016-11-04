@@ -9,7 +9,7 @@ namespace Therm
 	class Element
 	{
 		public string search;
-		public string state = "(aq";
+		public string state = "(";
 		public int mult = 1;
 		public double H, S, G;
 		public bool notFound = false;
