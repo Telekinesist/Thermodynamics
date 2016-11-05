@@ -1,6 +1,6 @@
 ﻿namespace Therm
 {
-	partial class Form1
+	partial class Main
 	{
 		/// <summary>
 		/// Required designer variable.
@@ -46,6 +46,7 @@
 			this.KunitsBelow = new System.Windows.Forms.TextBox();
 			this.GasConstantGroup = new System.Windows.Forms.GroupBox();
 			this.Kgroup = new System.Windows.Forms.GroupBox();
+			this.helpButton = new System.Windows.Forms.Button();
 			this.Line = new System.Windows.Forms.PictureBox();
 			this.GasConstantGroup.SuspendLayout();
 			this.Kgroup.SuspendLayout();
@@ -143,7 +144,7 @@
 			this.GOButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.GOButton.Location = new System.Drawing.Point(689, 12);
 			this.GOButton.Name = "GOButton";
-			this.GOButton.Size = new System.Drawing.Size(75, 23);
+			this.GOButton.Size = new System.Drawing.Size(75, 30);
 			this.GOButton.TabIndex = 9;
 			this.GOButton.Text = "GO";
 			this.GOButton.UseVisualStyleBackColor = true;
@@ -208,6 +209,8 @@
 			this.Temp.TabIndex = 7;
 			this.Temp.Text = "298";
 			this.Temp.TextChanged += new System.EventHandler(this.Temp_TextChanged);
+			this.Temp.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Temp_KeyDown);
+			this.Temp.Leave += new System.EventHandler(this.Temp_Leave);
 			// 
 			// EqConstBox
 			// 
@@ -281,6 +284,17 @@
 			this.Kgroup.TabIndex = 18;
 			this.Kgroup.TabStop = false;
 			// 
+			// helpButton
+			// 
+			this.helpButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.helpButton.Location = new System.Drawing.Point(689, 48);
+			this.helpButton.Name = "helpButton";
+			this.helpButton.Size = new System.Drawing.Size(75, 30);
+			this.helpButton.TabIndex = 20;
+			this.helpButton.Text = "Help!";
+			this.helpButton.UseVisualStyleBackColor = true;
+			this.helpButton.Click += new System.EventHandler(this.helpButton_Click);
+			// 
 			// Line
 			// 
 			this.Line.ErrorImage = null;
@@ -291,11 +305,12 @@
 			this.Line.TabIndex = 17;
 			this.Line.TabStop = false;
 			// 
-			// Form1
+			// Main
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(940, 404);
+			this.Controls.Add(this.helpButton);
 			this.Controls.Add(this.Kgroup);
 			this.Controls.Add(this.GasConstantGroup);
 			this.Controls.Add(this.Output);
@@ -308,7 +323,7 @@
 			this.Controls.Add(this.DeltaH);
 			this.Controls.Add(this.Units);
 			this.Controls.Add(this.DeltaName);
-			this.Name = "Form1";
+			this.Name = "Main";
 			this.Text = "Thermodynamics. Because you are lazy";
 			this.GasConstantGroup.ResumeLayout(false);
 			this.GasConstantGroup.PerformLayout();
@@ -341,6 +356,7 @@
 		private System.Windows.Forms.GroupBox GasConstantGroup;
 		private System.Windows.Forms.GroupBox Kgroup;
 		private System.Windows.Forms.PictureBox Line;
+		private System.Windows.Forms.Button helpButton;
 	}
 }
 

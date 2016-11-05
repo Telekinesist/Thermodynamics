@@ -14,7 +14,7 @@ namespace Therm
 			string A = "", B = "";
 
 
-			Form1 Form = Form1.ThisForm;
+			Main Form = Main.ThisForm;
 			double K = Math.Pow(Math.E, ((-1)*Form.getG())/(Form.getR()*Form.getTemp()));
 			Form.setK(K);
 
