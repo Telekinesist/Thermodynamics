@@ -4,11 +4,27 @@ using System.Net;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using System.Reflection;
 
 namespace Therm
 {
 	static class Delta
 	{
+		public static string[] readAllLines(string path)
+		{
+			Assembly asembl = Assembly.GetExecutingAssembly();
+			using (Stream strem = asembl.GetManifestResourceStream(path))
+			{
+				using (StreamReader reader = new StreamReader(strem))
+				{
+					char[] nl = new char[1];
+					nl[0] = '\n';
+					return reader.ReadToEnd().Split(nl);
+				}
+			}
+		}
+
 
 		public static void delta(string input)
 		{
@@ -26,7 +42,10 @@ namespace Therm
 			{
 				try
 				{
-					s = System.IO.File.ReadAllLines(@"..\Values.data");
+					//string k = Therm.Properties.Resources.Datasheet;
+					//s = System.IO.File.ReadAllLines(@"..\Values.data");
+					s = readAllLines("Therm.Values.data");
+					
 					break;
 				}
 				catch
@@ -226,10 +245,26 @@ namespace Therm
 							}
 						}*/
 					index = 0;
-					while (index < s.Length && !s[index].Contains(element.search))
+					while (index < s.Length)
 					{
-						index++;
+						if (s[index].Contains(element.search))
+						{
+							if (s[index + 1].Contains(element.state))
+							{
+								break;
+							}
+							else
+							{
+								index++;
+							}
+						}
+						else
+						{
+							index++;
+						}
 					}
+
+					
 					if (index.Equals(s.Length))
 					{
 						Data.WriteLine("ERROR: Element does not exist. Check your input, or if the molecule is listed in the datasheet");
@@ -385,7 +420,7 @@ namespace Therm
 						Data.Write("|" + element.S + "\t\t");
 					}
 				}
-				
+
 				//Devided by thousand because the unit needs to be kJ, but is J.
 				deltGT = (deltH - (Form1.ThisForm.getTemp() * deltS / 1000));
 
