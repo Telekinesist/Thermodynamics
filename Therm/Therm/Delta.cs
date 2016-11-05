@@ -4,11 +4,27 @@ using System.Net;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using System.Reflection;
 
 namespace Therm
 {
 	static class Delta
 	{
+		public static string[] readAllLines(string path)
+		{
+			Assembly asembl = Assembly.GetExecutingAssembly();
+			using (Stream strem = asembl.GetManifestResourceStream(path))
+			{
+				using (StreamReader reader = new StreamReader(strem))
+				{
+					char[] nl = new char[1];
+					nl[0] = '\n';
+					return reader.ReadToEnd().Split(nl);
+				}
+			}
+		}
+
 
 		public static void delta(string input)
 		{
@@ -24,12 +40,15 @@ namespace Therm
 			//Loads data
 			while (true)
 			{
-				try
+				//try
 				{
-					s = System.IO.File.ReadAllLines(@"..\Values.data");
+					//string k = Therm.Properties.Resources.Datasheet;
+					//s = System.IO.File.ReadAllLines(@"..\Values.data");
+					s = readAllLines("Therm.Values.data");
+					
 					break;
 				}
-				catch
+				//catch
 				{
 					Data.WriteLine("Could not find Values.data");
 					Data.WriteLine("Have you moved the program out of its originating folder?");
@@ -385,7 +404,7 @@ namespace Therm
 						Data.Write("|" + element.S + "\t\t");
 					}
 				}
-				
+
 				//Devided by thousand because the unit needs to be kJ, but is J.
 				deltGT = (deltH - (Form1.ThisForm.getTemp() * deltS / 1000));
 
