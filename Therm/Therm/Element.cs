@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Therm
 {
-	class Element
+	public class Element
 	{
 		public string search;
 		public string state = "(";

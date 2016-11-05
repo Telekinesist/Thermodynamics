@@ -10,15 +10,16 @@ using System.Windows.Forms;
 
 namespace Therm
 {
-	public partial class Form1 : Form
+	public partial class Main : Form
 	{
-		public Form1()
+		public Main()
 		{
 			InitializeComponent();
 			ThisForm = this;
 			Data.showInstructions();
+			ActiveControl = FormulaBox;
 		}
-		public static Form1 ThisForm;
+		public static Main ThisForm;
 
 		private void GOButton_Click(object sender, EventArgs e)
 		{
@@ -157,6 +158,29 @@ namespace Therm
 
 		private void Requals_TextChanged(object sender, EventArgs e)
 		{
+
+		}
+
+		private void helpButton_Click(object sender, EventArgs e)
+		{
+			Help helpWindow = new Help();
+			helpWindow.Show();
+		}
+
+		private void Temp_Leave(object sender, EventArgs e)
+		{
+			if (Delta.elmntsIsNotEmpty)
+			{
+				Delta.calcDelta();
+			}
+		}
+
+		private void Temp_KeyDown(object sender, KeyEventArgs e)
+		{
+			if (e.KeyCode.Equals(Keys.Enter))
+			{
+				Temp_Leave(sender, e);
+			}
 
 		}
 	}

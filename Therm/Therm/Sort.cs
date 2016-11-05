@@ -8,9 +8,7 @@ namespace Therm
 {
 	static class Sort
 	{
-		public static List<Element> elmnts = new List<Element>();
 		public static double prodSum = 0, reacSum = 0;
-		public static int stuff = 0, index = 0, arrowAt = 0;
 
 
 
