@@ -88,11 +88,11 @@ namespace Therm
 			//Numerator units
 			if (PA.Equals(1))
 			{
-				A += "Pa ";
+				A += "bar ";
 			}
 			else if (PA > 1)
 			{
-				A += "Pa^" + PA + " ";
+				A += "bar^" + PA + " ";
 			}
 			if (LA.Equals(1))
 			{
@@ -114,11 +114,11 @@ namespace Therm
 			//Denominator units
 			if (PB.Equals(1))
 			{
-				B += "Pa ";
+				B += "bar ";
 			}
 			else if (PB > 1)
 			{
-				B += "Pa^" + PB + " ";
+				B += "bar^" + PB + " ";
 			}
 			if (LB.Equals(1))
 			{
