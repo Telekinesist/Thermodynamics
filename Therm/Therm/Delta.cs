@@ -40,7 +40,7 @@ namespace Therm
 			//Loads data
 			while (true)
 			{
-				//try
+				try
 				{
 					//string k = Therm.Properties.Resources.Datasheet;
 					//s = System.IO.File.ReadAllLines(@"..\Values.data");
@@ -48,7 +48,7 @@ namespace Therm
 					
 					break;
 				}
-				//catch
+				catch
 				{
 					Data.WriteLine("Could not find Values.data");
 					Data.WriteLine("Have you moved the program out of its originating folder?");
@@ -245,10 +245,26 @@ namespace Therm
 							}
 						}*/
 					index = 0;
-					while (index < s.Length && !s[index].Contains(element.search))
+					while (index < s.Length)
 					{
-						index++;
+						if (s[index].Contains(element.search))
+						{
+							if (s[index + 1].Contains(element.state))
+							{
+								break;
+							}
+							else
+							{
+								index++;
+							}
+						}
+						else
+						{
+							index++;
+						}
 					}
+
+					
 					if (index.Equals(s.Length))
 					{
 						Data.WriteLine("ERROR: Element does not exist. Check your input, or if the molecule is listed in the datasheet");
