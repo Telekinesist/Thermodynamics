@@ -11,12 +11,16 @@ namespace Therm
 		public static void calcK(List<Element> Elelemts, int arrowAt)
 		{
 			int MA = 0, MB = 0, PA = 0, PB = 0, LA = 0, LB = 0;
-			string A = "", B = "";
+			string A = "", B = "", temp = "";
 
 
 			Main Form = Main.ThisForm;
-			double K = Math.Pow(Math.E, ((-1)*Form.getG())/(Form.getR()*Form.getTemp()));
-			Form.setK(K);
+			//N_2(g) + 3H_2(g) -> 2NH_3(g)
+			//SO_2Cl_2(g) -> SO_2(g) + Cl_2(g)
+			//2CH_3OH(g) -> CH_3OCH_3(g) + H_2O(g)
+			double K = Math.Pow(Math.E, -((Form.getG()*1000)/(Form.getR()*Form.getTemp())));
+			//K = -((Form.getG() * 1000) / (Form.getR() * Form.getTemp()));
+			Form.setK(K.ToString().Replace("+", "").Replace("E", "*10^"));
 
 			for (int i = 0; i < Elelemts.Count; i++)
 			{
@@ -24,33 +28,34 @@ namespace Therm
 				{
 					if (Elelemts[i].state.Contains("aq"))
 					{
-						MB++;
+						MB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 					else if (Elelemts[i].state.Contains("g"))
 					{
-						PB++;
+						PB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 					else if (Elelemts[i].state.Contains("l"))
 					{
-						LB++;
+						LB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 				}
 				else
 				{
 					if (Elelemts[i].state.Contains("aq"))
 					{
-						MA++;
+						MA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 					else if (Elelemts[i].state.Contains("g"))
 					{
-						PA++;
+						PA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 					else if (Elelemts[i].state.Contains("l"))
 					{
-						LA++;
+						LA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 				}
 			}
+
 
 			//Removes units devided by themselfs
 			if (PA >= PB)
@@ -137,6 +142,14 @@ namespace Therm
 				B += "M^" + MB + " ";
 			}
 
+			//If the reaction arrow is pointing left
+			if (Delta.reverse)
+			{
+				temp = A;
+				A = B;
+				B = temp;
+			}
+
 
 
 			//Displays a one in the numerator if the numerator is otherwise empty while the denominator is not
@@ -149,7 +162,7 @@ namespace Therm
 				}
 				else
 				{
-					A = " ";
+					A = "Unitless ";
 				}
 
 			}

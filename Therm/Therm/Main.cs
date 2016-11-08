@@ -35,7 +35,7 @@ namespace Therm
 		public void setG(double H) { DeltaG.Text = H.ToString(); }
 		public void setGT(double H) { DeltaGT.Text = H.ToString(); }
 		public void setTemp(double H) { Temp.Text = H.ToString(); }
-		public void setK(double H) { EqConstBox.Text = H.ToString(); }
+		public void setK(string H) { EqConstBox.Text = H; }
 		public void setKunitAbove(string A) { KunitsAbove.Text = A; }
 		public void setKunitBelow(string B) { KunitsBelow.Text = B; }
 
@@ -75,7 +75,7 @@ namespace Therm
 			{
 				try
 				{
-					return double.Parse(DeltaG.Text);
+					return double.Parse(DeltaG.Text.Replace(".", ","));
 				}
 				catch (Exception)
 				{
@@ -146,6 +146,10 @@ namespace Therm
 				check = check.Replace(" ", "").Replace("c", "");
 				Temp.Text = (double.Parse(check) + 273).ToString();
 			}
+			if (Delta.elmntsIsNotEmpty)
+			{
+				Delta.calcDelta();
+			}
 		}
 
 		private void FormulaBox_KeyDown(object sender, KeyEventArgs e)
@@ -169,10 +173,7 @@ namespace Therm
 
 		private void Temp_Leave(object sender, EventArgs e)
 		{
-			if (Delta.elmntsIsNotEmpty)
-			{
-				Delta.calcDelta();
-			}
+			
 		}
 
 		private void Temp_KeyDown(object sender, KeyEventArgs e)
@@ -182,6 +183,11 @@ namespace Therm
 				Temp_Leave(sender, e);
 			}
 
+		}
+
+		private void DeltaG_TextChanged(object sender, EventArgs e)
+		{
+			Equlibrium.calcK(Delta.elmnts, Delta.arrowAt);
 		}
 	}
 }

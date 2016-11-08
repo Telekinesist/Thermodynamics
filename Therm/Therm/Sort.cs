@@ -14,7 +14,8 @@ namespace Therm
 
 		public static bool isNum(char test)
 		{
-			if (test.Equals('1') ||
+			if (test.Equals('0') ||
+				test.Equals('1') ||
 				test.Equals('2') ||
 				test.Equals('3') ||
 				test.Equals('4') ||
@@ -22,7 +23,8 @@ namespace Therm
 				test.Equals('6') ||
 				test.Equals('7') ||
 				test.Equals('8') ||
-				test.Equals('9'))
+				test.Equals('9') ||
+				test.Equals(','))
 			{
 				return true;
 			}

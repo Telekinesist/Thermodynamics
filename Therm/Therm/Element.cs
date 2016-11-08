@@ -10,7 +10,7 @@ namespace Therm
 	{
 		public string search;
 		public string state = "(";
-		public int mult = 1;
+		public double mult = 1;
 		public double H, S, G;
 		public bool notFound = false;
 		public Element()

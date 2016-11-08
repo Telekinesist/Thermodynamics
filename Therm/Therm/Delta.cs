@@ -15,12 +15,12 @@ namespace Therm
 
 		static string[] s;
 		static string temp;
-		static List<Element> elmnts = new List<Element>();
+		public static List<Element> elmnts = new List<Element>();
 		static double deltH, deltG, deltS, deltGT, prodSum = 0, reacSum = 0;
-		static int stuff = 0, index = 0, arrowAt = 0;
+		public static int stuff = 0, index = 0, arrowAt = 0;
 		static string line = "=================================================================================================================";
 		static string input = "";
-
+		public static bool reverse = false;
 
 		//It for some reason rediciously complicated to read form an embedded file, but this should return all lines in a file
 		public static string[] readAllLines(string path)
@@ -41,7 +41,7 @@ namespace Therm
 		public static void delta(string formula)
 		{
 			//The search translater crashes weirdly if there isn't a character after the last molecule, such as the phase
-			input = formula.Replace("\n", "").Replace("\t", "") + " ";
+			input = formula.Replace("\n", "").Replace("\t", "").Replace(".", ",") + " ";
 
 			//Loads data
 			while (true)
@@ -72,6 +72,7 @@ namespace Therm
 			stuff = 0;
 			prodSum = 0;
 			reacSum = 0;
+			reverse = false;
 
 			//Burning of methane equation for quick testing. It lacks the matter state, but that is not nessesary in this equation because gas is at the top of the list 
 			//CH_4 + 2O_2 -> 2H_2O + CO_2
@@ -132,7 +133,7 @@ namespace Therm
 							index++;
 						}
 
-						elmnts[stuff].mult = int.Parse(temp);
+						elmnts[stuff].mult = double.Parse(temp);
 						temp = "";
 						Data.WriteLine("Got number " + elmnts[stuff].mult);
 					}
@@ -190,13 +191,18 @@ namespace Therm
 						index++;
 						elmnts[stuff].search = "<TD>";
 					}
-					else if (index + 2 < input.Length && input.Substring(index, 2).Equals("->"))
+					else if (index + 2 < input.Length && (input.Substring(index, 2).Equals("->") || input.Substring(index, 2).Equals("<-")))
 					{
+						if (input.Substring(index, 2).Equals("<-"))
+						{
+							reverse = true;
+						}
 						elmnts.Add(new Element());
 						stuff++;
 						index += 2;
 						arrowAt = stuff;
 						elmnts[stuff].search = "<TD>";
+						
 					}
 					else
 					{
@@ -205,6 +211,11 @@ namespace Therm
 					}
 
 					Data.WriteLine("Search for " + elmnts[stuff].search + " " + elmnts[stuff].state);
+				}
+
+				if (reverse)
+				{
+					elmnts.Reverse();
 				}
 
 
@@ -280,140 +291,139 @@ namespace Therm
 		//Does the calculations
 		public static void calcDelta()
 		{
-				//Calculated the molekular change of H, G and S
-				//Sort.calcDelta();
-				reacSum = prodSum = 0;
-				for (int q = elmnts.Count - 1; q >= 0; q--)
+			//Calculated the molekular change of H, G and S
+			//Sort.calcDelta();
+			reacSum = prodSum = 0;
+			for (int q = elmnts.Count - 1; q >= 0; q--)
+			{
+				Data.WriteLine("Element " + q + " " + elmnts[q].H + " " + elmnts[q].G + " " + elmnts[q].S);
+				if (q<arrowAt)
 				{
-					Data.WriteLine("Element " + q + " " + elmnts[q].H + " " + elmnts[q].G + " " + elmnts[q].S);
-					if (q<arrowAt)
-					{
-						reacSum += elmnts[q].H* elmnts[q].mult;
-						Data.WriteLine("r" + reacSum);
-					}
-					else
-					{
-						prodSum += elmnts[q].H* elmnts[q].mult;
-						Data.WriteLine("p" + prodSum);
-					}
+					reacSum += elmnts[q].H* elmnts[q].mult;
+					Data.WriteLine("r" + reacSum);
 				}
-				deltH = prodSum - reacSum;
-
-				reacSum = prodSum = 0;
-				for (int q = elmnts.Count - 1; q >= 0; q--)
+				else
 				{
-					if (q<arrowAt)
-					{
-						reacSum += elmnts[q].G* elmnts[q].mult;
-					}
-					else
-					{
-						prodSum += elmnts[q].G* elmnts[q].mult;
-					}
+					prodSum += elmnts[q].H* elmnts[q].mult;
+					Data.WriteLine("p" + prodSum);
 				}
-				deltG = prodSum - reacSum;
+			}
+			deltH = prodSum - reacSum;
 
-				reacSum = prodSum = 0;
-				for (int q = elmnts.Count - 1; q >= 0; q--)
+			reacSum = prodSum = 0;
+			for (int q = elmnts.Count - 1; q >= 0; q--)
+			{
+				if (q<arrowAt)
 				{
-					if (q<arrowAt)
-					{
-						reacSum += elmnts[q].S* elmnts[q].mult;
-					}
-					else
-					{
-						prodSum += elmnts[q].S* elmnts[q].mult;
-					}
+					reacSum += elmnts[q].G* elmnts[q].mult;
 				}
-				deltS = prodSum - reacSum;
-
-
-
-				//Δ
-				Data.WriteLine(line);
-				string[] names = input.Replace(":+", ":p").Replace(":-", ":n").Replace("-", "").Replace(" ", "").Split('+', '>');
-				Data.Write("Name:\t");
-				foreach (string nam in names)
+				else
 				{
-					if (nam.Length > 6)
-					{
-						Data.Write("|" + nam + "\t");
-					}
-					else
-					{
-						Data.Write("|" + nam + "\t\t");
-					}
-
+					prodSum += elmnts[q].G* elmnts[q].mult;
 				}
-				Data.WriteLine();
-				Data.Write("H:\t");
-				foreach (Element element in elmnts)
+			}
+			deltG = prodSum - reacSum;
+
+			reacSum = prodSum = 0;
+			for (int q = elmnts.Count - 1; q >= 0; q--)
+			{
+				if (q<arrowAt)
 				{
-					if (element.notFound)
-					{
-						Data.Write("Missing!");
-					}
-					else if (element.G.ToString().Length > 8)
-					{
-						Data.Write("|" + element.H + "\t");
-					}
-					else
-					{
-						Data.Write("|" + element.H + "\t\t");
-					}
+					reacSum += elmnts[q].S* elmnts[q].mult;
 				}
-				Data.WriteLine();
-				Data.Write("G:\t");
-				foreach (Element element in elmnts)
+				else
 				{
-					if (element.notFound)
-					{
-						Data.Write("Missing!");
-					}
-					else if (element.G.ToString().Length > 8)
-					{
-						Data.Write("|" + element.G + "\t");
-					}
-					else
-					{
-						Data.Write("|" + element.G + "\t\t");
-					}
+					prodSum += elmnts[q].S* elmnts[q].mult;
 				}
-				Data.WriteLine();
-				Data.Write("S:\t");
-				foreach (Element element in elmnts)
+			}
+			deltS = prodSum - reacSum;
+
+			//Δ
+			Data.WriteLine(line);
+			string[] names = input.Replace(":+", ":p").Replace(":-", ":n").Replace("-", "").Replace(" ", "").Split('+', '>');
+			Data.Write("Name:\t");
+			foreach (string nam in names)
+			{
+				if (nam.Length > 6)
 				{
-					if (element.notFound)
-					{
-						Data.Write("Missing!");
-					}
-					else if (element.G.ToString().Length > 8)
-					{
-						Data.Write("|" + element.S + "\t");
-					}
-					else
-					{
-						Data.Write("|" + element.S + "\t\t");
-					}
+					Data.Write("|" + nam + "\t");
+				}
+				else
+				{
+					Data.Write("|" + nam + "\t\t");
 				}
 
-				//Devided by thousand because the unit needs to be kJ, but is J.
-				deltGT = (deltH - (Main.ThisForm.getTemp() * deltS / 1000));
+			}
+			Data.WriteLine();
+			Data.Write("H:\t");
+			foreach (Element element in elmnts)
+			{
+				if (element.notFound)
+				{
+					Data.Write("Missing!");
+				}
+				else if (element.G.ToString().Length > 8)
+				{
+					Data.Write("|" + element.H + "\t");
+				}
+				else
+				{
+					Data.Write("|" + element.H + "\t\t");
+				}
+			}
+			Data.WriteLine();
+			Data.Write("G:\t");
+			foreach (Element element in elmnts)
+			{
+				if (element.notFound)
+				{
+					Data.Write("Missing!");
+				}
+				else if (element.G.ToString().Length > 8)
+				{
+					Data.Write("|" + element.G + "\t");
+				}
+				else
+				{
+					Data.Write("|" + element.G + "\t\t");
+				}
+			}
+			Data.WriteLine();
+			Data.Write("S:\t");
+			foreach (Element element in elmnts)
+			{
+				if (element.notFound)
+				{
+					Data.Write("Missing!");
+				}
+				else if (element.G.ToString().Length > 8)
+				{
+					Data.Write("|" + element.S + "\t");
+				}
+				else
+				{
+					Data.Write("|" + element.S + "\t\t");
+				}
+			}
 
-				Data.WriteLine();
-				Data.WriteLine(line);
-				Data.WriteLine("ΔHᴼ=" + deltH + "kJ/Mol");
-				Data.WriteLine("ΔGᴼ=" + deltG + "kJ/Mol");
-				Data.WriteLine("ΔG =" + deltGT + "kJ/Mol");
-				Data.WriteLine("ΔSᴼ=" + deltS + "J/(Mol*K)");
-				Data.WriteLine(line);
+			//Devided by thousand because the unit needs to be kJ, but is J.
+			deltGT = (deltH - (Main.ThisForm.getTemp() * deltS / 1000));
 
-				Main.ThisForm.setH(deltH);
-				Main.ThisForm.setG(deltG);
-				Main.ThisForm.setS(deltS);
-				Main.ThisForm.setGT(deltGT);
 
-				Equlibrium.calcK(elmnts, arrowAt);
+			Data.WriteLine();
+			Data.WriteLine(line);
+			Data.WriteLine("ΔHᴼ=" + deltH + "kJ/Mol");
+			Data.WriteLine("ΔGᴼ=" + deltG + "kJ/Mol");
+			Data.WriteLine("ΔG =" + deltGT + "kJ/Mol");
+			Data.WriteLine("ΔSᴼ=" + deltS + "J/(Mol*K)");
+			Data.WriteLine(line);
+
+			Main.ThisForm.setH(deltH);
+			Main.ThisForm.setG(deltG);
+			Main.ThisForm.setS(deltS);
+			Main.ThisForm.setGT(deltGT);
+
+			Equlibrium.calcK(elmnts, arrowAt);
 		}
 	}
 }

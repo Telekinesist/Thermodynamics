@@ -46,8 +46,8 @@
 			this.KunitsBelow = new System.Windows.Forms.TextBox();
 			this.GasConstantGroup = new System.Windows.Forms.GroupBox();
 			this.Kgroup = new System.Windows.Forms.GroupBox();
-			this.helpButton = new System.Windows.Forms.Button();
 			this.Line = new System.Windows.Forms.PictureBox();
+			this.helpButton = new System.Windows.Forms.Button();
 			this.GasConstantGroup.SuspendLayout();
 			this.Kgroup.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.Line)).BeginInit();
@@ -114,6 +114,7 @@
 			this.DeltaG.Size = new System.Drawing.Size(54, 13);
 			this.DeltaG.TabIndex = 5;
 			this.DeltaG.Text = "Undefined";
+			this.DeltaG.TextChanged += new System.EventHandler(this.DeltaG_TextChanged);
 			// 
 			// DeltaGT
 			// 
@@ -219,7 +220,7 @@
 			this.EqConstBox.Location = new System.Drawing.Point(30, 17);
 			this.EqConstBox.Margin = new System.Windows.Forms.Padding(0);
 			this.EqConstBox.Name = "EqConstBox";
-			this.EqConstBox.Size = new System.Drawing.Size(65, 13);
+			this.EqConstBox.Size = new System.Drawing.Size(139, 13);
 			this.EqConstBox.TabIndex = 13;
 			this.EqConstBox.Text = "Undefined";
 			this.EqConstBox.WordWrap = false;
@@ -239,7 +240,7 @@
 			// KunitsAbove
 			// 
 			this.KunitsAbove.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.KunitsAbove.Location = new System.Drawing.Point(103, 10);
+			this.KunitsAbove.Location = new System.Drawing.Point(173, 10);
 			this.KunitsAbove.Margin = new System.Windows.Forms.Padding(3, 0, 3, 3);
 			this.KunitsAbove.Multiline = true;
 			this.KunitsAbove.Name = "KunitsAbove";
@@ -251,7 +252,7 @@
 			// KunitsBelow
 			// 
 			this.KunitsBelow.BorderStyle = System.Windows.Forms.BorderStyle.None;
-			this.KunitsBelow.Location = new System.Drawing.Point(102, 26);
+			this.KunitsBelow.Location = new System.Drawing.Point(172, 26);
 			this.KunitsBelow.Margin = new System.Windows.Forms.Padding(3, 0, 3, 3);
 			this.KunitsBelow.Multiline = true;
 			this.KunitsBelow.Name = "KunitsBelow";
@@ -264,7 +265,7 @@
 			// 
 			this.GasConstantGroup.Controls.Add(this.GasConstant);
 			this.GasConstantGroup.Controls.Add(this.Requals);
-			this.GasConstantGroup.Location = new System.Drawing.Point(266, 48);
+			this.GasConstantGroup.Location = new System.Drawing.Point(406, 48);
 			this.GasConstantGroup.Name = "GasConstantGroup";
 			this.GasConstantGroup.Padding = new System.Windows.Forms.Padding(0);
 			this.GasConstantGroup.Size = new System.Drawing.Size(160, 45);
@@ -280,9 +281,19 @@
 			this.Kgroup.Controls.Add(this.Line);
 			this.Kgroup.Location = new System.Drawing.Point(12, 48);
 			this.Kgroup.Name = "Kgroup";
-			this.Kgroup.Size = new System.Drawing.Size(248, 45);
+			this.Kgroup.Size = new System.Drawing.Size(310, 45);
 			this.Kgroup.TabIndex = 18;
 			this.Kgroup.TabStop = false;
+			// 
+			// Line
+			// 
+			this.Line.ErrorImage = null;
+			this.Line.Image = global::Therm.Properties.Resources.Line;
+			this.Line.Location = new System.Drawing.Point(172, 23);
+			this.Line.Name = "Line";
+			this.Line.Size = new System.Drawing.Size(123, 10);
+			this.Line.TabIndex = 17;
+			this.Line.TabStop = false;
 			// 
 			// helpButton
 			// 
@@ -294,16 +305,6 @@
 			this.helpButton.Text = "Help!";
 			this.helpButton.UseVisualStyleBackColor = true;
 			this.helpButton.Click += new System.EventHandler(this.helpButton_Click);
-			// 
-			// Line
-			// 
-			this.Line.ErrorImage = null;
-			this.Line.Image = global::Therm.Properties.Resources.Line;
-			this.Line.Location = new System.Drawing.Point(102, 23);
-			this.Line.Name = "Line";
-			this.Line.Size = new System.Drawing.Size(123, 10);
-			this.Line.TabIndex = 17;
-			this.Line.TabStop = false;
 			// 
 			// Main
 			// 
