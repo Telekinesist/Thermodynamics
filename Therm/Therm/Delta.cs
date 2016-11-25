@@ -155,20 +155,20 @@ namespace Therm
 					}
 					else if (index + 1 < input.Length && input.Substring(index, 2).Equals("->"))
 					{
-						arrowAt = elmnts.Count;
 						elmnts[stuff].search.Replace(" ", "");
 						elmnts.Add(new Element());
 						stuff++;
 						index += 2;
+						arrowAt = stuff;
 					}
 					else if (index + 1 < input.Length && input.Substring(index, 2).Equals("<-"))
 					{
-						arrowAt = elmnts.Count;
 						elmnts[stuff].search.Replace(" ", "");
 						elmnts.Add(new Element());
 						stuff++;
 						index += 2;
 						reverse = true;
+						arrowAt = stuff;
 					}
 					else if (input[index].Equals(' '))
 					{
