@@ -131,12 +131,12 @@ namespace Therm
 				{
 					if (input[index].Equals('('))
 					{
-						if (input.Substring(index, 3).Equals("(s)") || input.Substring(index, 3).Equals("(l)") || input.Substring(index, 3).Equals("(g)"))
+						if (index + 3 < input.Length && input.Substring(index, 3).Equals("(s)") || input.Substring(index, 3).Equals("(l)") || input.Substring(index, 3).Equals("(g)"))
 						{
 							elmnts[stuff].state = input.Substring(index + 1, 1);
 							index += 3;
 						}
-						else if (input.Substring(index, 4).Equals("(aq)"))
+						else if (index + 4 < input.Length && input.Substring(index, 4).Equals("(aq)"))
 						{
 							elmnts[stuff].state = input.Substring(index + 1, 2);
 							index += 4;
@@ -147,12 +147,12 @@ namespace Therm
 							index++;
 						}
 					}
-					else if (input[index].Equals('+'))
+					else if (index + 3 < input.Length && input.Substring(index, 3).Equals(" + "))
 					{
 						elmnts[stuff].search.Replace(" ", "");
 						elmnts.Add(new Element());
 						stuff++;
-						index++;
+						index += 3;
 					}
 					else if (index + 1 < input.Length && input.Substring(index, 2).Equals("->"))
 					{

@@ -50,7 +50,7 @@
 			this.Instructions.Name = "Instructions";
 			this.Instructions.ReadOnly = true;
 			this.Instructions.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
-			this.Instructions.Size = new System.Drawing.Size(940, 572);
+			this.Instructions.Size = new System.Drawing.Size(940, 869);
 			this.Instructions.TabIndex = 1;
 			this.Instructions.Text = resources.GetString("Instructions.Text");
 			// 
@@ -63,7 +63,7 @@
 			this.Controls.Add(this.Instructions);
 			this.Controls.Add(this.HelpImagePicBox);
 			this.MaximumSize = new System.Drawing.Size(986, 9999);
-			this.MinimumSize = new System.Drawing.Size(986, 0);
+			this.MinimumSize = new System.Drawing.Size(986, 39);
 			this.Name = "Help";
 			this.Text = "Help";
 			this.Load += new System.EventHandler(this.Help_Load);

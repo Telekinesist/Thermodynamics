@@ -119,14 +119,33 @@
   </resheader>
   <data name="Instructions.Text" xml:space="preserve">
     <value>		INPUT CHEMICAL FORMULA:
-Main input. Inter your chemical formula.  Use a _ to write subscript numbers, and : to write superscript charches. Write the + og - first, then the number. Don't use -1 or +1. Just - or +.
-Always remember the state of matter. (g), (l), (s) or (aq) to ensure the correct values are found.
-Otherwise the program assumes its the fist one in the list.
+Main input. Enter your chemical formulaHere. 
+Ions need a + or - before their value. Example:
+	Ca+2
+It's reccommended to specify the matter state. Example:
+	H2O(l)
+Write the multitude of a molecule before it. Example:
+	2H2(g)
+Use space around molecule seperating plusses. Always do:
+	2H2(g) + O2(g)
+NEVER:
+	2H2(g)+O2(g)
+Use -&gt; as reaction arrow. Using &lt;- will do calculate the reaction as running from right to left.
+
+The application will try to guess what molecules you are looking for. 
+Keep an eye out on the console below the main window for information about tricky searches.
+
+You can also try typing the molecule name, systematic name, or structural formula, although there is no guarrentee that it will work.
+Also, the names has to be in danish. Example:
+	"4 kulsyre(aq)" is the same as "4 H2CO3(aq)"
+
 
 
 		CONSOLE:
-This displays the work that is done. It also shows the thermodynamic values for the molecules intered.
-Please note that this is not multiplied, meaning that it will display the same value for H_2 as it will for 192H_2.
+This logs important messages, so keep an eye out and make sure that everything here looks OK.
+It will tell you if something is tricky to find, and if there have been made an asumption.
+It will also display a table of all the thermodynamic values that it find. (without the multitude, aka it displays values for H2, not 2H2)
+
 
 
 		THERMODYNAMIC VALUES:
