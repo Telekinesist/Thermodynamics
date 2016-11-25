@@ -88,130 +88,116 @@ namespace Therm
 				{
 					input = "CH_4 + 2O_2-> 2H_2O + CO_2";
 				}
+				else if (input.ToLower().Replace(" ", "").Contains("wat"))
+				{
+					Data.WriteLine(input);
+					input = "2H2(g) + O2(g)-> 2H2O(g)";
+				}
 				//creates the Element objects as well as giving them a searchable string defined by said input
 				/**
-			* Example code for debugging. Burning of methane
-			**/
+				* Example code for debugging. Burning of methane
+				**/
 
 
-				/**elmnts.Add(new Element());
-				elmnts[stuff].search = "<TD>CH<sub>4</sub></TD>";
-				elmnts[stuff].state = "(g";
-				elmnts[stuff].mult = 1;
+					/**elmnts.Add(new Element());
+					elmnts[stuff].search = "<TD>CH<sub>4</sub></TD>";
+					elmnts[stuff].state = "(g";
+					elmnts[stuff].mult = 1;
+
+					elmnts.Add(new Element());
+					stuff++;
+					elmnts[stuff].search = "<TD>O<sub>2</sub></TD>";
+					elmnts[stuff].state = "(g";
+					elmnts[stuff].mult = 2;
+
+					arrowAt = 2;
+
+					elmnts.Add(new Element());
+					stuff++;
+					elmnts[stuff].search = "<TD>H<sub>2</sub>O</TD>";
+					elmnts[stuff].state = "(g";
+					elmnts[stuff].mult = 2;
+
+					elmnts.Add(new Element());
+					stuff++;
+					elmnts[stuff].search = "<TD>CO<sub>2</sub></TD>";
+					elmnts[stuff].state = "(g";
+					elmnts[stuff].mult = 1;*/
+
+
 
 				elmnts.Add(new Element());
-				stuff++;
-				elmnts[stuff].search = "<TD>O<sub>2</sub></TD>";
-				elmnts[stuff].state = "(g";
-				elmnts[stuff].mult = 2;
-
-				arrowAt = 2;
-
-				elmnts.Add(new Element());
-				stuff++;
-				elmnts[stuff].search = "<TD>H<sub>2</sub>O</TD>";
-				elmnts[stuff].state = "(g";
-				elmnts[stuff].mult = 2;
-
-				elmnts.Add(new Element());
-				stuff++;
-				elmnts[stuff].search = "<TD>CO<sub>2</sub></TD>";
-				elmnts[stuff].state = "(g";
-				elmnts[stuff].mult = 1;*/
-
-
-
-				elmnts.Add(new Element());
-				elmnts[stuff].search = "<TD>";
 				while (index < input.Length)
 				{
-					if (Sort.isNum(input[index]))
+					if (input[index].Equals('('))
 					{
-						while (Sort.isNum(input[index]))
+						if (input.Substring(index, 3).Equals("(s)") || input.Substring(index, 3).Equals("(l)") || input.Substring(index, 3).Equals("(g)"))
 						{
-							temp += input[index];
-							index++;
+							elmnts[stuff].state = input.Substring(index + 1, 1);
+							index += 3;
 						}
-
-						elmnts[stuff].mult = double.Parse(temp);
-						temp = "";
-						Data.WriteLine("Got number " + elmnts[stuff].mult);
-					}
-					else if (input[index].Equals(' '))
-					{
-						index++;
-					}
-					else if (input[index].Equals(':'))
-					{
-						index++;
-						while (input[index].Equals('+') || input[index].Equals('-') || Sort.isNum(input[index]))
+						else if (input.Substring(index, 3).Equals("(aq)"))
 						{
-							temp += input[index];
-							index++;
-						}
-						elmnts[stuff].search += "<sup>" + temp + "</sup>";
-						temp = "";
-
-					}
-					else if (input[index].Equals('_'))
-					{
-						index++;
-						while (Sort.isNum(input[index]))
-						{
-							temp += input[index];
-							index++;
-						}
-						elmnts[stuff].search += "<sub>" + temp + "</sub>";
-						temp = "";
-					}
-					else if (input[index].Equals('('))
-					{
-						index++;
-						if (input[index].Equals('g') || input[index].Equals('s') || input[index].Equals('l') || input.Substring(index, 2).Equals("aq"))
-						{
-							temp = "<TD>(";
-							while (!input[index].Equals(')'))
-							{
-								temp += input[index];
-								index++;
-							}
-							elmnts[stuff].state = temp;
-							temp = "";
-							index++;
+							elmnts[stuff].state = input.Substring(index + 1, 2);
+							index += 4;
 						}
 						else
 						{
-							elmnts[stuff].search += '(';
+							elmnts[stuff].search += input[index];
 						}
 					}
 					else if (input[index].Equals('+'))
 					{
+						elmnts[stuff].search.Replace(" ", "");
 						elmnts.Add(new Element());
 						stuff++;
 						index++;
-						elmnts[stuff].search = "<TD>";
 					}
-					else if (index + 2 < input.Length && (input.Substring(index, 2).Equals("->") || input.Substring(index, 2).Equals("<-")))
+					else if (index + 1 < input.Length && input.Substring(index, 2).Equals("->"))
 					{
-						if (input.Substring(index, 2).Equals("<-"))
-						{
-							reverse = true;
-						}
+						arrowAt = elmnts.Count;
+						elmnts[stuff].search.Replace(" ", "");
 						elmnts.Add(new Element());
 						stuff++;
 						index += 2;
-						arrowAt = stuff;
-						elmnts[stuff].search = "<TD>";
-						
+					}
+					else if (index + 1 < input.Length && input.Substring(index, 2).Equals("<-"))
+					{
+						arrowAt = elmnts.Count;
+						elmnts[stuff].search.Replace(" ", "");
+						elmnts.Add(new Element());
+						stuff++;
+						index += 2;
+						reverse = true;
+					}
+					else if (input[index].Equals(' '))
+					{
+						index++;
 					}
 					else
 					{
 						elmnts[stuff].search += input[index];
 						index++;
 					}
-
-					Data.WriteLine("Search for " + elmnts[stuff].search + " " + elmnts[stuff].state);
 				}
+
+				//Takes the multiblication from the search string and moves it to the state string.
+				foreach (Element e in elmnts)
+				{
+					int ind = 0;
+					while (Sort.isNum(e.search[ind]))
+					{
+						temp += e.search[ind];
+						ind++;
+					}
+					if (ind > 0)
+					{
+						e.mult = double.Parse(temp);
+						e.search = e.search.Remove(0, ind);
+						temp = "";
+					}
+				}
+				
 
 				if (reverse)
 				{
@@ -222,12 +208,13 @@ namespace Therm
 				//Searches the data file and stores the relavent data in the Element objects.
 				foreach (Element element in elmnts)
 				{
+					bool found = true;
 					index = 0;
 					while (index < s.Length)
 					{
-						if (s[index].Contains(element.search))
+						if (s[index].Contains("&" + element.search + "&"))
 						{
-							if (s[index + 1].Contains(element.state))
+							if (s[index].Contains(":" + element.state + ":"))
 							{
 								break;
 							}
@@ -242,44 +229,85 @@ namespace Therm
 						}
 					}
 
-
+					//Checks a second time to see if there is an element with unspecified state
 					if (index.Equals(s.Length))
 					{
-						Data.WriteLine("ERROR: Element does not exist. Check your input, or if the molecule is listed in the datasheet");
-						element.notFound = true;
-						break;
+						index = 0;
+						while (index < s.Length)
+						{
+							if (s[index].Contains("&" + element.search + "&"))
+							{
+								if (!(s[index].Contains(":s:") || s[index].Contains(":g:") || s[index].Contains(":l:") || s[index].Contains(":aq:")))
+								{
+									Data.WriteLine("Found molecule " + element.search + " with an unspecified state of matter");
+									break;
+								}
+								else
+								{
+									index++;
+								}
+							}
+							else
+							{
+								index++;
+							}
+						}
+
+						if (index.Equals(s.Length))
+						{
+							Data.WriteLine("ERROR: Element does not exist. Check your input, or if the molecule is listed in the datasheet");
+							element.foundG = element.foundH = element.foundS = false;
+							break;
+						}
 					}
-					//Displays the found result, and skips two lines (the molecule and state)
+
+					//Displays the found result
 					Data.WriteLine(s[index]);
-					Data.WriteLine(s[index + 1]);
-					index += 2;
-
-					//Gets the molar enthalpy
-					temp = s[index];
-					temp = temp.Replace("\t", "").Replace("<TD>", "").Replace("</TD>", "").Replace(".", ",");
-					element.H = double.Parse(temp);
-
-					Data.WriteLine("H=" + element.H);
-					index++;
-
-
-					//Gets the molar entropy
-					temp = s[index];
-					temp = temp.Replace("\t", "").Replace("<TD>", "").Replace("</TD>", "").Replace(".", ",");
-					element.S = double.Parse(temp);
-
-					Data.WriteLine("S=" + element.S);
-					index++;
+					
+					if (found)
+					{
+						index++;
+						//Gets the molar enthalpy
+						temp = s[index];
+						if (temp.Equals('-'))
+						{
+							element.foundH = false;
+							element.H = 0;
+						}
+						else
+						{
+							element.H = double.Parse(temp);
+						}
 
 
-					//Gets the molar gibbs energy
-					temp = s[index];
-					temp = temp.Replace("\t", "").Replace("<TD>", "").Replace("</TD>", "").Replace(".", ",");
-					element.G = double.Parse(temp);
+						//Gets the molar entropy
+						index++;
+						temp = s[index];
+						if (temp.Equals('-'))
+						{
+							element.foundS = false;
+							element.S = 0;
+						}
+						else
+						{
+							element.S = double.Parse(temp);
+						}
 
-					Data.WriteLine("H=" + element.G);
 
+						//Gets the molar gibbs energy
+						index++;
+						temp = s[index];
+						if (temp.Equals('-'))
+						{
+							element.foundG = false;
+							element.G = 0;
+						}
+						else
+						{
+							element.G = double.Parse(temp);
+						}
 
+					}
 					//Does the calculations
 				}
 				elmntsIsNotEmpty = true;
@@ -340,70 +368,28 @@ namespace Therm
 
 			//Δ
 			Data.WriteLine(line);
-			string[] names = input.Replace(":+", ":p").Replace(":-", ":n").Replace("-", "").Replace(" ", "").Split('+', '>');
 			Data.Write("Name:\t");
-			foreach (string nam in names)
+			foreach (Element e in elmnts)
 			{
-				if (nam.Length > 6)
-				{
-					Data.Write("|" + nam + "\t");
-				}
-				else
-				{
-					Data.Write("|" + nam + "\t\t");
-				}
-
+				Data.Write("|" + e.search + "\t\t");
 			}
 			Data.WriteLine();
 			Data.Write("H:\t");
-			foreach (Element element in elmnts)
+			foreach (Element e in elmnts)
 			{
-				if (element.notFound)
-				{
-					Data.Write("Missing!");
-				}
-				else if (element.G.ToString().Length > 8)
-				{
-					Data.Write("|" + element.H + "\t");
-				}
-				else
-				{
-					Data.Write("|" + element.H + "\t\t");
-				}
+				Data.Write("|" + e.H + "\t\t");
 			}
 			Data.WriteLine();
 			Data.Write("G:\t");
-			foreach (Element element in elmnts)
+			foreach (Element e in elmnts)
 			{
-				if (element.notFound)
-				{
-					Data.Write("Missing!");
-				}
-				else if (element.G.ToString().Length > 8)
-				{
-					Data.Write("|" + element.G + "\t");
-				}
-				else
-				{
-					Data.Write("|" + element.G + "\t\t");
-				}
+				Data.Write("|" + e.G + "\t\t");
 			}
 			Data.WriteLine();
 			Data.Write("S:\t");
-			foreach (Element element in elmnts)
+			foreach (Element e in elmnts)
 			{
-				if (element.notFound)
-				{
-					Data.Write("Missing!");
-				}
-				else if (element.G.ToString().Length > 8)
-				{
-					Data.Write("|" + element.S + "\t");
-				}
-				else
-				{
-					Data.Write("|" + element.S + "\t\t");
-				}
+				Data.Write("|" + e.S + "\t\t");
 			}
 
 			//Devided by thousand because the unit needs to be kJ, but is J.

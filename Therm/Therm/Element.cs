@@ -8,11 +8,11 @@ namespace Therm
 {
 	public class Element
 	{
-		public string search;
-		public string state = "(";
+		public string search = "";
+		public string state = "";
 		public double mult = 1;
 		public double H, S, G;
-		public bool notFound = false;
+		public bool foundH = true, foundS = true, foundG = true;
 		public Element()
 		{
 

@@ -26,35 +26,36 @@ namespace Therm
 			{
 				if (i <= arrowAt - 1)
 				{
-					if (Elelemts[i].state.Contains("aq"))
+					if (Elelemts[i].state.Contains(":aq:"))
 					{
 						MB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains("g"))
+					else if (Elelemts[i].state.Contains(":g:"))
 					{
 						PB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains("l"))
+					else if (Elelemts[i].state.Contains(":l:"))
 					{
 						LB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 				}
 				else
 				{
-					if (Elelemts[i].state.Contains("aq"))
+					if (Elelemts[i].state.Contains(":aq:"))
 					{
 						MA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains("g"))
+					else if (Elelemts[i].state.Contains(":g:"))
 					{
 						PA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains("l"))
+					else if (Elelemts[i].state.Contains(":l:"))
 					{
 						LA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 				}
 			}
+			
 
 
 			//Removes units devided by themselfs
@@ -151,7 +152,6 @@ namespace Therm
 			}
 
 
-
 			//Displays a one in the numerator if the numerator is otherwise empty while the denominator is not
 			//Also checks if the string is empty, and turns it into a space. Used to be replaced by " * " and will prevent crash when removing the last three letters
 			if (A.Length < 1)
@@ -170,7 +170,6 @@ namespace Therm
 			{
 				B = " ";
 			}
-
 
 			//Print values
 			A = A.Replace(" ", " * ");

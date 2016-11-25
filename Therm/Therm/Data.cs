@@ -32,6 +32,7 @@ namespace Therm
 			Data.WriteLine("\tRemember to check no values are noted as MISSING");
 			Data.WriteLine("\n\tSyntax example burning of hydrogen:");
 			Data.WriteLine("\t2H_2(g) + O_2(g) -> 2H_2O(g) ");
+			Data.WriteLine("\t2H2(g) + O2(g) -> 2H2O(g)");
 			Data.WriteLine(line + "\n");
 		}
 	}
