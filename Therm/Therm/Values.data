@@ -93,7 +93,7 @@
 &(Z)--9(Z)--12(Z)--15octadecatriensyre&		&C18H30O2&	:unsp:
 -
 -
--	
+-
 &(Z)--9(Z)--12octadecadiensyre&		&C18H32O2&	:unsp:
 -
 -
@@ -837,7 +837,7 @@
 &-4chlorphenol&	&C6H5ClO&	:s:
 -197,90
 -
--	
+-
 &-4hydroxyprolin Hyp&		&C5H9NO3&	:s:	
 -661,47
 -
@@ -1358,7 +1358,7 @@
 &D,L-campher&	&C10H16O&	:unsp:
 -
 -
--	
+-
 &D,L-leucin&		&C6H13NO2&	:s:	
 -649,78
 207,11
@@ -1369,7 +1369,7 @@
 &D,L-nicotin&	&C10H14N2&	:l:
 39,33
 -
--	
+-
 &D,L-valin&		&C5H11NO2&	:s:	
 -617,98
 178,87	C5H10O4	C5H10O4	
@@ -2778,7 +2778,7 @@ g:
 &aluminiumsulfat octadecahydrat&	&Al2(SO4)3*18H2O&	:unsp:
 -
 -
--	
+-
 &ammoniak E527&	&NH3&	:g:	
 -46,11
 192,4
@@ -2790,7 +2790,7 @@ g:
 &ammoniumcarbonat monohydrat E503&	&(NH4)2CO3* H2O&	:unsp:
 -
 -
--	
+-
 &ammoniumchlorid (salmiak) E510&	&NH4Cl&	:s:	
 -314,43
 94,6
@@ -2798,15 +2798,15 @@ g:
 &ammoniumchromat&	&(NH4)2CrO4&	:unsp:
 -
 -
--	
+-
 &ammoniumdichromat&	&(NH4)2Cr2O7&	:unsp:
 -
 -
--	
+-
 &ammoniumhydrogencarbonat E503&	&NH4HCO3&	:unsp:
 -
 -
--	
+-
 &ammoniumhydrogensulfat&	&NH4HSO4&	:s:	
 -1027,0
 -
@@ -2822,15 +2822,15 @@ g:
 &ammoniumjern(II)sulfat hexahydrat&	&(NH4)2Fe(SO4)26H2O&	:unsp:
 -
 -
--	
+-
 &ammoniumjern(III)sulfat dodecahydrat&	&NH4Fe(SO4)2* 12H2O&	:unsp:
 -
 -
--	
+-
 &ammoniummolybdat&	&(NH4)2MoO4&	:unsp:
 -
 -
--	
+-
 &ammoniumnitrat&	&NH4NO3&	:s:	
 -365,6
 151,1
@@ -2842,11 +2842,11 @@ g:
 &ammoniumparamolybdat tetrahydrat&	&(NH4)6Mo7O24*4H2O&	:unsp:
 -
 -
--	
+-
 &ammoniumperoxodisulfat&	&(NH4)2S2O8&	:unsp:
 -
 -
--	
+-
 &ammoniumsulfat&	&(NH4)2SO4&	:s:	
 -1180,9
 220,1
@@ -2858,7 +2858,7 @@ g:
 &ammoniumvanadat&	&NH4VO3&	:unsp:
 -
 -
--	
+-
 &antimon&	&Sb&	:s:	
 0
 45,7
@@ -2894,7 +2894,7 @@ g:
 &antimon(V)sulfid&	&Sb2S5&	:unsp:
 -
 -
--	
+-
 &antimonsyre (ortho)&	&H3SbO4&	:s:	
 -907,1
 -
@@ -3058,7 +3058,7 @@ g:
 &bismuthsyre&	&HBiO3&	:unsp:
 -
 -
--	
+-
 &bly&	&Pb&	:s:	
 0
 64,89
@@ -3214,7 +3214,7 @@ g:
 &buckminsterfulleren&	&C60&	:unsp:
 -
 -
--	
+-
 &cadmium&	&Cd g&	:s:	
 0
 51,76
@@ -3374,7 +3374,7 @@ g:
 &calciumpalmitat&	&(C15H31COO)2Ca&	:unsp:
 -
 -
--	
+-
 &calciumperoxid&	&CaO2&	:s:	
 -652,7
 -
@@ -3478,7 +3478,7 @@ g:
 &cerium(IV)nitrat, basisk trihydrat&	&Ce(OH)(NO3)3*3H2O&	:unsp:
 -
 -
--	
+-
 &cerium(IV)sulfat&	&Ce(SO4)2&	:s:	
 -2343
 -
@@ -3510,7 +3510,7 @@ g:
 &chlorsulfonsyre&	&ClSO3H&	:unsp:
 -
 -
--	
+-
 &chlorsyre&	&HClO3&	:aq:	
 -99,2
 162,3
@@ -3550,7 +3550,7 @@ g:
 &chrom(III)chlorid hexahydrat&	&CrCl3*6H2O&	:unsp:
 -
 -
--	
+-
 &chrom(III)ion&	&Cr+3&	:aq:	
 -251
 -293
@@ -3766,7 +3766,7 @@ g:
 &dimethylglyoximnikkel (II)&	&Ni(C4H7N2O2)2&	:unsp:
 -
 -
--	
+-
 &dinitrogen&	&N2&	:g:	
 0
 191,61
@@ -3810,11 +3810,11 @@ g:
 &EDTA, Na-salt dihydrat&	&Na2H2C10H12O8N2* 2H2O&	:unsp:
 -
 -
--	
+-
 &ferrocen&	&Fe(C5H5)2&	:unsp:
 -
 -
--	
+-
 &fluor&	&F&	:g:	
 78,91
 158,64
@@ -3878,7 +3878,7 @@ g:
 &hexacarbonylvanadium&	&V(CO)6&	:unsp:
 -
 -
--	
+-
 &hexachloroplatinat (IV)&	&PtCl-62&	:aq:	
 -668,2
 219,7
@@ -3898,7 +3898,7 @@ g:
 &hydrazoniumdichlorid&	&ClNH-3NH3Cl&	:unsp:
 -
 -
--	
+-
 &hydrazoniumion&	&NH2NH+3&	:aq:	
 -7,5
 150
@@ -3906,7 +3906,7 @@ g:
 &hydrazoniumsulfat&	&(NH3NH3)SO4&	:unsp:
 -
 -
--	
+-
 &hydridion&	&H-&	:aq:	
 -
 -
@@ -4028,7 +4028,7 @@ g:
 &hydroxylammoniumsulfat&	&(NH3OH)2SO4&	:unsp:
 -
 -
--	
+-
 &hypobromition&	&BrO-&	:ap:	
 -94,1
 42,0
@@ -4160,7 +4160,7 @@ g:
 &jern(III)sulfid&	&Fe2S3&	:unsp:
 -
 -
--	
+-
 &jerncarbid (cementit)&	&Fe3C&	:s:	
 25,1
 104,6
@@ -4194,7 +4194,7 @@ g:
 &kaliumcarbonat dihydrat&	&K2CO3*2H2O&	:unsp:
 -
 -
--	
+-
 &kaliumchlorat&	&KClO3&	:s:	
 -391,2
 143,0
@@ -4242,7 +4242,7 @@ g:
 &kaliumhexanitritocobaltat sesquihydrat&	&K3Co(NO2)6*1,5H2O&	:unsp:
 -
 -
--	
+-
 &kaliumhydrid&	&KH&	:s:	
 57,7
 50,2
@@ -4258,7 +4258,7 @@ g:
 &kaliumhydrogenphtalat&	&HOOC-C6H-4COOK&	:unsp:
 -
 -
--	
+-
 &kaliumhydroxid E525&	&KOH&	:s:	
 -425,9
 79,5
@@ -4282,11 +4282,11 @@ g:
 &kaliummanganat&	&K2MnO4&	:unsp:
 -
 -
--	
+-
 &kaliumnatriumtartrat tetrahydrat&	&KNaC4H4O6*4H2O&	:unsp:
 -
 -
--	
+-
 &kaliumnitrat E252&	&KNO3&	:s:	
 -492,7
 132,9
@@ -4574,7 +4574,7 @@ g:
 &magnesiumcarbonat basisk, trihydrat&	&Mg2(CO3)(OH)2*3H2O&	:unsp:
 -
 -
--	
+-
 &magnesiumchlorid E511&	&MgCl2&	:s:	
 -641,30
 89,59
@@ -4676,7 +4676,9 @@ g:
 155,6
 -1283,2
 &mangan(III)ion&	&Mn+3&	:aq:	
--113	-		-83
+-113
+-
+-83
 &mangan(III)oxid&	&Mn2O3&	:s:	
 -959,0
 110,5
@@ -4696,7 +4698,7 @@ g:
 &metaphosphorsyre&	&(HPO3)n&	:unsp:
 -
 -
--	
+-
 &molybdation&	&MoO-42&	:aq:	
 -997,0
 38
@@ -4802,7 +4804,7 @@ g:
 &natriumdihydrogenarsenat monohydrat&	&NaH2AsO4*H2O&	:unsp:
 -
 -
--	
+-
 &natriumdihydrogenphosphat monohydrat&	&NaH2PO4*H2O&	:s:	
 -2344
 -
@@ -4830,11 +4832,11 @@ g:
 &natriumhexametaphosphat&	&(NaPO3)6&	:unsp:
 -
 -
--	
+-
 &natriumhexanitrocobaltat&	&Na3Co(NO2)6&	:unsp:
 -
 -
--	
+-
 &natriumhydrid&	&NaH&	:s:	
 -56,44
 40,02
@@ -4842,7 +4844,7 @@ g:
 &natriumhydrogenarsenat heptahydrat&	&Na2HAsO4*7H2O&	:unsp:
 -
 -
--	
+-
 &natriumhydrogencarbonat E500&	&NaHCO3&	:s:	
 -947,7
 102,1
@@ -4854,7 +4856,7 @@ g:
 &natriumhydrogenphosphat dihydrat&	&Na2HPO4*2H2O&	:unsp:
 -
 -
--	
+-
 &natriumhydrogensulfat&	&NaHSO4&	:s:	
 -1126,3
 113,0
@@ -4866,7 +4868,7 @@ g:
 &natriumhydrogensulfit E222&	&NaHSO3&	:unsp:
 -
 -
--	
+-
 &natriumhydroxid E524&	&NaOH&	:s:	
 -427,77
 64,18
@@ -4874,7 +4876,7 @@ g:
 &natriumhypochlorit hydrat&	&NaClO*2½H2O&	:unsp:
 -
 -
--	
+-
 &natriumiodat&	&NaIO3&	:s:	
 -481,8
 135,1
@@ -4914,7 +4916,7 @@ g:
 &natriumoleat&	&C17H33COONa&	:unsp:
 -
 -
--	
+-
 &natriumoxalat&	&C2O4Na2&	:s:	
 -1315,0
 155
@@ -4926,11 +4928,11 @@ g:
 &natriumparamolybdat hydrat&	&Na6Mo7O24*22H2O&	:unsp:
 -
 -
--	
+-
 &natriumperborat trihydrat&	&NaBO2*H2O2*3H2O&	:unsp:
 -
 -
--	
+-
 &natriumperchlorat&	&NaClO4&	:s:	
 -382,75
 142,3
@@ -4942,7 +4944,7 @@ g:
 &natriumperoxodisulfat&	&Na2S2O8&	:unsp:
 -
 -
--	
+-
 &natriumphosphat dodecahydrat E339&	&Na3PO4*12H2O&	:s:	
 -5477
 -
@@ -4950,7 +4952,7 @@ g:
 &natriumpyrosulfit (-disulfit)&	&Na2S2O5&	:unsp:
 -
 -
--	
+-
 &natriumsilikat&	&Na2SiO3&	:s:	
 -1561,4
 113,8
@@ -4958,7 +4960,7 @@ g:
 &natriumstearat&	&C17H35COONa&	:unsp:
 -
 -
--	
+-
 &natriumsulfat decahydrat&	&Na2SO4*10H2O&	:s:	
 -4327,3
 592,0
@@ -4982,7 +4984,7 @@ g:
 &natriumtetrathioantimonat nonahydrat&	&Na3SbS4*9HO&	:unsp:
 -
 -
--	
+-
 &natriumthiosulfat&	&Na2S2O3&	:s:	
 -1117,1
 155,0
@@ -4998,7 +5000,7 @@ g:
 &natriumtriphosphat&	&Na5P3O10&	:unsp:
 -
 -
--	
+-
 &natriumwolframat-dihydrat&	&NaW2O4* 2H2O&	:s:	
 -1544,7
 160,3
@@ -5014,7 +5016,7 @@ g:
 &nikkel(II)carbonat basisk tetrahydrat&	&2NiCO3* 3Ni(OH)2* 4H2O&	:unsp:
 -
 -
--	
+-
 &nikkel(II)chlorid&	&NiCl2&	:s:	
 -316
 107
@@ -5184,7 +5186,7 @@ g:
 &polyphosphorsyre&	&nH3PO4 - (n-1) H2O&	:unsp:
 -
 -
--	
+-
 &rubidium&	&Rb&	:s:	
 0
 69,5
@@ -5272,7 +5274,7 @@ g:
 &strontiumchromat&	&SrCrO4&	:unsp:
 -
 -
--	
+-
 &strontiumhydroxid&	&Sr(OH)2&	:s:	
 -959,0
 88,0
@@ -5304,7 +5306,7 @@ g:
 &sulfamidsyre&	&H2NSO3H&	:unsp:
 -
 -
--	
+-
 &sulfation&	&SO-42&	:aq:	
 -909,27
 20,1
@@ -5480,7 +5482,7 @@ g:
 &thorium(IV)nitrat dodecahydrat&	&Th(NO3)4*12H2O&	:unsp:
 -
 -
--	
+-
 &thorium(IV)nitrat pentahydrat&	&Th(NO3)5*5H2O&	:s:	
 -3007,9
 543,1
@@ -5512,7 +5514,7 @@ g:
 &tin(II)nitrat icosahydrat&	&Sn(NO3)2*20HO&	:unsp:
 -
 -
--	
+-
 &tin(II)oxid&	&SnO&	:s:	
 -286
 56,6
@@ -5657,7 +5659,7 @@ g:
 -285,83
 69,91
 -237,13
-&vanddamp&	&H2O&	:g:	
+&vanddamp&	&H2O&	:g:
 -241,82
 188,83
 -228,54
@@ -5764,7 +5766,7 @@ g:
 &zirkonium(IV)nitrat pentahydrat&	&Zr(NO3)4*5H2O&	:unsp:
 -
 -
--	
+-
 &zirkonium(IV)oxid&	&ZrO2&	:s:	
 -1097,5
 50,4

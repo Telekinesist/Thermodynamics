@@ -24,32 +24,32 @@ namespace Therm
 
 			for (int i = 0; i < Elelemts.Count; i++)
 			{
-				if (i <= arrowAt - 1)
+				if (i < arrowAt)
 				{
-					if (Elelemts[i].state.Contains(":aq:"))
+					if (Elelemts[i].state.Contains("aq"))
 					{
 						MB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains(":g:"))
+					else if (Elelemts[i].state.Contains("g"))
 					{
 						PB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains(":l:"))
+					else if (Elelemts[i].state.Contains("l"))
 					{
 						LB += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
 				}
 				else
 				{
-					if (Elelemts[i].state.Contains(":aq:"))
+					if (Elelemts[i].state.Contains("aq"))
 					{
 						MA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains(":g:"))
+					else if (Elelemts[i].state.Contains("g"))
 					{
 						PA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}
-					else if (Elelemts[i].state.Contains(":l:"))
+					else if (Elelemts[i].state.Contains("l"))
 					{
 						LA += int.Parse(Math.Round(Elelemts[i].mult).ToString());
 					}

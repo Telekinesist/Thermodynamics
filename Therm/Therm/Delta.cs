@@ -84,9 +84,9 @@ namespace Therm
 			}
 			else
 			{
-				if (input.ToLower().Equals("meth"))
+				if (input.ToLower().Equals("help"))
 				{
-					input = "CH_4 + 2O_2-> 2H_2O + CO_2";
+					Data.showInstructions();
 				}
 				else if (input.ToLower().Replace(" ", "").Contains("wat"))
 				{
@@ -136,7 +136,7 @@ namespace Therm
 							elmnts[stuff].state = input.Substring(index + 1, 1);
 							index += 3;
 						}
-						else if (input.Substring(index, 3).Equals("(aq)"))
+						else if (input.Substring(index, 4).Equals("(aq)"))
 						{
 							elmnts[stuff].state = input.Substring(index + 1, 2);
 							index += 4;
@@ -144,6 +144,7 @@ namespace Therm
 						else
 						{
 							elmnts[stuff].search += input[index];
+							index++;
 						}
 					}
 					else if (input[index].Equals('+'))
@@ -216,6 +217,7 @@ namespace Therm
 						{
 							if (s[index].Contains(":" + element.state + ":"))
 							{
+								Data.WriteLine("Found molecule " + s[index]);
 								break;
 							}
 							else
@@ -237,15 +239,31 @@ namespace Therm
 						{
 							if (s[index].Contains("&" + element.search + "&"))
 							{
-								if (!(s[index].Contains(":s:") || s[index].Contains(":g:") || s[index].Contains(":l:") || s[index].Contains(":aq:")))
+								if (s[index].Contains(":aq:"))
 								{
-									Data.WriteLine("Found molecule " + element.search + " with an unspecified state of matter");
-									break;
+									element.state = "aq";
+									Data.WriteLine("Found " + element.search + ". Assuming " + element.search + "'s state of matter to be " + element.state);
+								}
+								else if (s[index].Contains(":g:"))
+								{
+									element.state = "g";
+									Data.WriteLine("Found " + element.search + ". Assuming " + element.search + "'s state of matter to be " + element.state);
+								}
+								else if (s[index].Contains(":l:"))
+								{
+									element.state = "l";
+									Data.WriteLine("Found " + element.search + ". Assuming " + element.search + "'s state of matter to be " + element.state);
+								}
+								else if (s[index].Contains(":s:"))
+								{
+									element.state = "s";
+									Data.WriteLine("Found " + element.search + ". Assuming " + element.search + "'s state of matter to be " + element.state);
 								}
 								else
 								{
-									index++;
+									Data.WriteLine("Found unspecified state of matter for " + element.search);
 								}
+								break;
 							}
 							else
 							{
@@ -255,21 +273,88 @@ namespace Therm
 
 						if (index.Equals(s.Length))
 						{
-							Data.WriteLine("ERROR: Element does not exist. Check your input, or if the molecule is listed in the datasheet");
-							element.foundG = element.foundH = element.foundS = false;
-							break;
+							//Trying to guess
+							index = 0;
+							while (index < s.Length)
+							{
+								index = 0;
+								while (index < s.Length)
+								{
+									if (s[index].Contains(element.search))
+									{
+										if (s[index].Contains(":" + element.state + ":"))
+										{
+											Data.WriteLine("Assuming " + element.search + " to be " + s[index]);
+											break;
+										}
+										else
+										{
+											index++;
+										}
+									}
+									else
+									{
+										index++;
+									}
+								}
+							}
+
+							if (index.Equals(s.Length))
+							{
+								//One last try by guessing
+								index = 0;
+								while (index < s.Length)
+								{
+									if (s[index].Contains(element.search))
+									{
+										if (s[index].Contains(":aq:"))
+										{
+											element.state = "aq";
+											Data.WriteLine("Assuming " + element.search + " to be " + s[index] + " with the matter state " + element.state);
+										}
+										else if (s[index].Contains(":g:"))
+										{
+											element.state = "g";
+											Data.WriteLine("Assuming " + element.search + " to be " + s[index] + " with the matter state " + element.state);
+										}
+										else if (s[index].Contains(":l:"))
+										{
+											element.state = "l";
+											Data.WriteLine("Assuming " + element.search + " to be " + s[index] + " with the matter state " + element.state);
+										}
+										else if (s[index].Contains(":s:"))
+										{
+											element.state = "s";
+											Data.WriteLine("Assuming " + element.search + " to be " + s[index] + " with the matter state " + element.state);
+										}
+										else
+										{
+											Data.WriteLine("Assuming " + element.search + "  to be " + s[index] + " Found with unspecified state of matter");
+										}
+										break;
+									}
+									else
+									{
+										index++;
+									}
+								}
+
+								if (index.Equals(s.Length))
+								{
+									Data.WriteLine("ERROR: Element " + element.search + " does not exist. Check your input, or see if the molecule is listed in the datasheet");
+									element.foundG = element.foundH = element.foundS = found = false;
+									break;
+								}
+							}
 						}
 					}
-
-					//Displays the found result
-					Data.WriteLine(s[index]);
 					
 					if (found)
 					{
 						index++;
 						//Gets the molar enthalpy
 						temp = s[index];
-						if (temp.Equals('-'))
+						if (temp.Equals("-"))
 						{
 							element.foundH = false;
 							element.H = 0;
@@ -283,7 +368,7 @@ namespace Therm
 						//Gets the molar entropy
 						index++;
 						temp = s[index];
-						if (temp.Equals('-'))
+						if (temp.Equals("-"))
 						{
 							element.foundS = false;
 							element.S = 0;
@@ -297,7 +382,7 @@ namespace Therm
 						//Gets the molar gibbs energy
 						index++;
 						temp = s[index];
-						if (temp.Equals('-'))
+						if (temp.Equals("-"))
 						{
 							element.foundG = false;
 							element.G = 0;
@@ -324,16 +409,13 @@ namespace Therm
 			reacSum = prodSum = 0;
 			for (int q = elmnts.Count - 1; q >= 0; q--)
 			{
-				Data.WriteLine("Element " + q + " " + elmnts[q].H + " " + elmnts[q].G + " " + elmnts[q].S);
 				if (q<arrowAt)
 				{
 					reacSum += elmnts[q].H* elmnts[q].mult;
-					Data.WriteLine("r" + reacSum);
 				}
 				else
 				{
 					prodSum += elmnts[q].H* elmnts[q].mult;
-					Data.WriteLine("p" + prodSum);
 				}
 			}
 			deltH = prodSum - reacSum;
@@ -377,19 +459,40 @@ namespace Therm
 			Data.Write("H:\t");
 			foreach (Element e in elmnts)
 			{
-				Data.Write("|" + e.H + "\t\t");
+				if (e.foundH)
+				{
+					Data.Write("|" + e.H + "\t\t");
+				}
+				else
+				{
+					Data.Write("|MISSING!");
+				}
 			}
 			Data.WriteLine();
 			Data.Write("G:\t");
 			foreach (Element e in elmnts)
 			{
-				Data.Write("|" + e.G + "\t\t");
+				if (e.foundG)
+				{
+					Data.Write("|" + e.G + "\t\t");
+				}
+				else
+				{
+					Data.Write("|MISSING!");
+				}
 			}
 			Data.WriteLine();
 			Data.Write("S:\t");
 			foreach (Element e in elmnts)
 			{
-				Data.Write("|" + e.S + "\t\t");
+				if (e.foundS)
+				{
+					Data.Write("|" + e.S + "\t\t");
+				}
+				else
+				{
+					Data.Write("|MISSING!");
+				}
 			}
 
 			//Devided by thousand because the unit needs to be kJ, but is J.
